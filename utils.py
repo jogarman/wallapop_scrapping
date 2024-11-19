@@ -22,10 +22,10 @@ xx en mi caso es 16
 def is_iphone_xx(name, xx, cadenas_buscadas, cadenas_excluyentes):
     name_splited = name.split(" ")
     if (name_splited[0] in ("movil", "móvil", "iphone", "smartphone")): # si empieza por "movil" o similar es mucho menos restrictivo.
-        if ((xx in name_splited) and ('4' not in name_splited) and ('5' not in name_splited)): # para evitar que casos como 'iphone 4 16 gb azul'
+        if ((xx in name_splited) and ('4' not in name_splited) and ('5' not in name_splited) 
+            and ('6' not in name_splited)): # para evitar que casos como 'iphone 4 16 gb azul'
             return True
         else:
-            
             return False
     else:
         return existe_cadena(name, cadenas_buscadas, cadenas_excluyentes) # llama a ua funcion mas restrictiva
