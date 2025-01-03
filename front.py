@@ -62,7 +62,7 @@ def create_item_window(item_num, container):
     tk.Checkbutton(frame, text="as_good_as_new", variable=state_var2).pack(anchor=tk.W)
     tk.Checkbutton(frame, text="good", variable=state_var3).pack(anchor=tk.W)
 
-    tk.Label(frame, text="Distancia km:").pack(anchor=tk.W)
+    tk.Label(frame, text="Distancia km: (2000 para todo españa)").pack(anchor=tk.W)
     distance_entry = tk.Entry(frame)
     distance_entry.insert(0, "60")
     distance_entry.pack()
@@ -131,6 +131,7 @@ def on_search_button_click():
 
 
 def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo):
+    print("def run_wallascrap...")
     python_executable = os.path.join('.env', 'Scripts', 'python.exe')
     command = [
         python_executable, '01_wallascrap.py',
@@ -140,11 +141,18 @@ def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo):
         '--distancia', str(distancia),
         '--precio_minimo', str(precio_minimo)
     ]
+    print("command: ", command)
     result = subprocess.run(command, capture_output=True, text=True)
     # Mostrar la salida en el widget de texto
     print(result.stdout)
     if result.stderr:
         print(result.stderr)
+
+# Creo archivo con el output
+
+import sys
+import os
+from datetime import datetime
 
 # Crear ventana principal
 root = tk.Tk()
@@ -167,10 +175,11 @@ search_button.config(state=tk.DISABLED)
 
 item_data = []
 
+"""
 # Añadir el cuadro de texto para la salida
 output_text = tk.Text(root, wrap='word', state='disabled', height=10, width=50)
 output_text.pack(pady=10)
 # Redirigir sys.stdout a nuestro cuadro de texto
 sys.stdout = RedirectText(output_text)
-
+"""
 root.mainloop()

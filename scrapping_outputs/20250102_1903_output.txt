@@ -1,0 +1,26 @@
+Wallascrapeando item: 1
+SearchItem(item_name='"gopro 11"', municipio='Madrid', estado='as_good_as_new', distancia='60', precio_minimo='120')
+def run_wallascrap...
+command:  ['.env\\Scripts\\python.exe', '01_wallascrap.py', '--item_name', 'gopro 11', '--municipio', 'Madrid', '--estado', 'as_good_as_new', '--distancia', '60', '--precio_minimo', '120']
+
+Traceback (most recent call last):
+  File "C:\Users\ACER\Desktop\Proyectos python\wallapop_scrapping\01_wallascrap.py", line 35, in <module>
+    stdoutput_to_output_txt()
+  File "C:\Users\ACER\Desktop\Proyectos python\wallapop_scrapping\utils.py", line 108, in stdoutput_to_output_txt
+    if not os.path.exists(output_folder):
+           ^^
+NameError: name 'os' is not defined
+
+Wallascrapeando item: 1
+SearchItem(item_name='"gopro 11"', municipio='Madrid', estado='as_good_as_new', distancia='60', precio_minimo='120')
+def run_wallascrap...
+command:  ['.env\\Scripts\\python.exe', '01_wallascrap.py', '--item_name', 'gopro 11', '--municipio', 'Madrid', '--estado', 'as_good_as_new', '--distancia', '60', '--precio_minimo', '120']
+
+Traceback (most recent call last):
+  File "C:\Users\ACER\Desktop\Proyectos python\wallapop_scrapping\01_wallascrap.py", line 35, in <module>
+    stdoutput_to_output_txt()
+  File "C:\Users\ACER\Desktop\Proyectos python\wallapop_scrapping\utils.py", line 108, in stdoutput_to_output_txt
+    if not os.path.exists(output_folder):
+           ^^
+NameError: name 'os' is not defined
+

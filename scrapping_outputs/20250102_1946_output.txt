@@ -1,0 +1,91 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2013&longitude=-3.69196&latitude=40.41956&distance=2000000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/582 ## excluido   ##  baterías gopro enduro
+1/582 ## excluido   ##  batería de enduro go pro hero 10
+2/582 ++ guardado   ++ gopro hero 13 black
+3/582 ## excluido   ##  mando control the remote gopro
+4/582 ## excluido   ##  cámara gopro hero 10 black 
+5/582 ++ guardado   ++ gopro hero 13 y filtros nd hb originales
+6/582 ## excluido   ##  gopro hero 9
+7/582 ## excluido   ##  gopro hero 10 black 
+8/582 ++ guardado   ++ gopro hero 13 black 
+9/582 ## excluido   ##  accesorios para gopro hero13 + 50 
+10/582 ## excluido   ##  maletin para gopro 4 5 6 7 8 9 11 12 13
+11/582 ++ guardado   ++ gopro hero 13 con accesorios
+12/582 ## excluido   ##  estuche maletín funda rigida gopro
+13/582 ## excluido   ##  estuche maletín de transporte gopro original
+14/582 ## excluido   ##  light mod gopro - módulo de iluminación
+15/582 ## excluido   ##  2 baterías gopro enduro+cargador doble
+16/582 ## excluido   ##  gopro 10 black nueva (2 baterías)
+17/582 ## excluido   ##  módulo de lente gopro max lens mod 2.0
+18/582 ++ guardado   ++ gopro hero 13 
+19/582 ## excluido   ##  empuñadura palo flotante handler
+gopro
+20/582 ## excluido   ##  funda naranja gopro
+21/582 ## excluido   ##  hohem gimbal gopro 
+22/582 ++ guardado   ++ gopro hero 13 
+23/582 ## excluido   ##  funda protectora para gopro 9/10/11/12/13
+24/582 ++ guardado   ++ go pro hero 13 black bundle + utra wide lens
+25/582 ## excluido   ##  case protector para gopro 13,12,11,10 y 9
+26/582 ## excluido   ##  gopro hero 12 black
+27/582 ## excluido   ##  gopro hero 12 naked
+28/582 --precio bajo --  44,00 dome gopro 9, 10, 11, 12, 13
+29/582 ## excluido   ##  grill mount gopro
+30/582 ## excluido   ##  cargador + bateria original nueva gopro
+31/582 ## excluido   ##  control remoto para cámaras gopro + 2 soportes 
+32/582 ## excluido   ##  empuñadura flotante gopro
+33/582 ## excluido   ##  casco alk13
+34/582 --precio bajo --  0,00 cambio 2 gopro hero 9 black x gopro hero 13 black
+35/582 ## excluido   ##  go pro hero 5
+36/582 ## excluido   ##  hohem isteady pro 2
+37/582 ## excluido   ##  insta 360 one r twin edition
+38/582 ## excluido   ##  estabilizador hohem isteady pro 4
+39/582 ## excluido   ##  hohem isteady pro 4 estabilizador gimbal#131681
+40/582 ## excluido   ##  sony rx0 
+41/582 ## excluido   ##  camara ultracompacta gopro hero13 black
+42/582 ## excluido   ##  palo selfie flexible
+43/582 ## excluido   ##  paddle surf de velocidad virtufit racer 381
+44/582 ## excluido   ##  gimbal/estabilizador  feiyutech feiyu scorp mini 2
+45/582 ## excluido   ##  lente gopro max lens mod 2.0
+46/582 ## excluido   ##  mochila fotografía neewer  base niveladora
+47/582 ## excluido   ##  anxre palo selfie 2024 trípode mejorado 
+48/582 ## excluido   ##  anxre palo selfie tripode
+49/582 ## excluido   ##  gimbal g6max
+50/582 ## excluido   ##  go pro 9 black 
+51/582 ## excluido   ##  bicicleta eléctrica de montaña 
+52/582 ## excluido   ##  bicicleta 
+53/582 ## excluido   ##  gimbal zhiyun smooth 4
+54/582 ## excluido   ##  cámara gopro 11 con kit media 
+55/582 ## excluido   ##  ¡¡gopro hero 7 negra súper equipada!! ocasión
+56/582 ## excluido   ##  estabilizador steadicam steadycam smoother gopro
+           id  ...                                                url
+0  1084252114  ...  https://es.wallapop.com/item/gopro-hero-13-bla...
+1  1083278794  ...  https://es.wallapop.com/item/gopro-hero-13-y-f...
+2  1084353990  ...  https://es.wallapop.com/item/gopro-hero-13-bla...
+3  1076466194  ...  https://es.wallapop.com/item/gopro-hero-13-107...
+4  1073735813  ...  https://es.wallapop.com/item/gopro-hero-13-107...
+5  1072747737  ...  https://es.wallapop.com/item/gopro-hero-13-107...
+6  1078745958  ...  https://es.wallapop.com/item/go-pro-hero-13-bl...
+
+[7 rows x 6 columns]
+20250102
+gopro 13
+as_good_as_new
+csv guardado

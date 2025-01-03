@@ -1,0 +1,158 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2011&longitude=-3.69196&latitude=40.41956&distance=2000000&condition=new
+click: boton_ver_mas
+del df error
+Roll 1
+Roll 2
+Roll 3
+Roll 4
+Roll 5
+Roll 6
+Roll 7
+Roll 8
+Roll 9
+Roll 10
+Roll 11
+Roll 12
+Roll 13
+Roll 14
+Roll 15
+es_precio_ok...
+Extrayendo y añadiendo los datos...
+0/537 ++ guardado   ++ nueva gopro hero 11 negra
+1/537 ## excluido   ##  batería de enduro gopro 
+2/537 ## excluido   ##  funda silicona gopro 9 10 11 12
+3/537 ++ guardado   ++ gopro blak 11
+4/537 ## excluido   ##  cargador doble y 3 baterias original gopro
+5/537 ## excluido   ##  bateria gopro enduro nueva
+6/537 ## excluido   ##  funda + film protector gopro 9 10 11 12
+7/537 ## excluido   ##  funda impermeable + base gopro 9 10 11 12
+8/537 ## excluido   ##  carcasa y filtros para gopro hero 9/10/11/12
+9/537 ## excluido   ##  funda para gopro 
+10/537 ## excluido   ##  kit gopro insta360, arnés, correas y diadema
+11/537 ++ guardado   ++ go pro 11 como nueva
+12/537 ++ guardado   ++ go pro 11 2 baterias extra y tripode y soporte mo
+13/537 ++ guardado   ++ gopro hero 11 black
+14/537 ++ guardado   ++ gopro hero 11 black
+15/537 ## excluido   ##  kit palo selfie gopro insta 360 moto bici quad 
+16/537 --precio bajo --  19,00 gopro hero 10, 11, 12 batería enduro - nuevas
+17/537 ++ guardado   ++ gopro hero 11 black nueva
+18/537 ## excluido   ##  baterías de enduro gopro hero 9-10-11-12
+19/537 ++ guardado   ++ gopro hero negra 11
+20/537 ## excluido   ##  gopro hero 9. nueva
+21/537 ++ guardado   ++ gopro hero 11 black
+22/537 ## excluido   ##  carcasa gopro 12/11/10/9 funda protector 
+23/537 ## excluido   ##  kit palo selfie gopro insta 360 moto 
+24/537 ## excluido   ##  ⚠️gopro hero 12 naked nueva
+25/537 ## excluido   ##  gopro cargador de batería dual y 2 baterías enduro
+26/537 ## excluido   ##  carcasa y filtros para gopro hero 9/10/11/12
+27/537 ## excluido   ##  soporte de manillar de bicicleta reygeak gopro action cam
+28/537 --precio bajo --  6,50 soporte de pecho gopro hero 12, 11, 10, 9, 8, 7, +
+29/537 ## excluido   ##  flotador gopro. 
+30/537 ## excluido   ##  funda para gopro 11 
+31/537 ## excluido   ##  funda gopro 9/10/11/12
+32/537 ++ guardado   ++ gopro hero 11 mini
+33/537 ## excluido   ##  soporte gopro para espejo retrovisor
+34/537 ## excluido   ##  funda silicona gopro 12/11/10/9 protector 
+35/537 ## excluido   ##  soporte gopro hjc i90
+36/537 ## excluido   ##  carcasa sumergible para gopro hero 9, 10, 11 y 12
+37/537 ## excluido   ##  set para gopro hero 11, 12, 9,10 funda de silicona
+38/537 ## excluido   ##  kit palo selfie soportes gopro instan360 moto 
+39/537 ++ guardado   ++ camara go pro hero 11 black
+40/537 ## excluido   ##  fundas silicona gopro hero 11
+41/537 ## excluido   ##  ❗soporte gopro casco scorpion exo r1 air❗
+42/537 ++ guardado   ++ gopro 11 black mini 
+43/537 ## excluido   ##  floaty gopro 9/10/11/12/13
+44/537 ## excluido   ##  kit de accesorios con funda para gopro hero nuevo
+45/537 ## excluido   ##  carcasa gopro 9/10/11/12/13 submarinismo
+46/537 ++ guardado   ++ gopro 11 black
+47/537 ## excluido   ##  cargador gopro telesin 
+48/537 ## excluido   ##  caja gopro almacenamiento 
+49/537 ++ guardado   ++ gopro hero 11 + accesorios
+50/537 ## excluido   ##  soporte garmin/wahoo y luces/gopro para potencia 
+51/537 ## excluido   ##  accesorios insta 360 x2 x3 x4 gopro
+52/537 ## excluido   ##  funda silicona gopro 9/10/11/12/13
+53/537 ## excluido   ##  carcasa go pro hero 11,12
+54/537 ## excluido   ##  gopro hero 10
+55/537 ## excluido   ##  accesorio pegarina gopro
+56/537 ## excluido   ##  kit palo selfie gopro insta 360 moto quad 
+57/537 ## excluido   ##  soporte de muñeca compatible con gopro
+58/537 ## excluido   ##  cargador de baterias gopro
+59/537 ++ guardado   ++ ⚠️gopro hero 11 naked nueva
+60/537 ## excluido   ##  gopro accesorios 
+61/537 ++ guardado   ++ go pro 11
+62/537 ## excluido   ##  funda para gopro hero 12, 11, 10, 9, 8, 7
+63/537 ## excluido   ##  carcasa rigida para gopro 9 - 10 - 11 - 12
+64/537 ## excluido   ##  caja gopro 9, 10, 11, 12
+65/537 ## excluido   ##  caja rugged para gopro 9-10-11
+66/537 ## excluido   ##  gopro accesorios 
+67/537 ## excluido   ##  soporte gopro hjc rpha 12
+68/537 ## excluido   ##  ❗soporte gopro casco  ls2 mx436 pioneer ❗
+69/537 ## excluido   ##  carcasa acuática para gopro 9,10,11,12
+70/537 ## excluido   ##  carcasa montura para gopro 9-10-11-12 diseño
+71/537 --precio bajo --  7,00 soporte gopro hjc rpha 11
+72/537 ## excluido   ##  caja protecor gopro 
+73/537 ## excluido   ##  remote gopro  12/11/10/9/8/max
+74/537 ## excluido   ##  funda de silicona para gopro hero 9, 10, 11, 12 
+75/537 ## excluido   ##  funda gopro hero 11 black mini
+76/537 ## excluido   ##  ❗soporte gopro casco hjc rpha 10 11❗
+77/537 ++ guardado   ++ gopro 11 
+78/537 ## excluido   ##  ❗soporte gopro scorpion exo air 1400❗
+79/537 ## excluido   ##  soporte de correa de muñeca compatible gopro etc
+80/537 ## excluido   ##  ❗soporte gopro casco airoh commander❗
+81/537 ## excluido   ##  adaptador de aluminio montaje tipo gopro
+82/537 ## excluido   ##  zeadio hde-gc11 estabilizador gopro,iphone etc. 
+83/537 ## excluido   ##  funda de transporte para gopro 9/10/11/12
+84/537 ## excluido   ##  estacion de carga gopro
+85/537 ## excluido   ##  soporte gopro hjc rpha 12
+86/537 ## excluido   ##  ❗soporte gopro casco hjc rpha 12❗
+87/537 ## excluido   ##  caja para gopro
+88/537 ## excluido   ##  gopro arnes junior
+89/537 ## excluido   ##  soporte garmin/wahoo y luces/gopro para potencia
+90/537 ## excluido   ##  ❗soporte gopro hjc rpha 70❗
+91/537 --precio bajo --  18,00 kit de accesorios para gopro 13 12 11 10 y 9
+92/537 ## excluido   ##  isteady pro 4 estabilizador gimbal gopro
+93/537 ## excluido   ##  gopro black hero 10
+94/537 ## excluido   ##  ❗soporte gopro casco shoei gt air 3 ❗
+95/537 --precio bajo --  20,00 2 baterias para gopro 12 11 10 9 [nueva]
+96/537 ## excluido   ##  porta gopro de carga larga
+97/537 ## excluido   ##  funda gopro 9 10 11 12
+98/537 ## excluido   ##  gopro clip magnetico giratorio para mochila
+99/537 ## excluido   ##  ❗soporte gopro casco  ls2 mx701 explorer ❗
+100/537 ## excluido   ##  repuesto patillas trípode gopro
+101/537 ## excluido   ##  gopro 9-10-11-12 tapa trasera carcasa 
+102/537 --precio bajo --  7,00 soporte gopro hjc rpha 11
+103/537 --precio bajo --  7,00 soporte gopro hjc rpha 11
+104/537 ## excluido   ##  volta gopro camara  9/10/11/12 
+105/537 ## excluido   ##  volta gopro 
+106/537 --precio bajo --  10,00 bateria gopro para hero 12 11 10 9 black
+107/537 --precio bajo --  10,00 bateria para gopro hero 10 9 12 11
+108/537 ## excluido   ##  ❗soporte gopro agv k1 k3 k5❗
+109/537 ## excluido   ##  cargador baterias gopro 9-10-11-12
+110/537 ## excluido   ##  soporte gopro hjc is 17
+111/537 ## excluido   ##  funda gopro
+112/537 ## excluido   ##  mando a distancia para gopro smart remote
+113/537 ## excluido   ##  funda gopro
+            id  ...                                                url
+0   1083000893  ...  https://es.wallapop.com/item/gopro-hero-11-bla...
+1   1084448866  ...  https://es.wallapop.com/item/gopro-blak-11-108...
+2   1083902061  ...  https://es.wallapop.com/item/go-pro-11-como-nu...
+3   1084204100  ...  https://es.wallapop.com/item/go-pro-11-2-bater...
+4   1082963701  ...  https://es.wallapop.com/item/gopro-hero-11-bla...
+5   1082962615  ...  https://es.wallapop.com/item/gopro-hero-11-bla...
+6   1081571845  ...  https://es.wallapop.com/item/gopro-hero-11-bla...
+7   1058814140  ...  https://es.wallapop.com/item/gopro-hero-black-...
+8   1081084989  ...  https://es.wallapop.com/item/gopro-hero-11-bla...
+9   1078845152  ...  https://es.wallapop.com/item/gopro-hero-11-min...
+10  1079697974  ...  https://es.wallapop.com/item/camara-go-pro-her...
+11  1069020151  ...  https://es.wallapop.com/item/gopro-11-mini-106...
+12  1051932652  ...  https://es.wallapop.com/item/gopro-11-black-10...
+13  1069163180  ...  https://es.wallapop.com/item/gopro-hero-11---a...
+14  1061806929  ...  https://es.wallapop.com/item/gopro-hero-11-nak...
+15  1072089101  ...  https://es.wallapop.com/item/go-pro-11-1072089101
+16  1041575204  ...   https://es.wallapop.com/item/gopro-11-1041575204
+
+[17 rows x 6 columns]
+20250102
+gopro 11
+new
+csv guardado

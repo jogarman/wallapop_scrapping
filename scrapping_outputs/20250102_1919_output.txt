@@ -1,0 +1,101 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2011&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+Roll 1
+Roll 2
+Roll 3
+Roll 4
+Roll 5
+Roll 6
+Roll 7
+Roll 8
+Roll 9
+Roll 10
+Roll 11
+Roll 12
+Roll 13
+Roll 14
+Roll 15
+es_precio_ok...
+Extrayendo y añadiendo los datos...
+0/547 ## excluido   ##  baterias gopro hero 9/10/11
+1/547 ++ guardado   ++ gopro hero 11 
+2/547 ++ guardado   ++ gopro hero 11 black con accesorios
+3/547 ## excluido   ##  camara ultracompacta gopro hero11 black
+4/547 ++ guardado   ++ gopro 11 mini 
+5/547 ++ guardado   ++ gopro hero 11
+6/547 ## excluido   ##  gopro hero 9 black + pack de carga 
+7/547 ## excluido   ##  pack 3 baterias gopro hero 9,10 y 11
+8/547 ++ guardado   ++ gopro hero 11 black + accesorios
+9/547 ++ guardado   ++ gopro hero black 11 + extras
+10/547 ++ guardado   ++ gopro 11 black + accesorios
+11/547 ## excluido   ##  hohem gimbal gopro 
+12/547 ++ guardado   ++ gopro 11 hero black
+13/547 --precio bajo --  25,00 cargador gopro 9, 10, 11 y 12 original
+14/547 ## excluido   ##  repuesto montura gopro 9/10/11/12
+15/547 ## excluido   ##  pack accesorios para gopro 9/10/11/12
+16/547 ++ guardado   ++ cámara gopro 11 black
+17/547 ++ guardado   ++ gopro 11 black
+18/547 ## excluido   ##  funda protectora para gopro 9/10/11/12/13
+19/547 ## excluido   ##  tapa de bateria original para gopro 9/10/11/12
+20/547 ++ guardado   ++ gopro 11 con extras accesorios
+21/547 ++ guardado   ++ gopro 11
+22/547 ## excluido   ##  gopro 11/ cambio por insta 360
+23/547 ++ guardado   ++ gopro 11 hero black
+24/547 ## excluido   ##  caja go pro 9 / 10 / 11 / 12
+25/547 ## excluido   ##  case protector para gopro 13,12,11,10 y 9
+26/547 ## excluido   ##  gopro 11 , media mod, mando, 4 baterias 
+27/547 ## excluido   ##  gopro hero 12 creator pack + mod max lens 2.0
+28/547 ++ guardado   ++ gopro hero 11
+29/547 --precio bajo --  20,00 batería original gopro  11, 10 y 9 black
+30/547 ## excluido   ##  gopro anclaje magnético ulanzi gp-16 [perfecto]
+31/547 ## excluido   ##  piezas/recambios para patinetes xiaomi
+32/547 ## excluido   ##  hohem isteady pro 4 estabilizador gimbal#131681
+33/547 ## excluido   ##  go pro hero 3 silver edition 
+34/547 ## excluido   ##  equio submarinismo
+35/547 ## excluido   ##  sujeción para cabeza
+36/547 ## excluido   ##  trek madone sl (serie 9)
+37/547 ## excluido   ##  palo selfie gopro
+38/547 ## excluido   ##  gopro hero 9 black y accesorios
+39/547 ## excluido   ##  gopro hero 12 black 
+40/547 ## excluido   ##  carcasa protectora gopro 5/6/7
+41/547 ## excluido   ##  gopro hero 9
+42/547 ## excluido   ##  gopro hero 8 black y accesorios 
+43/547 ## excluido   ##  chaleco perro para gopro
+44/547 ## excluido   ##  cámara gopro hero12 creator edition 
+45/547 ## excluido   ##  gopro 7 black
+46/547 ## excluido   ##  gopro 5
+47/547 ## excluido   ##  gopro 12
+48/547 ## excluido   ##  cámara gopro sjcam 
+49/547 ## excluido   ##  funda silicona gopro
+50/547 ## excluido   ##  gopro hero3+
+51/547 ## excluido   ##  gopro hero 10 black edition
+52/547 ## excluido   ##  camara gopro hero 9 black 
+53/547 ## excluido   ##  gopro hero3+
+54/547 ## excluido   ##  gopro hero session 4
+55/547 ## excluido   ##  gopro hero 7 silver
+56/547 ## excluido   ##  camara 4k + estabilizador 
+57/547 ## excluido   ##  gopro 4 con todos los accesorios 
+58/547 ## excluido   ##  trípode palo selfie gopro
+59/547 ## excluido   ##  gopro 9 naked
+            id  ...                                                url
+0   1083654200  ...  https://es.wallapop.com/item/gopro-hero-11-108...
+1   1082701930  ...  https://es.wallapop.com/item/gopro-hero-11-bla...
+2   1079406835  ...  https://es.wallapop.com/item/gopro-11-mini-107...
+3   1080359690  ...  https://es.wallapop.com/item/gopro-hero-11-108...
+4   1074168225  ...  https://es.wallapop.com/item/gopro-hero-11-bla...
+5   1070264638  ...  https://es.wallapop.com/item/gopro-11---extras...
+6   1065739896  ...  https://es.wallapop.com/item/gopro-11-black---...
+7   1058245981  ...  https://es.wallapop.com/item/gopro-11-hero-bla...
+8   1058979498  ...  https://es.wallapop.com/item/camara-gopro-11-b...
+9   1049932839  ...  https://es.wallapop.com/item/gopro-11-black-10...
+10  1051783810  ...  https://es.wallapop.com/item/gopro-11-con-extr...
+11  1044882801  ...   https://es.wallapop.com/item/gopro-11-1044882801
+12  1041397524  ...  https://es.wallapop.com/item/gopro-11-hero-bla...
+13   939826349  ...  https://es.wallapop.com/item/gopro-hero-11-939...
+
+[14 rows x 6 columns]
+20250102
+gopro 11
+as_good_as_new
+csv guardado

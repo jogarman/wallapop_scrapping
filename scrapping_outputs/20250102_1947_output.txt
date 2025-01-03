@@ -1,0 +1,56 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2013&longitude=-3.69196&latitude=40.41956&distance=2000000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/584 ## excluido   ##  volta gopro 
+1/584 ## excluido   ##  gopro hero black 5
+2/584 ## excluido   ##  gopro hero13 black módulo lente ultra gran angular
+3/584 ## excluido   ##  gopro volta
+4/584 ## excluido   ##  adaptador de micrófono gopro
+5/584 ## excluido   ##  gopro 9 black
+6/584 ## excluido   ##  palo gopro shorty
+7/584 ## excluido   ##  funda acuatica gopro 9/10/11/12/13
+8/584 ## excluido   ##  funda naranja gopro
+9/584 ## excluido   ##  carcasa buceo gopro 9/10/11/12/13
+10/584 ## excluido   ##  gopro hero 9 lente max
+11/584 ## excluido   ##  gopro 11 mini
+12/584 ## excluido   ##  dji phantom 2 + gopro hero 4 + pantalla dron
+13/584 ## excluido   ##  video camara dep airis tipo gopro rebajada
+14/584 ## excluido   ##  casco poc skull light 
+15/584 ## excluido   ##  gopro hero 8
+16/584 ## excluido   ##  e27539-0 camara ultracompacta gopro hero11
+17/584 ## excluido   ##  e27100-0 camara ultracompacta gopro hero 8
+18/584 ## excluido   ##  tripode sandmarc expandible para gopro
+19/584 ## excluido   ##  bicicleta de carretera
+20/584 ## excluido   ##  gopro hero
+21/584 ## excluido   ##  gopro hero 8 negra
+22/584 ## excluido   ##  gopro hero 2
+23/584 ## excluido   ##  cámara sjcam gopro hd
+24/584 ## excluido   ##  gopro hero 5 black
+25/584 ## excluido   ##  gopro hero 5 black
+26/584 ## excluido   ##  gopro hero4 silver con national geographic
+27/584 ## excluido   ##  despiece gopro fusion
+28/584 ## excluido   ##  mando gopro
+29/584 ## excluido   ##  gopro hero 5
+Empty DataFrame
+Columns: [id, nombre, precio, estado, reservado, url]
+Index: []
+20250102
+gopro 13
+good
+csv guardado

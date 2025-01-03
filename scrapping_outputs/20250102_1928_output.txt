@@ -1,0 +1,293 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2012&longitude=-3.69196&latitude=40.41956&distance=2000000&condition=new
+click: boton_ver_mas
+del df error
+Roll 1
+Roll 2
+Roll 3
+Roll 4
+Roll 5
+Roll 6
+Roll 7
+Roll 8
+Roll 9
+Roll 10
+Roll 11
+Roll 12
+Roll 13
+Roll 14
+Roll 15
+es_precio_ok...
+Extrayendo y añadiendo los datos...
+0/608 ## excluido   ##  gopro hero12 black completamente nueva.
+1/608 ## excluido   ##  batería de enduro gopro 
+2/608 ## excluido   ##  funda para gopro 
+3/608 ++ guardado   ++ gopro hero 12
+4/608 ## excluido   ##  funda silicona gopro 9 10 11 12
+5/608 ## excluido   ##  bateria gopro enduro nueva
+6/608 ## excluido   ##  funda + film protector gopro 9 10 11 12
+7/608 ## excluido   ##  funda impermeable + base gopro 9 10 11 12
+8/608 ## excluido   ##  carcasa y filtros para gopro hero 9/10/11/12
+9/608 ## excluido   ##  kit palo selfie gopro insta 360 moto bici quad 
+10/608 ## excluido   ##  lector de tarjetas sd microusb ✅ de gopro nuevo ✅
+11/608 ## excluido   ##  kit gopro insta360, arnés, correas y diadema
+12/608 ++ guardado   ++ gopro hero 12
+13/608 ++ guardado   ++ ⚠️gopro hero 12 naked nueva
+14/608 --precio bajo --  19,00 gopro hero 10, 11, 12 batería enduro - nuevas
+15/608 ## excluido   ##  carcasa gopro 12/11/10/9 funda protector 
+16/608 ++ guardado   ++ gopro hero 12 kit entero 
+17/608 ## excluido   ##  kit palo selfie gopro insta 360 moto 
+18/608 ## excluido   ##   cámara gopro paquete de accesorios hero12:
+19/608 ## excluido   ##  baterías de enduro gopro hero 9-10-11-12
+20/608 ## excluido   ##  broche gopro pin
+21/608 ## excluido   ##  gopro cargador de batería dual y 2 baterías enduro
+22/608 ++ guardado   ++ gopro hero 12 muy completa con extras
+23/608 ## excluido   ##  carcasa y filtros para gopro hero 9/10/11/12
+24/608 --precio bajo --  6,50 soporte de pecho gopro hero 12, 11, 10, 9, 8, 7, +
+25/608 ## excluido   ##  flotador gopro. 
+26/608 ## excluido   ##  go pro max lens mod 2.0 
+27/608 ## excluido   ##  funda gopro 9/10/11/12
+28/608 ## excluido   ##  cámara de acción
+29/608 ## excluido   ##  cámara submarina 1080p 
+30/608 ## excluido   ##  funda silicona gopro 12/11/10/9 protector 
+31/608 ## excluido   ##  soporte gopro pato
+32/608 ++ guardado   ++ gopro paquete de accesorios hero 12
+33/608 ++ guardado   ++ gopro hero 12 black + extras + doble bateria
+34/608 ## excluido   ##  kit palo selfie soportes gopro instan360 moto 
+35/608 ## excluido   ##  carcasa sumergible para gopro hero 9, 10, 11 y 12
+36/608 ## excluido   ##  set para gopro hero 11, 12, 9,10 funda de silicona
+37/608 ## excluido   ##  gopro hero12 black creator edition
+38/608 --precio bajo --  20,00 gopro 12 bateria original nueva
+39/608 ++ guardado   ++ gopro hero 12 black
+40/608 ## excluido   ##  kit de accesorios con funda para gopro hero nuevo
+41/608 ## excluido   ##  floaty gopro 9/10/11/12/13
+42/608 ## excluido   ##  cargador gopro telesin 
+43/608 ## excluido   ##  caja gopro almacenamiento 
+44/608 ## excluido   ##  carcasa gopro 9/10/11/12/13 submarinismo
+45/608 ## excluido   ##  soporte garmin/wahoo y luces/gopro para potencia 
+46/608 ## excluido   ##  accesorios insta 360 x2 x3 x4 gopro
+47/608 ## excluido   ##  gopro hero 10
+48/608 ## excluido   ##  funda silicona gopro 9/10/11/12/13
+49/608 ++ guardado   ++ gopro 12 black
+50/608 ++ guardado   ++ gopro 12 black + accesorios 
+51/608 --precio bajo --  40,00 filtro nd gopro 12 
+52/608 ## excluido   ##  ⭐️accesorios insta360 x3, x4,x2,rs, gopro etc⭐️
+53/608 ## excluido   ##  kit palo selfie gopro insta 360 moto quad 
+54/608 ## excluido   ##  soporte de muñeca compatible con gopro
+55/608 ## excluido   ##  carcasa go pro hero 11,12
+56/608 ## excluido   ##  cámara de foto gopro
+57/608 ## excluido   ##  cargador de baterias gopro
+58/608 ++ guardado   ++ camara gopro 12 black 
+59/608 --precio bajo --  7,00 soporte gopro hjc rpha 12
+60/608 ++ guardado   ++ gopro 12 black nueva
+61/608 ++ guardado   ++ gopro hero 12
+62/608 ## excluido   ##  gopro xp40  4k ultra hd
+63/608 ## excluido   ##  funda para gopro hero 12, 11, 10, 9, 8, 7
+64/608 ++ guardado   ++ gopro hero 12 black y accesorios
+65/608 ## excluido   ##  carcasa rigida para gopro 9 - 10 - 11 - 12
+66/608 ## excluido   ##  caja gopro 9, 10, 11, 12
+67/608 --precio bajo --  7,00 soporte gopro hjc rpha 12
+68/608 ## excluido   ##  ⚠️gopro hero 11 naked nueva
+69/608 ## excluido   ##  accesorios gopro 
+70/608 ## excluido   ##  ❗soporte gopro casco hjc rpha 12❗
+71/608 ## excluido   ##  remote gopro  12/11/10/9/8/max
+72/608 ## excluido   ##  caja protecor gopro 
+73/608 ## excluido   ##  carcasa acuática para gopro 9,10,11,12
+74/608 --precio bajo --  60,00 mando original para gopro 12
+75/608 ## excluido   ##  carcasa montura para gopro 9-10-11-12 diseño
+76/608 ## excluido   ##  funda de silicona para gopro hero 9, 10, 11, 12 
+77/608 ## excluido   ##  soporte de correa de muñeca compatible gopro etc
+78/608 ## excluido   ##  adaptador de aluminio montaje tipo gopro
+79/608 ## excluido   ##  estacion de carga gopro
+80/608 ## excluido   ##  funda de transporte para gopro 9/10/11/12
+81/608 ## excluido   ##  caja para gopro
+82/608 ++ guardado   ++ gopro 12 black pack special
+83/608 ## excluido   ##  gopro arnes junior
+84/608 ## excluido   ##  soporte garmin/wahoo y luces/gopro para potencia
+85/608 --precio bajo --  20,00 2 baterias para gopro 12 11 10 9 [nueva]
+86/608 ## excluido   ##  🔥 cámara para niños impermeable 12mp precintada
+87/608 ## excluido   ##  isteady pro 4 estabilizador gimbal gopro
+88/608 ++ guardado   ++ kit gopro hero 12 creator edition (sin camara)
+89/608 --precio bajo --  18,00 kit de accesorios para gopro 13 12 11 10 y 9
+90/608 ## excluido   ##  camara gopro (national geographic)
+91/608 --precio bajo --  60,00 rollei actioncam 560 touch 12 mp (gopro)
+92/608 ## excluido   ##  porta gopro de carga larga
+93/608 ## excluido   ##  gopro clip magnetico giratorio para mochila
+94/608 ## excluido   ##  repuesto patillas trípode gopro
+95/608 ## excluido   ##  funda gopro 9 10 11 12
+96/608 ## excluido   ##  volta gopro 
+97/608 --precio bajo --  10,00 bateria gopro para hero 12 11 10 9 black
+98/608 ## excluido   ##  gopro 9-10-11-12 tapa trasera carcasa 
+99/608 ## excluido   ##  volta gopro camara  9/10/11/12 
+100/608 ## excluido   ##  soporte gopro shark spartan
+101/608 ## excluido   ##  funda impermeable gopro 12
+102/608 --precio bajo --  10,00 bateria para gopro hero 10 9 12 11
+103/608 ## excluido   ##  gopro hero session 5
+104/608 ## excluido   ##  cargador baterias gopro 9-10-11-12
+105/608 ## excluido   ##  funda gopro
+106/608 ## excluido   ##  mando a distancia para gopro smart remote
+107/608 ++ guardado   ++ go pro 12 
+108/608 ## excluido   ##  funda gopro
+109/608 ## excluido   ##  tapa trasera gopro
+110/608 ## excluido   ##  caja protectora para gopro y accesorios
+111/608 ## excluido   ##  funda protectora semirigida gopro
+112/608 ## excluido   ##  funda anti aire gopro
+113/608 ## excluido   ##  funda silicona y vidrios gopro hero 9/10/11/12
+114/608 ++ guardado   ++ gopro hero 12 black + media mod
+115/608 ++ guardado   ++ cámara go pro 12 
+116/608 ## excluido   ##  funda de silicona gopro hero 9, 10, 11 y 12
+117/608 ## excluido   ##  protectores vidrio para gopro hero 9/10/11/12 
+118/608 ## excluido   ##  cámara yi 4k 
+119/608 ++ guardado   ++ gopro 12 black edicion
+120/608 ## excluido   ##  caja gopro
+121/608 ## excluido   ##  funda gopro silicona 
+122/608 ## excluido   ##  funda batería gopro
+123/608 ## excluido   ##  tapa lateral gopro
+124/608 ## excluido   ##  floaty compatible gopro 10/11/12
+125/608 ## excluido   ##  caja gopro 9,10,11 y 12
+126/608 --precio bajo --  4,50 puerta lateral para gopro hero 12, 11, 10 y 9. 
+127/608 --precio bajo --  13,00 soporte vertical gopro 9, 10, 11 y 12
+128/608 ++ guardado   ++ gopro hero 12 black (nueva) + extension garantia
+129/608 ## excluido   ##  gopro max lens mod+lente anamorphic 1,55 x
+130/608 --precio bajo --  4,50 puerta lateral para gopro hero 9, 10, 11 y 12
+131/608 ## excluido   ##  base fija de montaje para casco gopro
+132/608 ## excluido   ##  accesorio correa montaje casco cámara gopro
+133/608 ## excluido   ##  compartimento separador estuche gopro
+134/608 ## excluido   ##  protector gopro mini 11 4€
+135/608 ## excluido   ##  pgytech caplock  gopro , osmo action, insta360 
+136/608 ++ guardado   ++ go pro 12  con accesorios 
+137/608 ## excluido   ##  cámara tipo gopro
+138/608 ## excluido   ##  organizador de estuches para gopro
+139/608 --precio bajo --  20,00 soporte camara accion gopro hero 12 11 10 9
+140/608 ## excluido   ##  smallrig hero12 / hero11 / hero 10 / hero 9 black
+141/608 ## excluido   ##  gopro sj4000 con wifi y +20 accesorios
+142/608 ## excluido   ##  soporte gps y luces/gopro para potencia bicicleta
+143/608 --precio bajo --  14,00 estuche con cremallera para gopro hero 10/11/ 12
+144/608 ## excluido   ##  xbotgo chameleon cámara deportiva inteligente
+145/608 ## excluido   ##  cámara gopro 
+146/608 --precio bajo --  5,00 puerta lateral de carga hero 9 10 11 y 12.
+147/608 ## excluido   ##  pack accessories para cameras de acción 
+148/608 ## excluido   ##  kit decámara de acciónpaquete compatible congopro
+149/608 ## excluido   ##  gimbal ikee falcon plus
+150/608 ## excluido   ##  soporte gopro cascos troy lee
+151/608 ## excluido   ##  soporte gopro cascos just1
+152/608 ## excluido   ##  soporte gopro casco enduro/cross
+153/608 ## excluido   ##  gorra para camara de acción
+154/608 ## excluido   ##  telesin° 4 en 1 palo selfie trípode
+155/608 ## excluido   ##  funda protectora gopro 
+156/608 ## excluido   ##  bicicleta carretera lapierre sat 7.0 nueva talla s
+157/608 ## excluido   ##  dron super potente y versátil de carbono
+158/608 ## excluido   ##  oferta mini gopro impermeable full hd
+159/608 ## excluido   ##  gorra con suporte de cámara de acción
+160/608 ## excluido   ##  pack oferta 2 logotipos mini para capot y maletero
+161/608 ## excluido   ##  bicicleta lapierre pulsium sat 8.0 nueva
+162/608 ## excluido   ##  maletin neewer kit nuevo
+163/608 ## excluido   ##  cámara deportiva sjcam sj7 star (a estrenar)
+164/608 ## excluido   ##  pegatinas llanta kawasaki ninja moto reflectantes
+165/608 ## excluido   ##  media mod gopro 
+166/608 ## excluido   ##  gimbal isteady pro 3
+167/608 ## excluido   ##  accesorios para cámara de acción. 
+168/608 ++ guardado   ++ go pro hero 12  set action sport 
+169/608 ## excluido   ##  funda original apple para iphone 13 pro
+170/608 ## excluido   ##  gopro hero 10
+171/608 ## excluido   ##  soporte mochila hsu y accesorios camaras accion
+172/608 ## excluido   ##  correa de mano o lanyard "ringke"
+173/608 ## excluido   ##  porta velas corazón
+174/608 ## excluido   ##   palo selfie 49"  con control remoto
+175/608 ## excluido   ##  gimball 3 ejes
+176/608 ## excluido   ##  nombres con escudos de fútbol 
+177/608 ## excluido   ##  estabilizador de la cámara
+178/608 ++ guardado   ++ gopro hero 12 black
+179/608 ## excluido   ##  gimbal estabilizador profesional 
+180/608 ## excluido   ##  decoración pared porsche
+181/608 ## excluido   ##  rompecabezas de números matemáticos 
+182/608 ## excluido   ##  micro sd 2tb
+183/608 ++ guardado   ++ go pro hero 12 black creator
+184/608 ## excluido   ##  escudo de zelda 
+185/608 ## excluido   ##  modulo multimedia goro 12/11/10 
+186/608 ## excluido   ##  estabilizador de mano para cámaras upnz-ds03
+
+
+187/608 ## excluido   ##  iniciales decorativas 
+188/608 ++ guardado   ++ gopro12 go pro 12 
+189/608 ## excluido   ##  yi camara de accion 4k con carcasa sumergible
+190/608 ## excluido   ##  iniciales decorativas 
+191/608 ## excluido   ##  fundas para cuchillos 3d
+192/608 ## excluido   ##  cajita palillos orejas
+193/608 ## excluido   ##  fundas para tijeras 
+194/608 ## excluido   ##  soporte soldador estaño
+195/608 ## excluido   ##  soporte calibre pie de rey
+196/608 ## excluido   ##  lote de repuestos walkera qr x350 pro
+197/608 --precio bajo --  55,00 mediamod gopro hero 9 10 11 y 12 📷✅✅
+198/608 ++ guardado   ++ go pro hero 12
+199/608 ## excluido   ##  gopro national geographic 
+200/608 ## excluido   ##  floaty flotador hero 9 10 11 y 12📷✅✅
+201/608 ## excluido   ##  maletín de transporte gopro hero 9 10 11 y 12📷✅✅
+202/608 ## excluido   ##  control remote gopro 📸✅️✅️
+203/608 ## excluido   ##  estabilizador hohem isteady pro 4 para gopro 
+204/608 ## excluido   ##  filtros para cámara gopro
+205/608 ++ guardado   ++ go pro hero 12 creator edition(garantia incluida)
+206/608 ## excluido   ##  kit de cámara de acción 50 en 1
+207/608 ## excluido   ##  carcasa domo gopro
+208/608 ## excluido   ##  soporte magnético para cámara de acción
+209/608 ## excluido   ##  recambio adaptadore plegable de repuesto 📷✅✅
+210/608 ## excluido   ##  accesorios gopro 
+211/608 ## excluido   ##  maleta gopro
+212/608 ## excluido   ##  cargador doble y 3 baterias original gopro
+213/608 ## excluido   ##  funda gopro
+214/608 ## excluido   ##  gopro blak 11
+215/608 ## excluido   ##  cargador dual gopro asdbc-001-eu
+216/608 ## excluido   ##  nueva gopro hero 11 negra
+217/608 ## excluido   ##  boya gopro
+218/608 ## excluido   ##  gopro 10
+219/608 ## excluido   ##  soporte articulable gopro insta 360 moto movi
+220/608 ## excluido   ##  gopro hero 9 black
+221/608 ## excluido   ##  palo selfie 3m pa insta360, gopro, dji compatible
+222/608 ## excluido   ##  palo selfie para gopro
+223/608 ## excluido   ##  soporte para cámara gopro 
+224/608 ## excluido   ##  gopro 7 blanco
+225/608 ## excluido   ##  gopro hero 4k
+226/608 ## excluido   ##  gopro
+227/608 ## excluido   ##  2 baterias recargables gopro litio 1220 mah 
+228/608 ## excluido   ##  gopro 13 black
+229/608 ## excluido   ##  soporte para movil tipo gopro
+230/608 ## excluido   ##  gopro hero 9
+231/608 ## excluido   ##  cable usb a usb-c original de gopro 
+232/608 ## excluido   ##  gopro 7 hero blanca 
+233/608 ## excluido   ##  gopro hero 8 black
+234/608 ## excluido   ##  camara tipo gopro
+235/608 ## excluido   ##  soporte de cabeza para gopro
+            id  ...                                                url
+0   1084640066  ...  https://es.wallapop.com/item/gopro-hero-12-108...
+1   1080471539  ...  https://es.wallapop.com/item/gopro-hero-12-108...
+2   1081465646  ...  https://es.wallapop.com/item/gopro-12-naked-10...
+3   1082360595  ...  https://es.wallapop.com/item/gopro-hero-12-kit...
+4   1080271035  ...  https://es.wallapop.com/item/gopro-hero-12-muy...
+5   1074680475  ...  https://es.wallapop.com/item/gopro-paquete-de-...
+6   1077895656  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+7   1075195911  ...  https://es.wallapop.com/item/gopro-12-black-10...
+8   1064636750  ...  https://es.wallapop.com/item/gopro-12-black-10...
+9   1067996997  ...  https://es.wallapop.com/item/gopro-12-black---...
+10  1069663240  ...  https://es.wallapop.com/item/camara-gopro-12-b...
+11  1057218941  ...  https://es.wallapop.com/item/gopro-12-black-nu...
+12  1050151212  ...  https://es.wallapop.com/item/gopro-hero-12-105...
+13  1061767028  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+14  1036475479  ...  https://es.wallapop.com/item/gopro-12-black-sp...
+15  1052823993  ...  https://es.wallapop.com/item/kit-gopro-hero-12...
+16  1052386085  ...  https://es.wallapop.com/item/go-pro-12-1052386085
+17   995566631  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+18  1046871006  ...  https://es.wallapop.com/item/camara-go-pro-12-...
+19   968686885  ...  https://es.wallapop.com/item/gopro-12-black-ed...
+20  1012058841  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+21  1015425251  ...  https://es.wallapop.com/item/go-pro-12-con-acc...
+22  1082161886  ...  https://es.wallapop.com/item/go-pro-hero-12---...
+23  1046487731  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+24  1069935007  ...  https://es.wallapop.com/item/go-pro-hero-12-bl...
+25  1074023434  ...  https://es.wallapop.com/item/gopro12-go-pro-12...
+26  1078267554  ...  https://es.wallapop.com/item/go-pro-hero-12-10...
+27  1044301517  ...  https://es.wallapop.com/item/go-pro-hero-12-cr...
+
+[28 rows x 6 columns]
+20250102
+gopro 12
+new
+csv guardado

@@ -1,5 +1,6 @@
 import re
 
+
 def existe_cadena(name, cadenas_buscadas, cadenas_excluyentes):
     nombre_list = name.split()
     nombre_list = set(nombre_list)

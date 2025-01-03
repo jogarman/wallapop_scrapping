@@ -6,6 +6,7 @@ from datetime import datetime
 import re
 import locale
 import pyautogui
+import os
 
 from utils import *
 
@@ -49,6 +50,18 @@ print(f"Parámetro 3: {args.estado}")
 print(f"Parámetro 4: {args.distancia}")
 print(f"Parámetro 5: {args.precio_minimo}")
 
+# Crea el txt con los outputs
+output_folder = 'scrapping_outputs'
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+
+# Crear archivo con el output en la carpeta 'scrapping_outputs'
+now = datetime.now()
+file_name = now.strftime("%Y%m%d_%H%M_output.txt")
+file_path = os.path.join(output_folder, file_name)
+
+# Redirigir sys.stdout al archivo con codificación utf-8
+sys.stdout = open(file_path, 'w', encoding='utf-8')
 
 # %%
 #ejecutar con el entorno .env
@@ -80,17 +93,13 @@ cadenas_excluyentes = (
                     "macbook"
 )
 
-# 'new', 'as_good_as_new', 'good'
-#Solo uno cada vez!
-estado = args.estado
-# Para buscar se podrían poner juntos sin espacios con comas. 'new,as_good_as_new,good'
-# Pero para guardarlos en la tabla no se puede guardar el estado extraido. 
-distancia = args.distancia # distancia en km
-precio_min = int(args.precio_minimo)
-
-carpeta ="1_datos_raw"
 n_excluidos_seguidos_max = 30
 n_scrolls_cada_vez = 15 
+
+estado = args.estado
+distancia = args.distancia # distancia en km
+precio_min = int(args.precio_minimo)
+carpeta ="1_datos_raw"
 if type(cadenas_buscadas) is not tuple:
     print("cadenas_buscadas no es tupla")
 if type(estado) is not str:
@@ -119,37 +128,20 @@ WebDriverWait(driver, 10).until(
 
 
 # %%
-time.sleep(8)
-# clico 3 veces fuera del cuadrado para saltar el tutorial
-x_coord = 1600  # Coordenada X deseada
-y_coord = 600  # Coordenada Y deseada
-pyautogui.click(x=x_coord, y=y_coord)
-time.sleep(2)
-x_coord = 1600  # Coordenada X deseada
-y_coord = 600  # Coordenada Y deseada
-pyautogui.click(x=x_coord, y=y_coord)
-time.sleep(2)
-x_coord = 1600  # Coordenada X deseada
-y_coord = 600  # Coordenada Y deseada
-pyautogui.click(x=x_coord, y=y_coord)
-time.sleep(4)
-
-# %%
-# no se que hace. creo que cargar 40 articulos más
-# button = WebDriverWait(driver, 6).until(
-#     EC.element_to_be_clickable((By.XPATH, "//walla-button[contains(@class, 'w-100')]"))
-# )
-# # Haz clic en el botón
-# button.click()
-# time.sleep(2)
+# Scroll para llegar al boton para cargar mas
+n = 0
+while n < 5:
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(1)
+    n = n + 1
 
 # %%
 # Clicamos para ver más
-boton_ver_mas = WebDriverWait(driver, 10).until(
-    EC.element_to_be_clickable((By.ID, "btn-load-more")))
+print("click: boton_ver_mas")
+boton_ver_mas = WebDriverWait(driver, 6).until(
+    EC.element_to_be_clickable((By.CSS_SELECTOR, "#btn-load-more")))
 boton_ver_mas.click()
 time.sleep(2)
-
 # button = WebDriverWait(driver, 6).until(
 #     EC.element_to_be_clickable((By.XPATH, "//walla-button[contains(@class, 'w-100')]"))
 
@@ -158,6 +150,7 @@ time.sleep(2)
 try:
     del df
 except NameError:
+    print("del df error")
     pass
 columnas = ['id', 'nombre', 'precio', 'estado', 'reservado', 'url']
 df = pd.DataFrame(columns=columnas)
@@ -166,7 +159,7 @@ df = pd.DataFrame(columns=columnas)
 time.sleep(2)
 x_coord = 1600
 y_coord = 780 
-pyautogui.click(x=x_coord, y=y_coord)
+# pyautogui.click(x=x_coord, y=y_coord) #######
 
 # %% [markdown]
 # # Scrolling
@@ -174,10 +167,14 @@ pyautogui.click(x=x_coord, y=y_coord)
 # %%
 # Clicamos para ver más y hacemos scroll down n veces
 n = 0
-while n < n_scrolls_cada_vez:
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    time.sleep(2)
-    n = n + 1
+try:
+    while n < n_scrolls_cada_vez:
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(1)
+        n += 1
+        print(f"scroll {n}")
+except Exception as e:
+    print(f"Ocurrió un error: {e}")
 
 # %%
 def item_reservado(elem):
@@ -198,7 +195,9 @@ def es_precio_ok(precio: str, precio_min: int):
         return 0
 
 # %%
+sys.stdout.reconfigure(encoding='utf-8')
 # Extraigo los datos y los añado en la tabla. 
+print("Extrayendo y añadiendo los datos...")
 elementos = driver.find_elements(By.CSS_SELECTOR, "a.ItemCardList__item")
 total_elementos =  len(elementos)
 n_excluidos_seguidos = 0
@@ -226,7 +225,7 @@ for index, elem in enumerate(elementos):
             n_excluidos_seguidos = n_excluidos_seguidos + 1
             print(pos, "## excluido   ## ", nombre)
     else:
-        print(pos, "* ya existe:  ** ", nombre, id_articulo)
+        print(pos, "** ya existe:  ** ", nombre, id_articulo)
         n_excluidos_seguidos = 0
         
     
