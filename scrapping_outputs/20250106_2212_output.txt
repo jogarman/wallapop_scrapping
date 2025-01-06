@@ -1,0 +1,56 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2013&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/323 ## excluido   ##  funda acuatica gopro 9/10/11/12/13
+1/323 ## excluido   ##  casco poc skull light 
+2/323 ## excluido   ##  gopro hero 8 black 
+3/323 ## excluido   ##  gopro hero 4 black 4k
+4/323 ## excluido   ##  gopro hero 4 y accesorios
+5/323 ## excluido   ##  gopro 5 black 
+6/323 ## excluido   ##  gopro hero 10 black
+7/323 ## excluido   ##  cargador baterias gopro 
+8/323 ## excluido   ##  gopro hero 8 black y accesorios 
+9/323 ## excluido   ##  camara ultracompacta gopro hero9
+10/323 ## excluido   ##  camara ultracompacta gopro hero12 black
+11/323 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+12/323 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+13/323 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+14/323 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+15/323 ## excluido   ##  gopro 7 black
+16/323 ## excluido   ##  camara ultracompacta gopro hero12 black
+17/323 ## excluido   ##  gopro hero 3
+18/323 ## excluido   ##  go pro hero sport
+19/323 ## excluido   ##  gopro hero 
+20/323 ## excluido   ##  gopro hero 5 black
+21/323 ## excluido   ##  gopro12
+22/323 ## excluido   ##  gopro hero 5 
+23/323 ## excluido   ##  videocamara gopro hero 5 4k black 195706
+24/323 ## excluido   ##  gopro hero 3 white
+25/323 ## excluido   ##  gopro quik
+26/323 ## excluido   ##  gopro hero 4
+27/323 ## excluido   ##  gopro hero 3plus y accesorios 
+28/323 ## excluido   ##  gopro hero5 y accesorios
+29/323 ## excluido   ##  gopro hero 5
+Empty DataFrame
+Columns: [id, nombre, precio, estado, reservado, url]
+Index: []
+20250106
+gopro 13
+good
+csv guardado

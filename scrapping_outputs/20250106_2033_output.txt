@@ -1,0 +1,523 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2014&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/606 ## excluido   ##  iphone 15
+1/606 --precio bajo --  210,00 iphone 14 para piezas
+2/606 ++ guardado   ++ iphone 14 plus 512gb apple
+3/606 ++ guardado   ++ iphone 14
+4/606 ++ guardado   ++ iphone 14 pro max 256gb nuevo
+5/606 ++ guardado   ++ iphone 14 plus 128 gb bat 100 nuevo
+6/606 ## excluido   ##  funda negra iphone 14 pro sin usar
+7/606 ++ guardado   ++ iphone 14 pro 256 gb 
+8/606 ## excluido   ##  funda para iphone 14 plus
+9/606 ++ guardado   ++ iphone 14 pro max
+10/606 ++ guardado   ++ iphone 14 pro max nuevo
+11/606 ## excluido   ##  funda original de silicona para iphone 14 pro max
+12/606 ## excluido   ##  funda original de silicona para iphone 14 pro max
+13/606 ## excluido   ##  funda original de silicona para iphone 14 pro max
+14/606 ## excluido   ##  funda original de silicona para iphone 14 pro max
+15/606 ## excluido   ##  cargador 20w iphone
+16/606 ## excluido   ##  funda iphone 14 pro
+17/606 ++ guardado   ++ iphone 14 blue 128gb nuevo
+
+18/606 ## excluido   ##  carcasa iphone 14 pro max
+19/606 ++ guardado   ++ iphone 14 pro max
+20/606 ++ guardado   ++ iphone 14 pro max+reloj+casco
+21/606 ++ guardado   ++ apple iphone 14 pro, 256gb - morado oscuro
+22/606 --precio bajo --  20,00 soporte iphone 14 pro max con apple watch
+23/606 ## excluido   ##  funda iphone 14 pro max
+24/606 ## excluido   ##  carcasa iphone 14 pro max
+25/606 ## excluido   ##  carcasa iphone 14 pro max
+26/606 ++ guardado   ++ iphone 14
+27/606 ++ guardado   ++ apple iphone 14 plus 128gb
+28/606 --precio bajo --  11,00 cambio iphone 15 nuevo por iphone 14 pro
+29/606 ## excluido   ##  soporte carga iphone 16/15/14/13
+30/606 ## excluido   ##  2 cargadores 20w iphone
+31/606 ++ guardado   ++ iphone 14 pro
+32/606 ## excluido   ##  se vende funda original iphone 14 pro 
+33/606 ## excluido   ##  soporte iphone plus
+34/606 ## excluido   ##  ¡vendo funda magsafe nueva para iphone 14 pro!
+35/606 ## excluido   ##  funda iphone 14 pro
+36/606 ## excluido   ##  funda iphone 14 lacoste
+37/606 ## excluido   ##  iphone 15 black 128gb garantía 
+
+38/606 ++ guardado   ++ iphone 14 pro max
+39/606 --precio bajo --  60,00 camara iphone 14 pro max
+40/606 --precio bajo --  0,00 me urge comprar iphone 14 pro
+41/606 ## excluido   ##  cristal trasero iphone 14 pro
+42/606 ++ guardado   ++ iphone 14
+43/606 ## excluido   ##  case funda rhinoshield para iphone 14 pro max
+44/606 ## excluido   ##  funda
+45/606 ## excluido   ##  caja iphone 14
+46/606 ## excluido   ##  funda iphone 14 plus clear case. magsafe
+47/606 ## excluido   ##  fundas iphone y cargador 
+48/606 ++ guardado   ++ iphone 14 256gb
+49/606 ++ guardado   ++ iphone 14 pro max
+50/606 ## excluido   ##  fundas para iphone 14 pro
+51/606 ++ guardado   ++ iphone 14 256gb
+52/606 --precio bajo --  0,00 iphone 14 128gb
+53/606 --precio bajo --  30,00 forro guess de iphone 14 pro max
+54/606 ++ guardado   ++ iphone 14 256gb
+55/606 ++ guardado   ++ iphone 14 plus
+56/606 ## excluido   ##  funda magsafe metalica iphone
+57/606 ++ guardado   ++ iphone 14 pro 
+58/606 ++ guardado   ++ iphone 14 pro 512gb - 100% bateria - factura apple
+59/606 ## excluido   ##  fundas para el iphone 14 pro
+60/606 ++ guardado   ++ movil iphone 14 azul 128gb + cable + caja
+61/606 ## excluido   ##  funda de silicona para iphone 14 pro
+62/606 ++ guardado   ++ iphone 14 plus 128gb
+63/606 ## excluido   ##  ayuda con iphone
+64/606 ## excluido   ##  funda de iphone 14 pro max 
+65/606 ## excluido   ##  iphone 
+66/606 ## excluido   ##  funda de silicona para iphone 14 pro
+67/606 ## excluido   ##  funda de silicona para iphone 14 pro
+68/606 ++ guardado   ++ iphone 14 pro
+69/606 ## excluido   ##  fundas iphone 14 pro max
+70/606 ## excluido   ##  fundas móvil iphone 14 plus
+71/606 ## excluido   ##  cable adaptador de ios a jack de 3.5mm para iphone
+72/606 ## excluido   ##  2 cables 20w iphone
+73/606 ## excluido   ##  funda iphone 14promax
+74/606 ++ guardado   ++ iphone 14 pro
+75/606 ++ guardado   ++ iphone 14 plus
+76/606 --precio bajo --  5,00 funa iphone 14
+77/606 ## excluido   ##  iphone 16 pro max
+78/606 ## excluido   ##  carcasa trasera compatible con iphone
+79/606 ++ guardado   ++ iphone 14 pro nuevo 
+80/606 ++ guardado   ++ iphone 14 plus
+81/606 ## excluido   ##  iphone 16 256gb blanco *a estrenar*
+82/606 ## excluido   ##  funda para iphone 14 pro max
+83/606 ## excluido   ##  funda de iphone 14 pro max 
+84/606 ## excluido   ##  cable original iphone nuevo!
+85/606 ++ guardado   ++ iphone 14 plus
+86/606 ++ guardado   ++ iphone 14 pro 256gb
+87/606 ++ guardado   ++ iphone 14 pro morado
+88/606 ## excluido   ##  carcasas logo iphone 11 hasta iphone16 
+89/606 ++ guardado   ++ iphone 14 256g
+90/606 ++ guardado   ++ iphone 14 256g
+91/606 ++ guardado   ++ iphone 14 256g
+92/606 ## excluido   ##  tornilladora hilti 450
+93/606 ## excluido   ##  funda / carcasa transparente iphone 14 pro
+94/606 ++ guardado   ++ apple iphone 14 128gb rojo 90% como nuevo
+95/606 ++ guardado   ++ iphone 14 plus 
+96/606 ## excluido   ##  fundas iphone 13/14 pro
+97/606 ++ guardado   ++ iphone 14 pro 256g
+98/606 ++ guardado   ++ iphone 14 pro 256g
+99/606 ## excluido   ##  funda iphone 14promax
+100/606 ++ guardado   ++ iphone 14 pro 256g
+101/606 ## excluido   ##  funda de silicona para iphone 14 pro max
+102/606 ## excluido   ##  funda iphone 14 pro max
+103/606 ++ guardado   ++ iphone 14 pro max 256gb nuevo
+104/606 ## excluido   ##  funda spiderman iphone 14 plus
+105/606 ## excluido   ##  pack de fundas de iphone 14 plus
+106/606 ## excluido   ##  funda para iphone 13/14/15
+107/606 ## excluido   ##  funda iphone 14 morada o lila
+108/606 ++ guardado   ++ iphone 14 plus 256gb nuevo
+109/606 --precio bajo --  89,99 pantalla de iphone 14 plus
+110/606 ++ guardado   ++ iphone 14 128gb nuevo a estrenar=movil center
+111/606 --precio bajo --  149,99 pantalla de iphone 14 pro
+112/606 ## excluido   ##  funda iphone 14 pro max
+113/606 ++ guardado   ++ cambio por iphone  está en arantia 14 pro 
+114/606 ## excluido   ##  funda iphone 14 pro max totalmente nueva 
+115/606 ## excluido   ##  funda rimowa verde iphone 14 pro max
+116/606 ## excluido   ##  funda de movil iphone 14 pro
+117/606 ## excluido   ##  funda iphone 14 pro max
+118/606 ## excluido   ##  funda iphone 14 pro max 
+119/606 ++ guardado   ++ iphone 14 pro max, 256gb gris con caja
+120/606 ++ guardado   ++ movil iphone 14 
+121/606 ## excluido   ##  funda iphone 14
+122/606 --precio bajo --  27,00 iphone 14 plus leather case original
+123/606 ## excluido   ##  funda iphone 14 nueva 
+124/606 ## excluido   ##  fundas iphone 14 pro max magsafe
+125/606 ## excluido   ##  funda de iphone 14 pro 
+126/606 ## excluido   ##  caja iphone 14 promax 
+127/606 ## excluido   ##  funda iphone 14 pro max silicona
+128/606 ++ guardado   ++ iphone 14 pro 128 
+129/606 ## excluido   ##  🥇 funda de silicona lila apple iphone 14 pro max
+130/606 ++ guardado   ++ iphone 14 pro
+131/606 ## excluido   ##  iphone 12 verde agua -64gb- como nuevo
+132/606 --precio bajo --  9,90 bandeja p/ tarjeta sim iphone 14 pro color morado
+133/606 ++ guardado   ++ iphone 14 pro max 512gb nuevo con applecare+ 
+134/606 ## excluido   ##  funda de cuero para iphone 14
+135/606 ## excluido   ##  funda de cuero para iphone 14
+136/606 ## excluido   ##  funda de cuero para iphone 14
+137/606 ## excluido   ##  funda iphone 14
+138/606 ## excluido   ##  funda de cuero para iphone 14
+139/606 ## excluido   ##  funda de cuero para iphone 14
+140/606 ## excluido   ##  carcasa iphone 14 pro magasafe
+141/606 ## excluido   ##  funda para iphone 14 de hello kitty 
+142/606 ## excluido   ##  funda iphone nueva 
+143/606 --precio bajo --  6,00 case iphone 14 pro max 
+144/606 ## excluido   ##  funda de iphone 14
+145/606 ## excluido   ##  iphone 14pro max
+146/606 ## excluido   ##  funda iphone nueva 
+147/606 ## excluido   ##  funda magsafe iphone 14 medinoche 
+148/606 ## excluido   ##  funda iphone 14 pro
+149/606 ## excluido   ##  funda iphone 14 pro
+150/606 ## excluido   ##  fundas de iphone 14 pro max 
+151/606 ++ guardado   ++ iphone 14 negro 128g
+152/606 ## excluido   ##  funda iphone 14 plus
+153/606 ## excluido   ##  iphone 14pro max blanco
+154/606 ## excluido   ##  iphone 12 pro nuevo con garantia 
+155/606 ## excluido   ##  fundas iphone 14 pro nuevas
+156/606 ## excluido   ##  funda para iphone 14 pro max
+157/606 ## excluido   ##  funda rhinoshield iphone 14 plus
+158/606 ## excluido   ##  funda magsafe iphone 14 trans
+159/606 ## excluido   ##  rhinoshield clearcase iphone 14pro max 
+160/606 ## excluido   ##  iphone 14pro púrpura 256g
+161/606 ++ guardado   ++ iphone 14 pro max 
+162/606 ## excluido   ##  funda iphone 13/14/15
+163/606 ## excluido   ##  funda iphone 14 pro/15 pro
+164/606 ## excluido   ##  reparacion de iphone/samsung etcc
+165/606 ## excluido   ##  iphone 14pro max negro 512g
+166/606 ## excluido   ##  funda kenzo paris iphone 15 pro
+167/606 ## excluido   ##  carcasa iphone 14 pro
+168/606 ++ guardado   ++ iphone 14 pro max en caja + funda 
+169/606 ## excluido   ##  mini power bank 6600mah iphone 14,13,12 y 11
+170/606 ++ guardado   ++ iphone 14 128gb azul medianoche
+171/606 --precio bajo --  110,00 cambio de pantalla iphone 14
+172/606 ## excluido   ##  funda iphone 14pro 
+173/606 ## excluido   ##  funda iphone 14
+174/606 ## excluido   ##  iphone 14pro max morado oscuro 256 g
+175/606 ## excluido   ##  iphone 14pro púrpura noche oscura 256g
+176/606 ## excluido   ##  funda magsafe iphone 14 pro max amarillo 
+177/606 ## excluido   ##  iphone 14pro - funda de telefono
+178/606 ## excluido   ##  funda iphone 14
+179/606 ## excluido   ##  funda iphone 14 plus transparente
+180/606 --precio bajo --  5,00 iphone 14 pro funda
+181/606 --precio bajo --  5,00 iphone 14 pro funda
+182/606 --precio bajo --  5,00 iphone 14 pro funda
+183/606 --precio bajo --  2,50 iphone 14 pro max
+184/606 --precio bajo --  8,00 carcarsa iphone 14 pro 
+185/606 ## excluido   ##  carcasa impermeable hasta 40m para iphone
+186/606 ## excluido   ##  funda iphone 14 original de apple 
+187/606 --precio bajo --  5,00 iphone 14 pro funda
+188/606 --precio bajo --  8,00 iphone 14 pro funda
+189/606 --precio bajo --  5,00 iphone 14 pro funda
+190/606 ## excluido   ##  carcasa para iphone 14 pro
+191/606 ## excluido   ##  funda de iphone 14 pro
+192/606 ## excluido   ##  funda  iphone 14 pro
+193/606 ## excluido   ##  funda iphone 14 pro 6,1 pulgadas- negro
+194/606 --precio bajo --  120,00 cambio de pantalla iphone 14 plus
+195/606 ++ guardado   ++ iphone 14 pro max 256gb gold
+196/606 ## excluido   ##  funda iphone 14 pro max
+197/606 --precio bajo --  13,00 soporte iphone 12 13 14 15 16
+198/606 ## excluido   ##  fundas carcasas iphone 14 pro max
+199/606 ## excluido   ##  funda iphone 14 wildflower charli xcx
+200/606 ## excluido   ##  funda de apple con magsafe para iphone 14 plus
+201/606 ## excluido   ##  funda iphone 14
+202/606 ++ guardado   ++ iphone 14 
+203/606 ## excluido   ##  carcasa iphone 14 pro
+204/606 ## excluido   ##  caja iphone 14
+205/606 ## excluido   ##  funda iphone 14
+206/606 ## excluido   ##  funda iphone 14 pro max
+207/606 ## excluido   ##  funda iphone 14 pro max
+208/606 ## excluido   ##  caja iphone 14 pro max 
+209/606 ## excluido   ##  funda iphone 14 
+210/606 ## excluido   ##  fundas iphone 14
+211/606 ## excluido   ##  fundas iphone 14 nuevas
+212/606 ## excluido   ##  fundas iphone 14 plus
+213/606 ## excluido   ##  soporte movil bici y moto
+214/606 ## excluido   ##  funda metal iphone 14 pro max
+215/606 ## excluido   ##  caja vacia iphone 14 plus
+216/606 --precio bajo --  5,00 iphone 14 funda beige
+217/606 ## excluido   ##  funda iphone 13/14
+218/606 ## excluido   ##  funda iphone 14 pro
+219/606 --precio bajo --  15,00 rhode lip case iphone 14
+220/606 ## excluido   ##  funda colgante iphone 14 purificación garcía
+221/606 --precio bajo --  240,00 cambio de pantalla iphone 14 pro max
+222/606 ## excluido   ##  funda para iphone 14max
+223/606 ++ guardado   ++ iphone 14 pro max deep purple 128gb
+224/606 ++ guardado   ++ iphone 14 pro max 128 gb deep purple
+225/606 ++ guardado   ++ iphone 14 pro max 128gb space black
+226/606 --precio bajo --  1,00 case iphone 14 pro
+227/606 ++ guardado   ++ iphone 14 
+228/606 ## excluido   ##  funda iphone 14 pro 
+229/606 ## excluido   ##  funda iphone 14 pro max
+230/606 ## excluido   ##  funda iphone 14
+231/606 ## excluido   ##  caja iphone 14 pro max edución purpura
+232/606 ## excluido   ##  funda movil iphone 14
+233/606 ## excluido   ##  fundas iphone 14 pro
+234/606 ## excluido   ##  funda iphone 14 
+235/606 ## excluido   ##  protector de lente de camara para iphone
+236/606 ## excluido   ##  funda de stitch primark 
+237/606 ## excluido   ##  fundas iphone 14
+238/606 ## excluido   ##  caja de iphone 14
+239/606 ## excluido   ##  funda iphone 14 pro max protección de cámara
+240/606 ## excluido   ##  funda de cuero para iphone 14.
+241/606 ## excluido   ##  fundas iphone 13 
+242/606 ++ guardado   ++ iphone 14 pro
+243/606 ++ guardado   ++ iphone 14 pro
+244/606 ++ guardado   ++ iphone 14 pro max 128 gb 
+245/606 ## excluido   ##  fundas iphone 14 pro
+246/606 ## excluido   ##  fundas iphone 14
+247/606 ## excluido   ##  cartera magnética  / magsafe  / iphone  / nueva
+248/606 ## excluido   ##  funda iphone 14 plus
+249/606 ## excluido   ##  fundas
+250/606 ## excluido   ##  fundas
+251/606 ## excluido   ##  fundas
+252/606 ## excluido   ##  fundas
+253/606 ++ guardado   ++ iphone 14 pro 256gb morado (no funciona)
+254/606 ## excluido   ##  carcasa de iphone 15, 14, 13 , 12 pro max plus 
+255/606 ## excluido   ##  fundas iphone 14 pro
+256/606 --precio bajo --  200,00 cambio de pantalla 14 pro
+257/606 ## excluido   ##  funda iphone 14 pro max
+258/606 ## excluido   ##  funda iphone 13/14/15
+259/606 ## excluido   ##  carcasa con cordón iphone 14 plus
+260/606 ## excluido   ##  funda de silicona para iphone 14
+261/606 ## excluido   ##  funda de silicona para iphone 14
+262/606 ## excluido   ##  protector pantalla iphone 6,7 pulgadas
+263/606 ## excluido   ##  caja movil iphone 14
+264/606 --precio bajo --  5,00 cristal/tapa trasera iphone 14 📲🔧
+265/606 --precio bajo --  10,00 ¡¡protector pantalla iphone 14 plus!!
+266/606 ## excluido   ##  caja iphone 14 128gb - 100% original
+267/606 ++ guardado   ++ iphone 14 azul (128gb)
+268/606 ## excluido   ##  funda protectora transparente iphone 14 pro max
+269/606 ## excluido   ##  funda iphone 14 pro
+270/606 ## excluido   ##  funda de iphone 14 pro
+271/606 ## excluido   ##  funda de silicona para iphone 14 plus
+272/606 ## excluido   ##  fundas movil iphone 14
+273/606 ## excluido   ##  carcasa iphone 14 plus
+274/606 ## excluido   ##  funda iphone 14 nueva
+275/606 ## excluido   ##  tapa iphone 14 blanco cristal trasero
+276/606 ## excluido   ##  tapa iphone 14 rojo cristal trasero
+277/606 ## excluido   ##  funda i-phone 14 pro louis vuitton
+278/606 ++ guardado   ++ iphone 128gb  14 pro max nuevo 
+279/606 ## excluido   ##  ssd externo para iphone usbc zike 512gb
+280/606 ## excluido   ##  protector pantalla iphone 14 pro
+281/606 ++ guardado   ++ iphone 14 plus 128gb 
+282/606 ## excluido   ##  nueva!!! funda apple iphone 14 pro
+283/606 ## excluido   ##  caja de iphone 14 pro
+284/606 ## excluido   ##  funda iphone 14
+285/606 --precio bajo --  1,00 caracasa iphone 14
+286/606 ## excluido   ##  funda iphone 14 pro
+287/606 ## excluido   ##  funda iphone 14 pro
+288/606 ## excluido   ##  fundas color iphone 14
+289/606 ## excluido   ##  funda negra iphone 13
+290/606 ## excluido   ##  funda iphone 14 pro
+291/606 ## excluido   ##  protector de pantalla de vidrio templado iphone
+292/606 ## excluido   ##  fundas de iphone 14 pro
+293/606 ## excluido   ##  funda iphone 14 pro max
+294/606 ## excluido   ##  funda iphone 14
+295/606 ## excluido   ##  funda iphone 14 pro
+296/606 ## excluido   ##  fundas iphone 14 pro max
+297/606 --precio bajo --  12,00 iphone 14 pro by air funda. 
+298/606 ## excluido   ##  cable para iphone nuevos
+299/606 ## excluido   ##  funda móvil y cámara minimalista - iphone 13/14
+300/606 ## excluido   ##  otterbox funda de iphone 14 pro 
+301/606 ## excluido   ##  funda iphone 14
+302/606 ## excluido   ##  iphone 15 plus
+303/606 ## excluido   ##  iphone pro max 256gb deep purple
+304/606 ## excluido   ##  apple funda de silicona con magsafe iphone 14 
+305/606 ## excluido   ##  funda iphone 14 pro max one piece
+306/606 ## excluido   ##  galaxy tab s9
+307/606 ++ guardado   ++ iphone 14 pro
+308/606 ## excluido   ##  carga rápida iphone tipo lightning apple
+309/606 ## excluido   ##  funda iphone 14 pro max 
+310/606 ## excluido   ##  funda iphone 13,14
+311/606 ## excluido   ##  funda moschino para iphone 14 pro max
+312/606 --precio bajo --  60,00 quad lock iphone 14 pro max para moto
+313/606 ## excluido   ##  cargador magnetico
+314/606 ## excluido   ##  funda doupi ultra hybrid iphone 14
+315/606 ## excluido   ##  funda movil iphone 13/14 mobnano
+316/606 ++ guardado   ++ iphone 14 pro max 
+317/606 ## excluido   ##  funda iphone con logo 1:1
+318/606 ## excluido   ##  funda iphone 14 pro max
+319/606 ## excluido   ##  funda iphone 14 pro max
+320/606 ## excluido   ##  caja iphone 14 pro
+321/606 ++ guardado   ++ iphone 14 pro ¡nuevo!
+322/606 ## excluido   ##  cristal iphone 13 
+323/606 ++ guardado   ++ iphone 14 pro ¡nuevo!
+324/606 ## excluido   ##  tapa iphone cristal trasero
+325/606 ## excluido   ##  funda aesthetic iphone 14 plus
+326/606 ## excluido   ##  funda iphone 14
+327/606 ## excluido   ##  portector camaras iphone 
+328/606 ## excluido   ##  cargador garga rapida
+329/606 --precio bajo --  8,00 prprotector de pantalla iphone 14
+330/606 ## excluido   ##  funda versace para iphone 13,14
+331/606 ## excluido   ##  carcasa iphone 14
+332/606 ++ guardado   ++ iphone 14 plus blanco 
+333/606 ## excluido   ##  funda color lila iphone 14 con imán .
+334/606 ++ guardado   ++ iphone 14 pro max
+335/606 ## excluido   ##  carcasa compatible con iphone 14 pro
+336/606 ## excluido   ##  pack fundas para iphone 14. todas 20€
+337/606 ## excluido   ##  funda de silicona para iphone 14 pro max
+338/606 ## excluido   ##  carcasas iphone 14 
+339/606 ## excluido   ##  funda iphone 14 pro
+340/606 ++ guardado   ++ iphone 14 pro
+341/606 ## excluido   ##  tapas iphone cristal trasero
+342/606 ## excluido   ##  fundas iphone 14 pro max 
+343/606 ## excluido   ##  fundas de movil iphone 14 pro max
+344/606 ## excluido   ##  funda iphone 14 pro
+345/606 ## excluido   ##  fundas de silicona iphone
+346/606 ## excluido   ##  funda iphone 14 plus
+347/606 ## excluido   ##  carcasa iphone 
+348/606 ## excluido   ##  caja de iphone 14 plus
+349/606 ++ guardado   ++ iphone 14 plus
+350/606 ## excluido   ##  cable apple iphone nuevo calidad 1,5m <precintado>
+351/606 ## excluido   ##  pack de fundas iphone
+352/606 ## excluido   ##  funda iphone 14 pro
+353/606 ## excluido   ##  fundas  iphone 14
+354/606 ++ guardado   ++ iphone 14 128gb
+355/606 ## excluido   ##  fundas para iphone
+356/606 ## excluido   ##  fundad y protectores de iphone 
+357/606 ## excluido   ##  6 fundas por 20€ iphone 14 pro max
+358/606 ## excluido   ##  funda carcasa iphone 14
+359/606 ## excluido   ##  funda iphone 14 pro stitch
+360/606 ## excluido   ##  funda para iphone 
+361/606 ## excluido   ##  caja iphone 14
+362/606 ## excluido   ##  funda para iphone 14 pro max protector lente
+363/606 ## excluido   ##  fundas iphone 14 pro
+364/606 ## excluido   ##  funda iphone con logo de lujo 1:1
+365/606 --precio bajo --  105,00 cambiar pantalla iphone 14
+366/606 ## excluido   ##  fundas 
+367/606 ++ guardado   ++ iphone 14 pro 256 gb
+368/606 ## excluido   ##  carcasa para iphone 14 guess
+369/606 ## excluido   ##  funda iphone 14 max 
+370/606 ## excluido   ##  funda de “hello kitty” para iphone 14 pro max
+371/606 ## excluido   ##  fundas iphone 14 pro max
+372/606 ## excluido   ##  funda móvil navidad iphone 14 pro
+373/606 ## excluido   ##  protector cristal iphone 14 mini 
+374/606 ## excluido   ##  caja vacía de iphone 14
+375/606 ## excluido   ##  funda para iphone 14 pro max
+376/606 ## excluido   ##  iphone 16 pro max 256 gb natural nuevo 
+377/606 ## excluido   ##  apple funda iphone 14
+378/606 ## excluido   ##  funda apple iphone 14 plus
+379/606 ## excluido   ##  apple funda iphone 14 
+380/606 ## excluido   ##  ufinetech funda para iphone 14 pro max
+381/606 ## excluido   ##  funda móvil iphone 14 plus
+382/606 ## excluido   ##  funda iphone 14 pro
+383/606 ## excluido   ##  funda apple iphone 14 pro max transparente 
+384/606 --precio bajo --  105,00 cambiar pantalla iphone 14 plus
+385/606 ## excluido   ##  funda carcasa iphone 14 pro max
+386/606 ## excluido   ##  funda iphone 14 plus
+387/606 --precio bajo --  1,00 dos protectores para iphone 14 pro
+388/606 ++ guardado   ++ iphone 14 plus
+389/606 ## excluido   ##  funda iphone 14 plus
+390/606 ## excluido   ##  movil iphone 15 plus negro 256gb * a estrenar*
+391/606 ## excluido   ##  funda iphone 14 iphone 15
+392/606 ## excluido   ##  funda magsafe iphone 14 pro max azul
+393/606 --precio bajo --  25,00 tapa trasera de iphone 14 pro max 
+394/606 ## excluido   ##  funda iphone 14pro
+395/606 ## excluido   ##  carcasa y cristales protectores iphone 14 plus/max
+396/606 ## excluido   ##  ringke
+397/606 ## excluido   ##  apple funda iphone 14 pro 
+398/606 ## excluido   ##  funda iphone 14 pro max
+399/606 ## excluido   ##  nuevo wireless adapter ios soporte cargador 15w 
+400/606 ## excluido   ##  apple funda iphone 14 pro
+401/606 ## excluido   ##  apple funda iphone 14 plus
+402/606 ## excluido   ##  apple funda iphone 14 pro
+403/606 ## excluido   ##  apple funda iphone 14 plus
+404/606 --precio bajo --  6,50 cable para iphone 14 usb a lightning
+405/606 ## excluido   ##  jetech
+406/606 ## excluido   ##  funda negra acolchada para iphone 13/14
+407/606 ## excluido   ##  funda acolchada iphone 13/14 azul
+408/606 ## excluido   ##  funda para iphone 14 pro max
+409/606 ## excluido   ##  funda iphone 14 pro max
+410/606 ## excluido   ##  tapa iphone cristal trasero
+411/606 ## excluido   ##  funda iphone 
+412/606 ## excluido   ##  caja iphone 14 pro max blanco 
+413/606 --precio bajo --  100,00 iphone 14 piezas 
+414/606 ++ guardado   ++ iphone 14 pro. también cambio por max o superior
+415/606 ## excluido   ##  funda móvil iphone 14 con regalos
+416/606 ## excluido   ##  apple funda iphone 14 silicone case
+417/606 ## excluido   ##  apple funda iphone 14 silicone case
+418/606 ## excluido   ##  funda off-white iphone 13
+419/606 ## excluido   ##  apple funda iphone 14 silicone case
+420/606 ## excluido   ##  apple funda iphone 14 pro máx 
+421/606 ++ guardado   ++ iphone 14 128gb negro
+422/606 ++ guardado   ++ iphone 14 pro max 256gb
+423/606 ## excluido   ##  2 fundas fasión iphone 14pro max
+424/606 ## excluido   ##  funda iphone 14 pro max original 
+425/606 ## excluido   ##  iphone 14promax 256gb
+426/606 ++ guardado   ++ iphone 14 pro max 256gb
+427/606 ## excluido   ##  cristal para cámara trasera iphone 14-15
+428/606 ## excluido   ##  cable carga rápida iphone 
+429/606 ## excluido   ##  funda 14 pro
+430/606 ## excluido   ##  funda iphone 14 pro max dsquared2 icon
+431/606 ## excluido   ##  cable iphone carga
+432/606 ## excluido   ##  funda apple iphone 14 pro
+433/606 ## excluido   ##  pack carcasas iphone 14 plus
+434/606 ## excluido   ##  pack fundas iphone 14 pack
+435/606 ## excluido   ##   surphy funda compatible con iphone 14 pro 6.1 pul
+436/606 --precio bajo --  10,00 iphone 14 pro funda 
+437/606 --precio bajo --  10,00 iphone 14 pro funda 
+438/606 --precio bajo --  10,00 iphone 14 pro funda 
+439/606 --precio bajo --  10,00 iphone 14  pro funda 
+440/606 --precio bajo --  10,00 iphone 14 pro funda 
+441/606 --precio bajo --  12,00 iphone 14 pro funda 
+442/606 ## excluido   ##  apple cartera magsafe
+443/606 ## excluido   ##  funda iphone 13
+444/606 ## excluido   ##  funda iphone 14 pro
+445/606 ## excluido   ##  cable carga rápida iphone c-lightni
+446/606 ++ guardado   ++ iphone 14 plus rojo original 
+447/606 ## excluido   ##  funda iphone 14 pro
+448/606 ## excluido   ##  > funda iphone 14 pro
+449/606 ## excluido   ##  z flip 6 azul con garantía 
+450/606 ## excluido   ##  cabezales originales apple 20w 
+451/606 --precio bajo --  10,00 cargador inalámbrico iphone 14 15 airpods watch
+452/606 ## excluido   ##  funda iphone 14 pro max 
+453/606 ## excluido   ##  funda para iphone 12 / 13 / 14 pro max
+454/606 ## excluido   ##  cambiar pantalla iphone 15
+455/606 ## excluido   ##  funda iphone 13/14 de karl lagerfeld
+456/606 ## excluido   ##  2 cables usb a lightning nuevos
+457/606 --precio bajo --  12,00 👉funda de alumínio para iphone 14 pro 
+458/606 ## excluido   ##  moldes alfombrilla de laminacion de iphone 
+459/606 ## excluido   ##  funda para el iphone 14
+460/606 ## excluido   ##  funda transparente con borde para iphone 14 pro
+461/606 ## excluido   ##  funda magsafe de  iphone 14 azul
+462/606 ## excluido   ##  funda negra iphone 14 plus
+463/606 ## excluido   ##  funda iphone 14 pro max
+464/606 --precio bajo --  30,00 finda magsafe iphone 14 de piel 
+465/606 ## excluido   ##  cargador usb-c 25w y cable carga rapida
+466/606 ## excluido   ##  funda iphone + 3 protectores
+467/606 ## excluido   ##  funda iphone 13 ó 14
+468/606 ## excluido   ##  funda iphone azul
+469/606 ## excluido   ##  funda silicona iphone 14 pro lila
+470/606 ## excluido   ##  cristal templado y funda iphone 14 pro
+471/606 ## excluido   ##  fundas de iphone 14 pro max
+472/606 --precio bajo --  20,00 iphone 14 pro funda mickey mouse 
+473/606 ## excluido   ##  funda iphone 14 pro max-deep space bla
+474/606 --precio bajo --  12,00 👉funda acrílica iphone 14 pro max 
+475/606 --precio bajo --  10,00 👉caja acrílica para iphone 14 pro max 
+476/606 ## excluido   ##  funda iphone 14 pro max attack on titan
+477/606 --precio bajo --  15,00 👉funda alumínio iphone 14 pro max 
+478/606 ## excluido   ##  protector camara iphone 14 promax
+479/606 ## excluido   ##  funda de iphone
+480/606 ## excluido   ##  funda magsafe iphone 14 transparente 
+481/606 ## excluido   ##  funda iphone 14 pro max tnf 
+482/606 ## excluido   ##  caja original (sin móvil) iphone 14 pro
+483/606 ## excluido   ##  funda iphone 14 pro silicona + glass
+            id  ...                                                url
+0   1086024723  ...  https://es.wallapop.com/item/iphone-14-plus-51...
+1   1085906455  ...  https://es.wallapop.com/item/iphone-14-1085906455
+2   1086011296  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+3   1085965804  ...  https://es.wallapop.com/item/iphone-14-plus-12...
+4   1085727407  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+..         ...  ...                                                ...
+78   948610186  ...  https://es.wallapop.com/item/iphone-14-pro-bla...
+79   891791338  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+80   947989272  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+81   930679137  ...  https://es.wallapop.com/item/iphone14-pro-max-...
+82   918843754  ...  https://es.wallapop.com/item/iphone-14-plus-ro...
+
+[83 rows x 6 columns]
+20250106
+iphone 14
+new
+csv guardado

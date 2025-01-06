@@ -1,0 +1,116 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2012&longitude=-3.69196&latitude=40.41956&distance=2000000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/517 ++ guardado   ++ go pro hero 12 negro
+1/517 ## excluido   ##  gopro hero 8 negra
+2/517 ++ guardado   ++ gopro hero 12 black
+3/517 ## excluido   ##  camara ultracompacta gopro hero12 black
+4/517 ++ guardado   ++ gopro black 12
+5/517 ## excluido   ##  camara ultracompacta gopro hero12 black
+6/517 ## excluido   ##  gopro12
+7/517 ++ guardado   ++ gopro 12
+8/517 ## excluido   ##  cargador de batería telesin gopro charger 
+9/517 ## excluido   ##  gopro hero 6 negra súper equipada
+10/517 ++ guardado   ++ camara gopro hero 12 black - accesorios
+11/517 ## excluido   ##  volta gopro 
+12/517 ## excluido   ##  gopro 10
+13/517 ## excluido   ##  gopro volta
+14/517 ## excluido   ##  adaptador de micrófono gopro
+15/517 ## excluido   ##  gopro 7 black camara accion
+16/517 ## excluido   ##  gopro hero 7 black camara accion
+17/517 ## excluido   ##  gopro hero 4 plata 
+18/517 ## excluido   ##  gopro hero 4 
+19/517 ## excluido   ##  camara deportiva gopro 9 black + funda y acc
+20/517 ++ guardado   ++ gopro hero 12 black ed.
+21/517 ## excluido   ##  cámara gopro hero 3 + (plus) black edition
+22/517 --precio bajo --  99,95 🔴 gopro hero5 vídeo 4k, 12 mp cámara deportiva
+23/517 ## excluido   ##  camara ultracompacta gopro hero4
+24/517 ## excluido   ##  gopro hero 7 black
+25/517 ## excluido   ##  gopro hero 7 black
+26/517 ## excluido   ##  gopro hero5 black con accesorios incluidos en el precio
+27/517 ## excluido   ##  cámara de acción estilo gopro con accesorios
+28/517 ## excluido   ##  gopro hero 8 black 
+29/517 ++ guardado   ++ camara gopro hero 12 negra
+30/517 ## excluido   ##  camara ultracompacta gopro hero4
+31/517 ## excluido   ##  funda acuatica gopro 9/10/11/12/13
+32/517 ++ guardado   ++ camara gopro hero 12 black
+33/517 ## excluido   ##  funda naranja gopro
+34/517 ## excluido   ##  camara deportiva gopro hero 3 silver
+35/517 ++ guardado   ++ go pro hero 12 black
+36/517 ## excluido   ##  tapa original gopro 9/10/11/12
+37/517 ## excluido   ##  carcasa buceo gopro 9/10/11/12/13
+38/517 ## excluido   ##  dedos plegables de repuesto gopro 9/10/11/12
+39/517 ## excluido   ##  gopro hero 9 lente max
+40/517 ++ guardado   ++ gopro hero 12 black  5.3k uhd
+41/517 ++ guardado   ++ camara gopro hero 12 black 184187
+42/517 ## excluido   ##  camara deportiva gopro hero 3
+43/517 ++ guardado   ++ camara hero 12 black
+44/517 ## excluido   ##  cámara gopro hero 7 negra
+45/517 ## excluido   ##  gopro 11 mini
+46/517 ++ guardado   ++ camara gopro hero 12 black 27mp 5.3k
+47/517 ## excluido   ##  go pro national geographic
+48/517 ## excluido   ##  gopro hero black 5
+49/517 ## excluido   ##  maletín accesorios para gopro hero 9,10,11,12  
+50/517 ## excluido   ##  gopro 4 y cupula 
+51/517 ## excluido   ##  gopro hero 7 black
+52/517 ## excluido   ##  gopro hero3 black edition
+53/517 ## excluido   ##  gopro  volta accesorio para a11 10 9 h11 
+54/517 ## excluido   ##  go pro hero 5
+55/517 ## excluido   ##  vídeo camara gopro hero 6 black
+56/517 ## excluido   ##  sk8 cam 4k ultahd similar a gopro
+57/517 ## excluido   ##  go pro hero4
+58/517 ## excluido   ##  gopro hero5 black - pack de accesorios incluídos
+59/517 ## excluido   ##  gopro hero4 silver cámara
+60/517 ## excluido   ##  camara 360 grados video y foto realidad virtual
+61/517 ## excluido   ##  go pro hero 3+ black kit
+62/517 ## excluido   ##  gopro hero5 black
+63/517 ## excluido   ##  cámara deportiva sumergible (imitación gopro)
+64/517 ## excluido   ##  gopro hero 4
+65/517 ## excluido   ##  gopro 3 black edition
+66/517 ## excluido   ##  camara gopro hero 4 silver con carcasa hermetica
+67/517 ## excluido   ##  camara acuatica
+68/517 ## excluido   ##  cámara go pro hd 1080p wifi 
+69/517 ## excluido   ##  go pro hero 8 black
+70/517 ## excluido   ##  gopro hero 3 black edition
+71/517 ## excluido   ##  gopro hero 3 black edition
+72/517 ## excluido   ##  gopro hero 5
+73/517 ## excluido   ##  samsung es25 cámara digital compacta leer
+74/517 ## excluido   ##  nikon coolpix p60 camera digital compacta leer 
+75/517 ## excluido   ##  samsung nv20 camera digital compacta leer 
+76/517 ## excluido   ##  camara ultracompacta gopro hero7
+            id  ...                                                url
+0   1085653553  ...  https://es.wallapop.com/item/go-pro-hero-12-bl...
+1   1085870411  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+2   1084784847  ...  https://es.wallapop.com/item/gopro-black-12-10...
+3   1079605964  ...   https://es.wallapop.com/item/gopro-12-1079605964
+4   1082684342  ...  https://es.wallapop.com/item/camara-gopro-hero...
+5   1074537583  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+6   1071027813  ...  https://es.wallapop.com/item/camara-gopro-hero...
+7   1070361165  ...  https://es.wallapop.com/item/camara-gopro-hero...
+8   1077608136  ...  https://es.wallapop.com/item/go-pro-hero-12-bl...
+9   1067112756  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+10  1049949276  ...  https://es.wallapop.com/item/camara-gopro-hero...
+11  1073249482  ...  https://es.wallapop.com/item/camara-hero-12-bl...
+12  1058753470  ...  https://es.wallapop.com/item/camara-gopro-hero...
+
+[13 rows x 6 columns]
+20250106
+gopro 12
+good
+csv guardado

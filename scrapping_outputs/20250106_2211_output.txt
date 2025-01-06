@@ -1,0 +1,59 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2013&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/618 ## excluido   ##  gopro hero 9  con 2 baterias  opciones 
+1/618 ++ guardado   ++ gopro hero 13 con accesorios
+2/618 ## excluido   ##  hohem gimbal gopro 
+3/618 ## excluido   ##  funda protectora para gopro 9/10/11/12/13
+4/618 ## excluido   ##  reloj omega
+5/618 ## excluido   ##  case protector para gopro 13,12,11,10 y 9
+6/618 ## excluido   ##  gopro hero 12 black
+7/618 ## excluido   ##  gopro hero 12 naked
+8/618 ## excluido   ##  hohem isteady pro 2
+9/618 ## excluido   ##  hohem isteady pro 4 estabilizador gimbal#131681
+10/618 ## excluido   ##  sony rx0 
+11/618 ## excluido   ##  gopro 8 con accesorios
+12/618 ## excluido   ##  cámara gopro 
+13/618 ## excluido   ##  gopro hero 7 black
+14/618 ## excluido   ##  gopro hero 9 black 
+15/618 ## excluido   ##  gopro hero 5 black
+16/618 ## excluido   ##  gopro hero5
+17/618 ## excluido   ##  carcasa para gopro en venta
+18/618 ## excluido   ##  gopro hero 8 black
+19/618 ## excluido   ##  palo selfie gopro
+20/618 ## excluido   ##  gopro hero 4 camera
+21/618 ## excluido   ##  gopro hero 12 black 
+22/618 ## excluido   ##  gopro hero 9 black y accesorios
+23/618 ## excluido   ##  cámara de accion gopro hero5  todos accesorios
+24/618 ## excluido   ##  gopro 7 black
+25/618 ## excluido   ##  gopro hero 8 black y accesorios 
+26/618 ## excluido   ##  cámara gopro hero12 creator edition 
+27/618 ## excluido   ##  camara tipo gopro airis full hd 
+28/618 ## excluido   ##  funda silicona gopro
+29/618 ## excluido   ##  cámara gopro sjcam 
+30/618 ## excluido   ##  gopro hero3+
+31/618 ## excluido   ##  baterias gopro hero 9/10/11
+           id  ...                                                url
+0  1076466194  ...  https://es.wallapop.com/item/gopro-hero-13-107...
+
+[1 rows x 6 columns]
+20250106
+gopro 13
+as_good_as_new
+csv guardado

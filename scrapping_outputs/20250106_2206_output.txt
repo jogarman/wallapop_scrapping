@@ -1,0 +1,76 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2011&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/487 ## excluido   ##  funda + film protector gopro 9 10 11 12
+1/487 ## excluido   ##  bateria gopro enduro nueva
+2/487 ## excluido   ##  funda impermeable +dock + filtros gopro 9 10 11 12
+3/487 ++ guardado   ++ go pro 11 como nueva
+4/487 ## excluido   ##  gopro hero 9. nueva
+5/487 ## excluido   ##  ⚠️gopro hero 12 naked nueva
+6/487 ++ guardado   ++ camara go pro hero 11 black
+7/487 ++ guardado   ++ gopro 11 black
+8/487 ## excluido   ##  caja gopro almacenamiento 
+9/487 ## excluido   ##  funda silicona gopro 9/10/11/12/13
+10/487 ## excluido   ##  accesorio pegarina gopro
+11/487 ## excluido   ##  accesorios insta 360 x2 x3 x4 gopro
+12/487 ++ guardado   ++ ⚠️gopro hero 11 naked nueva
+13/487 --precio bajo --  20,00 estuche gopro hero 9 / 10 / 11 / 12 / 13 con todo
+14/487 ## excluido   ##  funda de silicona para gopro hero 9, 10, 11, 12 
+15/487 --precio bajo --  18,00 kit de accesorios para gopro 13 12 11 10 y 9
+16/487 ## excluido   ##  isteady pro 4 estabilizador gimbal gopro
+17/487 ## excluido   ##  volta gopro camara  9/10/11/12 
+18/487 ## excluido   ##  volta gopro 
+19/487 ## excluido   ##  trípode flexible de pulpo con rotula y clip. nuevo
+20/487 ## excluido   ##  cámara yi 4k 
+21/487 ## excluido   ##  funda impermeable gopro 12
+22/487 ## excluido   ##  accesorio correa montaje casco cámara gopro
+23/487 ## excluido   ##  soporte gopro hjc rpha 70
+24/487 --precio bajo --  20,00 soporte camara accion gopro hero 12 11 10 9
+25/487 ## excluido   ##  protector lente compatible gopro 9/10/11
+26/487 ## excluido   ##  base de montaje + tornillo para gopro
+27/487 ## excluido   ##  pinza de sujeción giratoria para gopro
+28/487 ## excluido   ##  base regulable con ventosa para gopro
+29/487 ## excluido   ##  adaptador base+tornillo para gopro
+30/487 ## excluido   ##  correa de sujeción elástica para gopro
+31/487 ## excluido   ##  muñequera de sujeción 360 para gopro
+32/487 ## excluido   ##  arnes de pecho para perro para gopro
+33/487 ## excluido   ##  soporte jaws con pinza para gopro
+34/487 ## excluido   ##   maletin  xxl para accesorios gopro
+35/487 ## excluido   ##  base tubular regulable de bicicleta para gopro
+36/487 ## excluido   ##  hebilla vertical para gopro (2und)
+37/487 ## excluido   ##   tornillo pasador para cámara deportiva gopro....
+38/487 ## excluido   ##   base de montaje casco kevlar para gopro
+39/487 ## excluido   ##  soporte bicicleta 360º para gopro
+40/487 ## excluido   ##  conjunto de bisagras para cámara deportiva gopro
+41/487 ## excluido   ##  hebilla  para carcasa acuatica ,gopro hd hero 3+/4
+42/487 ## excluido   ##  clip de mochila, montaje para go pro
+43/487 ## excluido   ##  bicicleta carretera lapierre sat 7.0 nueva talla s
+44/487 ## excluido   ##  bicicleta lapierre pulsium 3.0 nueva
+45/487 ## excluido   ##  bicicleta lapierre pulsium sat 8.0 nueva
+           id  ...                                                url
+0  1083902061  ...  https://es.wallapop.com/item/go-pro-11-como-nu...
+1  1079697974  ...  https://es.wallapop.com/item/camara-go-pro-her...
+2  1051932652  ...  https://es.wallapop.com/item/gopro-11-black-10...
+3  1061806929  ...  https://es.wallapop.com/item/gopro-hero-11-nak...
+
+[4 rows x 6 columns]
+20250106
+gopro 11
+new
+csv guardado
