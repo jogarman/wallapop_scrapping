@@ -1,0 +1,115 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2014&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/78 ++ guardado   ++ iphone 14 pro 256gb
+1/78 ++ guardado   ++ iphone 14
+2/78 ++ guardado   ++ iphone 14 
+3/78 ++ guardado   ++ iphone 14
+4/78 ++ guardado   ++ iphone 14 impoluto
+5/78 ++ guardado   ++ iphone 14
+6/78 ++ guardado   ++ iphone 14
+7/78 ++ guardado   ++ iphone 14 impoluto
+8/78 ++ guardado   ++ iphone 14 (128gb) como nuevo
+9/78 ++ guardado   ++ iphone 14 
+10/78 ++ guardado   ++ iphone 14 256 gb
+11/78 ++ guardado   ++ iphone 14
+12/78 ++ guardado   ++ iphone 14 pro max
+13/78 --precio bajo --  0,00 iphone 14 pro max
+14/78 ++ guardado   ++ iphone 14 256gb igual a nuevo📲
+15/78 ++ guardado   ++ iphone 14 pro max
+16/78 ++ guardado   ++ iphone 14 pro  128gb
+17/78 ++ guardado   ++ iphone 14 pro max
+18/78 ++ guardado   ++ iphone 14 pro max
+19/78 ++ guardado   ++ iphone 14 plus
+20/78 ++ guardado   ++ iphone 14
+21/78 ++ guardado   ++ iphone 14 pro max 
+22/78 ++ guardado   ++ iphone 14 pro 128gb negro
+23/78 ++ guardado   ++ iphone 14 pro max
+24/78 ++ guardado   ++ iphone 14 plus 128gb nuevo
+25/78 ++ guardado   ++ iphone 14 128gg
+26/78 ++ guardado   ++ iphone 14 pro 256 morado 
+27/78 ++ guardado   ++ iphone 14 pro max 512gb plata
+28/78 ++ guardado   ++ iphone 14 plus 256 gb azul
+29/78 ++ guardado   ++ iphone 14 pro max
+30/78 ++ guardado   ++ iphone 14 pro 128gb negro
+31/78 ++ guardado   ++ iphone 14 128gb azul muy buen estado
+32/78 ++ guardado   ++ iphone 14 pro (128gb) como nuevo
+33/78 ++ guardado   ++ iphone 14 pro max 256 gb bat 88 impecable
+34/78 ++ guardado   ++ iphone 14 plus 256gb
+35/78 ++ guardado   ++ iphone 14 plus 128gb negro
+36/78 ++ guardado   ++ iphon 14 pro
+37/78 ++ guardado   ++ iphone 14 pro 256gb
+38/78 ++ guardado   ++ iphone 14
+39/78 ++ guardado   ++ iphone 14 pro (256gb) como nuevo
+40/78 ++ guardado   ++ iphone 14 pro
+41/78 ++ guardado   ++ iphone 14 plus
+42/78 ++ guardado   ++ iphone 14 
+43/78 ++ guardado   ++ iphone 14
+44/78 ++ guardado   ++ iphone 14 128gb 
+45/78 ++ guardado   ++ iphone 14 pro + regalo
+46/78 ++ guardado   ++ iphone 14 pro
+47/78 ++ guardado   ++ iphone 14 plus (256gb) como nuevo
+48/78 ++ guardado   ++ iphone 14 
+49/78 --precio bajo --  200,00 iphone 14 para repuestos placa estropead
+50/78 ++ guardado   ++ iphone 14 pro 256 gb
+51/78 ++ guardado   ++ iphone 14 / 128 gb
+52/78 ++ guardado   ++ iphone 14 pro max 128gb
+53/78 ++ guardado   ++ iphone 14 128gb
+54/78 ++ guardado   ++ iphone 14 pro max 256 gb
+55/78 ++ guardado   ++ iphone 14 pro max (256gb) como nuevo
+56/78 ++ guardado   ++ iphone 14 pro max
+57/78 ++ guardado   ++ iphone 14 
+58/78 ++ guardado   ++ iphone 14 pro 256gb
+59/78 ++ guardado   ++ iphone 14 pro max 256gb
+60/78 ++ guardado   ++ iphone 14 pro silver
+61/78 ++ guardado   ++ iphone 14 seminuevo
+62/78 ++ guardado   ++ apple iphone 14 256gb amarillo - revisado
+63/78 ++ guardado   ++ iphone 14 pro max 256 gb morado
+64/78 ++ guardado   ++ iphone 14 pro max
+65/78 ++ guardado   ++ iphone 14 256 gb 
+66/78 ++ guardado   ++ iphone 14 128 gb
+67/78 ++ guardado   ++ iphone 14 pro max 
+68/78 ++ guardado   ++ iphone 14 plus 256gb
+69/78 ++ guardado   ++ iphone 14 pro max
+70/78 ++ guardado   ++ apple iphone 14 128gb amarillo - revisado
+71/78 ++ guardado   ++ iphone 14 pro max
+72/78 ++ guardado   ++ iphone 14 pro
+73/78 ++ guardado   ++ iphone 14
+74/78 ++ guardado   ++ apple iphone 14 pro max 128gb gold
+75/78 ++ guardado   ++ iphone 14
+76/78 ## excluido   ##  iphone 15 plus
+77/78 ++ guardado   ++ iphone 14 pro 128 gb con applecare
+            id  ...                                                url
+0   1079442450  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+1   1086799979  ...  https://es.wallapop.com/item/iphone-14-1086799979
+2   1086787564  ...  https://es.wallapop.com/item/iphone-14-1086787564
+3   1086801938  ...  https://es.wallapop.com/item/iphone-14-1086801938
+4   1086830446  ...  https://es.wallapop.com/item/iphone-14-impolut...
+..         ...  ...                                                ...
+70  1086107760  ...  https://es.wallapop.com/item/iphone-14-pro-108...
+71  1086038013  ...  https://es.wallapop.com/item/iphone-14-1086038013
+72  1086438963  ...  https://es.wallapop.com/item/apple-iphone-14-p...
+73  1086480681  ...  https://es.wallapop.com/item/iphone-14-1086480681
+74  1086288619  ...  https://es.wallapop.com/item/iphone-14-pro-128...
+
+[75 rows x 6 columns]
+20250108
+iphone 14
+as_good_as_new
+csv guardado

@@ -1,0 +1,189 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2014&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/110 ++ guardado   ++ iphone 14 pro max
+1/110 ++ guardado   ++ iphone 14
+2/110 ++ guardado   ++ nuevo iphone 14 pro max 128gb
+3/110 ++ guardado   ++ iphone 14 256gb
+4/110 ++ guardado   ++ iphone 14 pro blanco
+5/110 ++ guardado   ++ iphone 14 lila 256 garantia
+6/110 ++ guardado   ++ iphone 14 pro max
+7/110 --precio bajo --  210,00 iphone 14 para piezas
+8/110 ++ guardado   ++ iphone 14
+9/110 ++ guardado   ++ iphone 14 plus rojo 128 gb 
+10/110 ++ guardado   ++ iphone 14 plus 512gb apple
+11/110 ++ guardado   ++ iphone 14 pro max 256gb nuevo
+12/110 ++ guardado   ++ iphone 14 plus 128 gb bat 100 nuevo
+13/110 ## excluido   ##  fundas iphone 14
+14/110 ++ guardado   ++ iphone 14 pro 256 gb 
+15/110 ## excluido   ##  funda iphone 14 pro
+16/110 ++ guardado   ++ iphone 14 pro max nuevo
+17/110 ## excluido   ##  iphone 15
+18/110 ++ guardado   ++ iphone 14 blue 128gb nuevo
+
+19/110 ## excluido   ##  funda para iphone 14 plus
+20/110 ## excluido   ##  funda negra iphone 14 pro original sin usar
+21/110 ## excluido   ##  2 cargadores 20w iphone
+22/110 ++ guardado   ++ iphone 14 pro max+reloj+casco
+23/110 ++ guardado   ++ apple iphone 14 pro, 256gb - morado oscuro
+24/110 ++ guardado   ++ apple iphone 14 plus 128gb
+25/110 ++ guardado   ++ iphone 14 pro max
+26/110 ## excluido   ##  funda iphone 14 15 16
+27/110 --precio bajo --  11,00 cambio iphone 15 nuevo por iphone 14 pro
+28/110 ++ guardado   ++ vendo o cambio xiaomi 14 ultra
+29/110 ## excluido   ##  protector pantalla y lentes cámara iphone 14
+30/110 ## excluido   ##  funda iphone 14 pro
+31/110 ++ guardado   ++ iphone 14 pro
+32/110 ## excluido   ##  cargador 20w iphone
+33/110 ## excluido   ##  carcasa iphone 14 pro max
+34/110 ++ guardado   ++ iphone 14 pro max
+35/110 ## excluido   ##  soporte carga iphone 16/15/14/13
+36/110 --precio bajo --  60,00 camara iphone 14 pro max
+37/110 ## excluido   ##  ayuda con iphone
+38/110 ## excluido   ##  funda iphone 14 pro max
+39/110 ## excluido   ##  carcasa iphone 14 pro max
+40/110 ## excluido   ##  se vende funda original iphone 14 pro 
+41/110 ## excluido   ##  carcasa iphone 14 pro max
+42/110 --precio bajo --  20,00 soporte iphone 14 pro max con apple watch
+43/110 ## excluido   ##  iphone 15 black 128gb garantía 
+
+44/110 ## excluido   ##  soporte iphone plus
+45/110 ++ guardado   ++ iphone 14
+46/110 ## excluido   ##  funda iphone 14 pro
+47/110 ## excluido   ##  funda iphone 14 lacoste
+48/110 ## excluido   ##  cristal trasero iphone 14 pro
+49/110 ## excluido   ##  ¡vendo funda magsafe nueva para iphone 14 pro!
+50/110 ++ guardado   ++ iphone 14 256gb
+51/110 --precio bajo --  0,00 me urge comprar iphone 14 pro
+52/110 ++ guardado   ++ iphone 14 pro max
+53/110 ++ guardado   ++ iphone 14 256gb
+54/110 ++ guardado   ++ iphone 14 256gb
+55/110 --precio bajo --  0,00 iphone 14 128gb
+56/110 ## excluido   ##  fundas para iphone 14 pro
+57/110 ++ guardado   ++ iphone 14 plus
+58/110 ++ guardado   ++ iphone 14 pro 
+59/110 ++ guardado   ++ iphone 14 pro 512gb - 100% bateria - factura apple
+60/110 ## excluido   ##  fundas iphone y cargador 
+61/110 ## excluido   ##  case funda rhinoshield para iphone 14 pro max
+62/110 ## excluido   ##  funda iphone 14 plus clear case. magsafe
+63/110 ## excluido   ##  fundas para el iphone 14 pro
+64/110 ++ guardado   ++ iphone 14 plus 128gb
+65/110 ## excluido   ##  funda magsafe metalica iphone
+66/110 ## excluido   ##  funda de silicona para iphone 14 pro
+67/110 ++ guardado   ++ movil iphone 14 azul 128gb + cable + caja
+68/110 ++ guardado   ++ iphone 14 pro
+69/110 ## excluido   ##  iphone 
+70/110 ## excluido   ##  funda de silicona para iphone 14 pro
+71/110 ## excluido   ##  funda de silicona para iphone 14 pro
+72/110 ## excluido   ##  funda iphone 14promax
+73/110 ## excluido   ##  funda
+74/110 ++ guardado   ++ iphone 14 pro
+75/110 ++ guardado   ++ iphone 14 plus
+76/110 ## excluido   ##  fundas móvil iphone 14 plus
+77/110 --precio bajo --  5,00 funa iphone 14
+78/110 ## excluido   ##  fundas iphone 14 pro max
+79/110 ## excluido   ##  funda de iphone 14 pro max 
+80/110 ++ guardado   ++ iphone 14 pro nuevo 
+81/110 ## excluido   ##  2 cables 20w iphone
+82/110 --precio bajo --  30,00 forro guess de iphone 14 pro max
+83/110 ## excluido   ##  iphone 16 pro max
+84/110 ++ guardado   ++ iphone 14 plus
+85/110 ## excluido   ##  funda para iphone 14 pro max
+86/110 ++ guardado   ++ iphone 14 plus
+87/110 ++ guardado   ++ iphone 14 pro 256gb
+88/110 ++ guardado   ++ iphone 14 pro morado
+89/110 ## excluido   ##  funda de iphone 14 pro max 
+90/110 ++ guardado   ++ iphone 14 256g
+91/110 ++ guardado   ++ iphone 14 256g
+92/110 ++ guardado   ++ iphone 14 256g
+93/110 ++ guardado   ++ apple iphone 14 128gb rojo 90% como nuevo
+94/110 ## excluido   ##  iphone 16 256gb blanco *a estrenar*
+95/110 ## excluido   ##  cable adaptador de ios a jack de 3.5mm para iphone
+96/110 ++ guardado   ++ iphone 14 pro 256g
+97/110 ++ guardado   ++ iphone 14 pro 256g
+98/110 ++ guardado   ++ iphone 14 pro 256g
+99/110 ++ guardado   ++ iphone 14 pro max 256gb nuevo
+100/110 ## excluido   ##  cable original iphone nuevo!
+101/110 ## excluido   ##  carcasa trasera compatible con iphone
+102/110 ## excluido   ##  fundas iphone 13/14 pro
+103/110 ## excluido   ##  funda de silicona para iphone 14 pro max
+104/110 ++ guardado   ++ iphone 14 256 gb
+105/110 ## excluido   ##  funda / carcasa transparente iphone 14 pro
+106/110 ## excluido   ##  carcasas logo iphone 11 hasta iphone16 
+107/110 ++ guardado   ++ iphone 14 plus 256gb nuevo
+108/110 ## excluido   ##  cargador magnetico
+109/110 ++ guardado   ++ iphone 14 128gb nuevo a estrenar=movil center
+            id  ...                                                url
+0   1085459569  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+1   1086711302  ...  https://es.wallapop.com/item/iphone-14-1086711302
+2   1086798584  ...  https://es.wallapop.com/item/nuevo-iphone-14-p...
+3   1086510963  ...  https://es.wallapop.com/item/iphone-14-256gb-1...
+4   1086470904  ...  https://es.wallapop.com/item/iphone-14-pro-bla...
+5   1086411570  ...  https://es.wallapop.com/item/iphone-14-lila-25...
+6   1086654562  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+7   1085906455  ...  https://es.wallapop.com/item/iphone-14-1085906455
+8   1086162773  ...  https://es.wallapop.com/item/iphone-14-plus-ro...
+9   1086024723  ...  https://es.wallapop.com/item/iphone-14-plus-51...
+10  1086011296  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+11  1085965804  ...  https://es.wallapop.com/item/iphone-14-plus-12...
+12  1085727407  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+13  1081571451  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+14  1084479464  ...  https://es.wallapop.com/item/iphone-14-blue-12...
+15  1084751188  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+16  1084795574  ...  https://es.wallapop.com/item/apple-iphone-14-p...
+17  1084272396  ...  https://es.wallapop.com/item/apple-iphone-14-p...
+18  1085467855  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+19  1086365781  ...  https://es.wallapop.com/item/vendo-o-cambio-xi...
+20  1082871510  ...  https://es.wallapop.com/item/iphone-14-pro-108...
+21  1082393600  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+22  1079207218  ...  https://es.wallapop.com/item/iphone-14-1079207218
+23  1080216223  ...  https://es.wallapop.com/item/iphone-14-256gb-1...
+24  1080392897  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+25  1079851907  ...  https://es.wallapop.com/item/iphone-14-256gb-1...
+26  1078654866  ...  https://es.wallapop.com/item/iphone-14-256gb-1...
+27  1078879577  ...  https://es.wallapop.com/item/iphone-14-plus-10...
+28  1078567623  ...  https://es.wallapop.com/item/iphone-14-pro-107...
+29  1081132790  ...  https://es.wallapop.com/item/iphone-14-pro-512...
+30  1078482344  ...  https://es.wallapop.com/item/iphone-14-plus-12...
+31  1083940984  ...  https://es.wallapop.com/item/movil-iphone-14-a...
+32  1075400652  ...  https://es.wallapop.com/item/iphone-14-pro-107...
+33  1071150961  ...  https://es.wallapop.com/item/iphone-14-pro-107...
+34  1073271353  ...  https://es.wallapop.com/item/iphone-14-plus-10...
+35  1073876029  ...  https://es.wallapop.com/item/iphone-14-pro-nue...
+36  1081094012  ...  https://es.wallapop.com/item/iphone-14-plus-10...
+37  1068598158  ...  https://es.wallapop.com/item/iphone-14-plus-10...
+38  1071779956  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+39  1069277594  ...  https://es.wallapop.com/item/iphone-14-pro-mor...
+40  1069224440  ...  https://es.wallapop.com/item/iphone-14-256g-10...
+41  1069221431  ...  https://es.wallapop.com/item/iphone-14-256g-10...
+42  1069197727  ...  https://es.wallapop.com/item/iphone-14-256g-10...
+43  1073506546  ...  https://es.wallapop.com/item/apple-iphone-14-1...
+44  1069223099  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+45  1069222465  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+46  1069218758  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+47  1071755089  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+48  1082057362  ...  https://es.wallapop.com/item/iphone-14-256-gb-...
+49  1071804480  ...  https://es.wallapop.com/item/iphone-14-plus-25...
+50   438024085  ...  https://es.wallapop.com/item/iphone-11-pro-256...
+
+[51 rows x 6 columns]
+20250108
+iphone 14
+new
+csv guardado

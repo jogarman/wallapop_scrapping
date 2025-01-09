@@ -1,0 +1,100 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2012&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/577 ## excluido   ##  gopro hero 7 black
+1/577 ++ guardado   ++ gopro hero 12 black 
+2/577 ## excluido   ##  cámara gopro hero12 creator edition 
+3/577 ++ guardado   ++ go pro 12 black
+4/577 ## excluido   ##  gopro 12 black  + filtros nd + 4 baterías
+5/577 ## excluido   ##  gopro hero 9 black + pack de carga 
+6/577 ## excluido   ##  gopro hero session 5 
+7/577 ++ guardado   ++ gopro 12
+8/577 ## excluido   ##  camara gopro12m wifi national geographic
+9/577 ## excluido   ##  gopro 4
+10/577 ## excluido   ##  hohem gimbal gopro 
+11/577 ## excluido   ##  gopro hero7 black
+12/577 --precio bajo --  25,00 cargador gopro 9, 10, 11 y 12 original
+13/577 ## excluido   ##  cámara aventura gopro hero5 black
+14/577 ## excluido   ##  repuesto montura gopro 9/10/11/12
+15/577 ## excluido   ##  pack accesorios para gopro 9/10/11/12
+16/577 ++ guardado   ++ gopro hero 12 black
+17/577 ## excluido   ##  funda protectora para gopro 9/10/11/12/13
+18/577 ## excluido   ##  tapa de bateria original para gopro 9/10/11/12
+19/577 ## excluido   ##  camara ultracompacta gopro hero7
+20/577 ## excluido   ##  camara de accion fhd nk
+21/577 ++ guardado   ++ gopro hero 12 naked
+22/577 ## excluido   ##  gopro hero 7 black
+23/577 ## excluido   ##  camara ultracompacta gopro hero12 black
+24/577 ## excluido   ##  gopro hero12 black + housing
+25/577 ## excluido   ##  gopro hero 5 black oferta!!
+26/577 ## excluido   ##  caja go pro 9 / 10 / 11 / 12
+27/577 ## excluido   ##  case protector para gopro 13,12,11,10 y 9
+28/577 ++ guardado   ++ gopro hero 12 black 
+29/577 ++ guardado   ++ go pro 12 
+30/577 ## excluido   ##  camara ultracompacta gopro hero12 black
+31/577 ## excluido   ##  gopro 11 con extras accesorios
+32/577 ++ guardado   ++ gopro hero 12 mas accesorios
+33/577 ++ guardado   ++ gopro hero 12 creator pack + mod max lens 2.0
+34/577 ## excluido   ##  gopro hero 4 silver táctil + accesorios
+35/577 ## excluido   ##  camara fotos yi action deportiva tipo gopro
+36/577 ## excluido   ##  gopro hero7 black con accesorios. 
+37/577 ## excluido   ##  gopro hero7 black camara de acción 
+38/577 ## excluido   ##  gopro anclaje magnético ulanzi gp-16 [perfecto]
+39/577 ## excluido   ##  polaroid camara acción hd xs100 tipo gopro 
+40/577 ## excluido   ##  xiaomi yi 4k similar a gopro
+41/577 ## excluido   ##  gopro session  original acuatica
+42/577 ## excluido   ##  go pro black hero 7
+43/577 ## excluido   ##  cámara deportiva (tipo gopro)
+44/577 ## excluido   ##  go pro hero 8 black
+45/577 --precio bajo --  50,00 casco niña, talla 12 con gafas para ventisca
+46/577 ## excluido   ##  hohem isteady pro 4 estabilizador gimbal#131681
+47/577 ## excluido   ##  nikon d7000
+48/577 ## excluido   ##  cámara de acción sjcam
+49/577 ## excluido   ##  gopro hero session 5
+50/577 ## excluido   ##  empuñadura gopro 3way
+51/577 ## excluido   ##  modulo lente max gopro
+52/577 ## excluido   ##  gopro hero7 silver sport
+53/577 ## excluido   ##  vendo gopro hero 9 black 
+54/577 ## excluido   ##  gopro 8 con accesorios
+55/577 ## excluido   ##  soportes para gopro 1-2-3-4-5
+56/577 ## excluido   ##  cámara gopro 
+57/577 ## excluido   ##  gopro hero 9 black 
+58/577 ## excluido   ##  go pro hero 7
+59/577 ## excluido   ##  gopro hero 5 black
+60/577 ## excluido   ##  gopro hero5
+61/577 ## excluido   ##  carcasa para gopro en venta
+62/577 ## excluido   ##  gopro hero 8 black
+63/577 ## excluido   ##  palo selfie gopro
+64/577 ## excluido   ##  gopro hero 4 camera
+           id  ...                                                url
+0  1084649201  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+1  1085602169  ...  https://es.wallapop.com/item/go-pro-12-black-1...
+2  1072590194  ...   https://es.wallapop.com/item/gopro-12-1072590194
+3  1062102074  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+4  1050597462  ...  https://es.wallapop.com/item/gopro-hero-12-nak...
+5  1042199246  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+6  1066722758  ...  https://es.wallapop.com/item/go-pro-12-1066722758
+7  1028421251  ...  https://es.wallapop.com/item/gopro-hero-12-mas...
+8  1047653797  ...  https://es.wallapop.com/item/full-equip-go-pro...
+
+[9 rows x 6 columns]
+20250108
+gopro 12
+as_good_as_new
+csv guardado

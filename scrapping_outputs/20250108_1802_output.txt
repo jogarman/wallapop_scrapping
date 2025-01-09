@@ -1,0 +1,60 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2013&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/492 ++ guardado   ++ gopro 13 black
+1/492 ## excluido   ##  ⭐️accesorios insta360 x3, x4,x2,rs, gopro etc⭐️
+2/492 ## excluido   ##  funda silicona gopro 9/10/11/12/13
+3/492 ## excluido   ##  accesorios insta 360 x2 x3 x4 gopro
+4/492 --precio bajo --  22,00 estuche gopro hero 9 / 10 / 11 / 12 / 13 con todo
+5/492 --precio bajo --  18,00 kit de accesorios para gopro 13 12 11 10 y 9
+6/492 ## excluido   ##  isteady pro 4 estabilizador gimbal gopro
+7/492 ## excluido   ##  go pro hero 9 como nuevo 
+8/492 ## excluido   ##  objetivo sigma 14-24mm montura l f2.8 dg dn art
+9/492 ## excluido   ##  bolsa para cámara
+10/492 ## excluido   ##  trípode de teléfono profesional zomei t60
+11/492 ## excluido   ##  cámara gopro
+12/492 ## excluido   ##  gopro braun champion
+13/492 ## excluido   ##  gimbal inkee falcon para cámara gopro o insta
+14/492 ## excluido   ##  camara gopro braun champion ii
+15/492 ## excluido   ##  accesorios gopro con maletin
+16/492 ## excluido   ##  ventosa gopro
+17/492 ## excluido   ##  soporte gopro
+18/492 ## excluido   ##  arnés gopro pecho
+19/492 ## excluido   ##  correa gopro cabeza
+20/492 ## excluido   ##  kit accesorios gopro
+21/492 ## excluido   ##  palo selfie gopro
+22/492 ## excluido   ##  accesorios gopro. tengo la camara pero sin cable. 
+23/492 ## excluido   ##  bateria gopro enduro nueva
+24/492 ## excluido   ##  funda gopro
+25/492 ## excluido   ##  bandolera gopro
+26/492 ## excluido   ##  kit super pinza gopro metalica
+27/492 ## excluido   ##  cargador dual gopro asdbc-001-eu
+28/492 ## excluido   ##  funda + film protector gopro 9 10 11 12
+29/492 ## excluido   ##  gopro hero 9
+30/492 ## excluido   ##  gopro hero 8 black
+31/492 ## excluido   ##  2 baterias recargables gopro litio 1220 mah 
+32/492 ## excluido   ##  microfono para gopro
+           id  ...                                                url
+0  1083811539  ...  https://es.wallapop.com/item/gopro-13-black-10...
+
+[1 rows x 6 columns]
+20250108
+gopro 13
+new
+csv guardado

@@ -1,0 +1,68 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2012&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/329 ## excluido   ##  camara ultracompacta gopro hero12 black
+1/329 ## excluido   ##  gopro12
+2/329 ## excluido   ##  camara ultracompacta gopro hero12 black
+3/329 ++ guardado   ++ gopro 12
+4/329 ## excluido   ##  camara deportiva gopro 9 black + funda y acc
+5/329 ## excluido   ##  camara ultracompacta gopro hero4
+6/329 ## excluido   ##  funda acuatica gopro 9/10/11/12/13
+7/329 ## excluido   ##  camara deportiva gopro hero 3 silver
+8/329 ## excluido   ##  camara ultracompacta gopro hero7
+9/329 ++ guardado   ++ camara gopro hero 12 black 184187
+10/329 ## excluido   ##  camara deportiva gopro hero 3
+11/329 ## excluido   ##  camara ultracompacta gopro hero8
+12/329 ## excluido   ##  go pro hero 5
+13/329 ## excluido   ##  caja de relojes de joyería 
+14/329 ## excluido   ##  vídeo camara gopro hero 6 black
+15/329 ## excluido   ##  gopro hero4 silver cámara
+16/329 ## excluido   ##  camara 360 grados video y foto realidad virtual
+17/329 ## excluido   ##  gopro hero 4
+18/329 ## excluido   ##  cámara deportiva gopro hero4
+19/329 ## excluido   ##  cámara deportiva gopro hero4
+20/329 ## excluido   ##  cámara deportiva gopro hero4
+21/329 ## excluido   ##  cámara deportiva gopro hero4
+22/329 ## excluido   ##  gopro hero 6 + smart remote + palo + accesorios
+23/329 ## excluido   ##  gopro 3+
+24/329 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+25/329 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+26/329 ## excluido   ##  sk8 camara 4k -elite tipo gopro 
+27/329 ## excluido   ##  gopro hero 8 black 
+28/329 ## excluido   ##  gopro hero 4 black 4k
+29/329 ## excluido   ##  gopro hero 4 y accesorios
+30/329 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+31/329 ## excluido   ##  gopro 5 black 
+32/329 ## excluido   ##  gopro hero 10 black
+33/329 ## excluido   ##  cargador baterias gopro 
+34/329 ## excluido   ##  gopro hero 8 black y accesorios 
+35/329 ## excluido   ##  camara ultracompacta gopro hero9
+36/329 ## excluido   ##  gopro hero7 black
+37/329 ## excluido   ##  gopro 7 black
+38/329 ## excluido   ##  go pro hero 5 
+39/329 ## excluido   ##  gopro hero 3
+           id  ...                                                url
+0  1079605964  ...   https://es.wallapop.com/item/gopro-12-1079605964
+1  1049949276  ...  https://es.wallapop.com/item/camara-gopro-hero...
+
+[2 rows x 6 columns]
+20250108
+gopro 12
+good
+csv guardado
