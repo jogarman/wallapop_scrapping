@@ -23,6 +23,10 @@ Este proyecto recopila información y precios de Wallapop. Está optimizado para
 - Se muestran box-plot con los rangos intercuartilicos para detectar outlayers
 - Al posicionar el puntero sobre un punto se muestran las caracteristicas. Al hacer click, se abre el enlace web del anuncio
 ![image](https://github.com/user-attachments/assets/58e7e3ff-3a32-452c-bcbd-1526baf277f5)
+8. Se obtiene datos del comentario. Lo más importante, se actualiza el estado de la batería y el modelo
+9. Se hacen algunos analisis. Uno muy interesante es el estudio de cuantos se venden. En el .ipynb pueden verse más. No puedo hacerlo con Tableu por problemas con la licencia
+  ![image](https://github.com/user-attachments/assets/164ccd0f-47cc-45d4-9220-2066ed423a38)
+
 
 ## Puntos pendientes
 
