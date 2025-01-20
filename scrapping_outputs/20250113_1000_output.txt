@@ -1,0 +1,203 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2016&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/118 ++ guardado   ++ iphone 16 pro 512gb
+1/118 ++ guardado   ++ iphone 16 pro max
+2/118 ++ guardado   ++ iphone 16 128gb rosa 
+3/118 ++ guardado   ++ cambio iphone 16 pro max 512
+4/118 ++ guardado   ++ iphone 16 pro max 
+5/118 ++ guardado   ++ iphone 16 pro 256gb desierto
+6/118 --precio bajo --  1,00 iphone 16 pro max cambio 
+7/118 ++ guardado   ++ iphone 16 plus 128gb
+8/118 ++ guardado   ++ iphone 16 pro
+9/118 ++ guardado   ++ iphone 16 pro max 256gb negro
+10/118 ++ guardado   ++ iphone 16 pro max 256gb natural
+11/118 ++ guardado   ++ iphone 16 como nuevo
+12/118 ++ guardado   ++ iphone 16 pro max 256gb desierto
+13/118 ++ guardado   ++ iphone 16 plus 128 gb 
+14/118 ++ guardado   ++ iphone 16 pro 256gb desert titanium solo activado
+15/118 ## excluido   ##  iphone 15 
+16/118 ## excluido   ##  apple iphone 12 pro 128gb oro - revisado
+17/118 ++ guardado   ++ apple iphone 16 128gb
+18/118 ++ guardado   ++ apple iphone 16 128gb
+19/118 ++ guardado   ++ iphone 16 pro 128gb nuevo!!
+20/118 ## excluido   ##  iphone 15 pro max
+21/118 ## excluido   ##  iphone 14 plus red edition 128gb
+22/118 ++ guardado   ++ iphone 16 pro max 512gb
+23/118 ++ guardado   ++ iphone 16 128gb verde nuevo!
+24/118 ## excluido   ##  apple iphone 12 pro 512gb plata - revisado
+25/118 ## excluido   ##  iphone 14 plus 128g
+26/118 ## excluido   ##  iphone 14pro max 512gb morado
+27/118 ++ guardado   ++ vendo iphone 16
+28/118 ## excluido   ##  iphone 14 pro max 512gb
+29/118 ## excluido   ##  iphone 15 pro 
+30/118 ++ guardado   ++ iphone 16 pro max
+31/118 ## excluido   ##  iphone 14 pro 256gb
+32/118 ## excluido   ##  apple iphone 12 pro 256gb plata - revisado
+33/118 ++ guardado   ++ iphone 16 plus
+34/118 ## excluido   ##  vivo x200 pro 16+512gb
+35/118 ++ guardado   ++ iphone 16 rosa 128gb
+36/118 ++ guardado   ++ iphone 16 
+37/118 ## excluido   ##  iphone 6s en perfecto estado
+38/118 ## excluido   ##  iphone 15 plus 
+39/118 ## excluido   ##  iphone 13 pro max 256 gb
+40/118 ## excluido   ##  apple iphone 12 pro 256gb grafito - revisado
+41/118 ## excluido   ##  iphone 15 pro 256gb como nuevo factura
+42/118 ++ guardado   ++ apple iphone 16 128gb
+43/118 ++ guardado   ++ apple iphone 16 pro 128gb
+44/118 ## excluido   ##  iphone 12 pro 128gb gris espacial
+45/118 ## excluido   ##  iphone 14 | 128 gb | lila
+46/118 ++ guardado   ++ iphone 16
+47/118 ++ guardado   ++ iphone 16 pro max 
+48/118 ## excluido   ##  apple iphone 12 pro 128gb grafito - revisado
+49/118 ++ guardado   ++ iphone 16 pro max
+50/118 ++ guardado   ++ iphone 16 plus 
+51/118 ++ guardado   ++ apple iphone 16
+52/118 ## excluido   ##  iphone apple 6s 16gb caja sin marcas
+53/118 ++ guardado   ++ iphone 16 plus 128 gb  applecare 
+54/118 ++ guardado   ++ iphone 16 pro max 256gb/100 semiinuevo libre 
+55/118 ++ guardado   ++ apple iphone 16 256gb
+56/118 ## excluido   ##  apple iphone 14 pro 256gb plata - revisado
+57/118 ++ guardado   ++ apple iphone 16 128gb
+58/118 ## excluido   ##  iphone 14 plus silver 128gb perfecto
+59/118 ++ guardado   ++ cambio iphone 15 pro por iphone 16 pro factura 
+60/118 ++ guardado   ++ iphone 16 pro 256 
+61/118 ## excluido   ##  iphone 14 pro 128gb
+62/118 ++ guardado   ++ iphone 16 pro max
+63/118 ++ guardado   ++ apple iphone 16 plus 256gb
+64/118 ## excluido   ##  apple iphone 14 pro 128gb plata - revisado
+65/118 ++ guardado   ++ apple iphone 16 pro 256gb
+66/118 --precio bajo --  0,00 iphone 15 pro max por 16 pro
+67/118 ++ guardado   ++ iphone 16 pro 127gb white titanium
+68/118 ++ guardado   ++ smartphone apple iphone 16 128 gb -r0002548cv-
+69/118 ++ guardado   ++ iphone 16 plus de 128gb/100 bat seminuevo libre 
+70/118 ## excluido   ##  iphone se negro 128 gb impecable
+71/118 ## excluido   ##  apple iphone 14 pro 256gb oro - revisado
+72/118 ## excluido   ##  iphone 15 128gb
+73/118 ++ guardado   ++ apple iphone 16 128gb
+74/118 ## excluido   ##  iphone x
+75/118 ++ guardado   ++ iphone 16 pro max
+76/118 ## excluido   ##  iphone 15 pro
+77/118 ++ guardado   ++ iphone 16 por max 556
+78/118 ## excluido   ##  apple iphone 14 pro 128gb oro - revisado
+79/118 ## excluido   ##  iphone 15 pro max
+80/118 ++ guardado   ++ iphone 16 pro 128gb
+81/118 ## excluido   ##  iphone 15 pro max 256 gb blanco 
+82/118 ++ guardado   ++ iphone 16 pro max 
+83/118 ++ guardado   ++ iphone 16 pro 256
+84/118 ++ guardado   ++ iphone 16 plus 128 gb negro
+85/118 ++ guardado   ++ iphone 16 pro max 
+86/118 ## excluido   ##  apple iphone 12 pro 256gb azul pacífico - revisado
+87/118 ## excluido   ##  iphone 14 pro
+88/118 ++ guardado   ++ iphone 16 pro 256(titanium white)
+89/118 ## excluido   ##  iphone 13 pro max 256gb 
+90/118 ## excluido   ##  iphone 15 
+91/118 --precio bajo --  35,00 iphone 16 pro clear case
+92/118 ## excluido   ##  iphone 15 pro titanium black 128gb
+93/118 ++ guardado   ++ telefono iphone 16 no acepto cambios por otro 
+94/118 ## excluido   ##  apple iphone 12 pro 128gb azul pacífico - revisado
+95/118 ## excluido   ##  iphone 15 pro 256gb
+96/118 ++ guardado   ++ iphone 16
+97/118 ## excluido   ##  iphone 15 95%🔋garantia
+98/118 ## excluido   ##  iphone 15 100%🔋garantia
+99/118 ++ guardado   ++ apple iphone 16 pro 128gb
+100/118 ++ guardado   ++ tag heuer connected e4. por iphone 16 pro max
+101/118 ## excluido   ##  iphone 15 pro 256 g negro
+102/118 ## excluido   ##  apple iphone 14 pro 512gb morado oscuro - revisado
+103/118 ## excluido   ##  iphone 15 plus 128gb
+104/118 ++ guardado   ++ iphone 16 pro max 256gb
+105/118 ## excluido   ##  iphone 14 pro max
+106/118 ## excluido   ##  iphone 13 128gb
+107/118 --precio bajo --  65,00 iphone 5s god 16 gb
+108/118 ++ guardado   ++ iphone 16 pro max 256gb
+109/118 ## excluido   ##  iphone 13
+110/118 ## excluido   ##  apple iphone 14 pro 256gb morado oscuro - revisado
+111/118 ## excluido   ##  funda goyard
+112/118 ## excluido   ##  iphone 13
+113/118 ## excluido   ##  iphone 12 pro max 256gb negro
+114/118 ## excluido   ##  carcasa iphone 16 pro max
+115/118 ++ guardado   ++ apple iphone 16 512gb
+116/118 ## excluido   ##  iphone 14 pro 256gb
+117/118 ## excluido   ##  portatil asus rog strix g16 + cascos y alfombra
+            id  ...                                                url
+0   1079824658  ...  https://es.wallapop.com/item/iphone-16-pro-512...
+1   1089069545  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+2   1088941776  ...  https://es.wallapop.com/item/iphone-16-128gb-r...
+3   1088945249  ...  https://es.wallapop.com/item/cambio-iphone-16-...
+4   1088727022  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+5   1088758548  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+6   1088908508  ...  https://es.wallapop.com/item/iphone-16-plus-12...
+7   1087968596  ...  https://es.wallapop.com/item/iphone-16-pro-108...
+8   1088770257  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+9   1088760996  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+10  1088403076  ...  https://es.wallapop.com/item/iphone-16-como-nu...
+11  1088746142  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+12  1088468851  ...  https://es.wallapop.com/item/iphone-16-plus-12...
+13  1088824018  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+14  1088539044  ...  https://es.wallapop.com/item/apple-iphone-16-1...
+15  1088515975  ...  https://es.wallapop.com/item/apple-iphone-16-1...
+16  1088355890  ...  https://es.wallapop.com/item/iphone-16-pro-128...
+17  1088251112  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+18  1088345078  ...  https://es.wallapop.com/item/iphone-16-128gb-v...
+19  1087512853  ...  https://es.wallapop.com/item/vendo-iphone-16-1...
+20  1087754836  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+21  1087770981  ...  https://es.wallapop.com/item/iphone-16-plus-10...
+22  1087925803  ...  https://es.wallapop.com/item/iphone-16-rosa-12...
+23  1086932683  ...  https://es.wallapop.com/item/iphone-16-1086932683
+24  1085537960  ...  https://es.wallapop.com/item/apple-iphone-16-1...
+25  1086519705  ...  https://es.wallapop.com/item/apple-iphone-16-p...
+26  1086327337  ...  https://es.wallapop.com/item/iphone-16-1086327337
+27  1087000436  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+28  1086448952  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+29  1086301064  ...  https://es.wallapop.com/item/iphone-16-plus-10...
+30  1086217895  ...  https://es.wallapop.com/item/apple-iphone-16-1...
+31  1086705641  ...  https://es.wallapop.com/item/iphone-16-plus-12...
+32  1087524548  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+33  1086521455  ...  https://es.wallapop.com/item/apple-iphone-16-2...
+34  1086521340  ...  https://es.wallapop.com/item/apple-iphone-16-1...
+35  1086543429  ...  https://es.wallapop.com/item/cambio-iphone-15-...
+36  1085775329  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+37  1086450420  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+38  1086523236  ...  https://es.wallapop.com/item/apple-iphone-16-p...
+39  1086523314  ...  https://es.wallapop.com/item/apple-iphone-16-p...
+40  1086670381  ...  https://es.wallapop.com/item/iphone-16-pro-127...
+41  1086416474  ...  https://es.wallapop.com/item/smartphone-apple-...
+42  1086981168  ...  https://es.wallapop.com/item/iphone-16-plus-de...
+43  1086039725  ...  https://es.wallapop.com/item/apple-iphone-16-1...
+44  1085494704  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+45  1085743534  ...  https://es.wallapop.com/item/iphone-16-por-max...
+46  1085626231  ...  https://es.wallapop.com/item/iphone-16-pro-128...
+47  1084666199  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+48  1084454123  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+49  1085518884  ...  https://es.wallapop.com/item/iphone-16-plus-12...
+50  1084649523  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+51  1084821950  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+52  1085660065  ...  https://es.wallapop.com/item/telefono-iphone-1...
+53  1082946202  ...  https://es.wallapop.com/item/iphone-16-1082946202
+54  1085085712  ...  https://es.wallapop.com/item/apple-iphone-16-p...
+55  1085754454  ...  https://es.wallapop.com/item/tag-heuer-connect...
+56  1084604504  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+57  1083990047  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+58  1084191568  ...  https://es.wallapop.com/item/apple-iphone-16-5...
+
+[59 rows x 6 columns]
+20250113
+iphone 16
+as_good_as_new
+csv guardado

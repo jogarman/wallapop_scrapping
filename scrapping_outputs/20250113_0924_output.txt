@@ -1,0 +1,300 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2016&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/537 ++ guardado   ++ apple iphone 16 512gb nuevo garantia
+1/537 ++ guardado   ++ iphone 16 plus 128gb nuevo!  
+2/537 ++ guardado   ++ iphone 16 pro max 
+3/537 ++ guardado   ++ iphone 16 plus 128gb nuevo 
+4/537 ## excluido   ##  funda iphone 16
+5/537 ++ guardado   ++ iphone 16 pro max 256gb 
+6/537 ++ guardado   ++ iphone 16 / verde / 128g
+7/537 ++ guardado   ++ iphone 16 pro max
+8/537 ++ guardado   ++ iphone 16 256gb blanco *a estrenar*
+9/537 ++ guardado   ++ iphone 16 pro desert titanium
+10/537 ## excluido   ##  funda de iphone 12
+11/537 ++ guardado   ++ iphone 16
+12/537 ## excluido   ##  funda de silicona para iphone 16 pro max
+13/537 ++ guardado   ++ iphone 16 
+14/537 ++ guardado   ++ iphone 16 pro max 256gb
+15/537 ++ guardado   ++ iphone 16 pro max 256gb nuevo
+16/537 ++ guardado   ++ iphone 16 plus 128gb *a estrenar*
+17/537 ++ guardado   ++ iphone 16 pro 256gb nuevo
+18/537 ## excluido   ##  funda de silicona para iphone 16 pro max
+19/537 ++ guardado   ++ iphone 16 128gb blanco precintado
+20/537 ++ guardado   ++ iphone 16 128gb verde precintado
+21/537 ++ guardado   ++ iphone 16 256gb negro precintado
+22/537 ## excluido   ##  funda iphone 16 pro. nueva
+23/537 ## excluido   ##  carcasa iphone 16 pro max 
+24/537 ++ guardado   ++ iphone 16 256gb rosa "a estrenar"
+25/537 ++ guardado   ++ iphone 16 plus 256gb azul precintado!
+26/537 ++ guardado   ++ iphone 16 pro 128gb negro precintado
+27/537 ++ guardado   ++ iphone 16 pro 128gb desierto precintado!
+28/537 ++ guardado   ++ iphone 16 pro 128gb negro precintado!
+29/537 ++ guardado   ++ iphone 16 pro 128gb natural precintado
+30/537 ++ guardado   ++ iphone 16 plus
+31/537 ++ guardado   ++ iphone 16 128gb blue ultramarine solo activado
+32/537 ++ guardado   ++ iphone 16 128gb ultramarine *a estrenar*
+33/537 ## excluido   ##  protector de pantalla iphone 16 pro max
+34/537 ++ guardado   ++ iphone 16 pro max
+35/537 ## excluido   ##  funda iphone 16
+36/537 ## excluido   ##  iphone 
+37/537 ++ guardado   ++ iphone 16 pro max 256gb blanco precintado!
+38/537 ## excluido   ##  funda iphone 16 pro
+39/537 ++ guardado   ++ iphone 16 pro max 256gb natural precintado!
+40/537 ++ guardado   ++ iphone 16 pro max 256gb titanium bateria 100% + caja * estrenar*
+41/537 ## excluido   ##  iphone 14
+42/537 ++ guardado   ++ iphone 16 pro max 256gb negro precintado!
+43/537 ++ guardado   ++ iphone 16 pro max 256gb desierto precintado!
+44/537 ## excluido   ##  iphone
+45/537 ## excluido   ##  funda apple iphone 16 pro
+46/537 --precio bajo --  16,00 quad lock poncho - iphone 16 pro max
+47/537 ++ guardado   ++ iphone 16 plus 
+48/537 ++ guardado   ++ iphone 16 pro max titanio
+49/537 ++ guardado   ++ iphone 16 pro 1tb titanio natural nuevo a estrenar
+50/537 ## excluido   ##  iphone 15 plus
+51/537 --precio bajo --  5,00 iphone 16 pro funda macsafe
+52/537 ++ guardado   ++ iphone 16 pro max 256, desert titanium nuevo
+53/537 ## excluido   ##  funda iphone 16 pro
+54/537 ## excluido   ##  funda iphone 16 pro max
+55/537 ## excluido   ##  funda iphone 16 pro max
+56/537 ## excluido   ##  iphone 
+57/537 ## excluido   ##  iphone 14
+58/537 ++ guardado   ++ iphone 16
+59/537 ++ guardado   ++ iphone 16 pro max
+60/537 ++ guardado   ++ iphone 16 pro desert titanium 128gb 'a estrenar'
+61/537 ++ guardado   ++ iphone 16 pro max
+62/537 ## excluido   ##  iphone 14 pro max
+63/537 ++ guardado   ++ iphone 16 pro 256gb
+64/537 ++ guardado   ++ iphone 16 128gb blanco - nuevo 
+65/537 ++ guardado   ++ iphone 16 pro max 256gb nuevo
+66/537 ++ guardado   ++ iphone 16 pro max 256gb nuevo
+67/537 ++ guardado   ++ movil iphone 16 pro max 256gb black titanium a estrenar
+68/537 ## excluido   ##  funda iphone 14 15 16
+69/537 ## excluido   ##  iphone 14 pro max
+70/537 ++ guardado   ++ iphone 16
+71/537 --precio bajo --  32,00 iphone 16 pro quad lock funda smartphone 
+72/537 ## excluido   ##  funda de datos para iphone 16 pro
+73/537 ## excluido   ##  carcasa iphone16 silicona
+74/537 ++ guardado   ++ iphone 16 128 gb
+75/537 ## excluido   ##  caja iphone 16 plus  y accesorios
+76/537 ## excluido   ##  iphone 15
+77/537 ## excluido   ##  soporte carga iphone 16/15/14/13
+78/537 ## excluido   ##  funda iphone 16 pro mag quad lock
+79/537 ## excluido   ##  tauri funda y protector para iphone16pro
+80/537 ## excluido   ##  carcasa iphone16pro púrpura
+81/537 ## excluido   ##  carcasas logo iphone 11 hasta iphone16 
+82/537 ## excluido   ##  funda iphone 16
+83/537 ++ guardado   ++ iphone 16 128gb
+84/537 ++ guardado   ++ iphone 16 256gb azul ultramar
+85/537 ## excluido   ##  funda para iphone 16
+86/537 ## excluido   ##  funda protectora rhinoshield para movil iphone 16 pro max + caja
+87/537 ## excluido   ##  funda iphone 16 pro 
+88/537 --precio bajo --  36,00 quad lock mag - iphone 16 pro max
+89/537 ++ guardado   ++ iphone 16 pro max 256gb
+90/537 --precio bajo --  32,00 quad lock iphone 16 pro max original
+91/537 ## excluido   ##  funda iphone 16 pro max
+92/537 ## excluido   ##  iphone 14 lila 256 garantia
+93/537 ++ guardado   ++ iphone 16 pro max 256gb
+94/537 ## excluido   ##  funda iphone 16 pro
+95/537 ## excluido   ##  funda iphone 16 pro
+96/537 ## excluido   ##  protector iphone 16 pm
+97/537 ## excluido   ##  protector de pantalla 3d de impacto rhinoshield para movil iphone 16 pro max
+98/537 ## excluido   ##  funda iphone 11 pro
+99/537 ++ guardado   ++ iphone 16 plus
+100/537 ## excluido   ##  funda iphone 16 pro max
+101/537 --precio bajo --  26,99 iphone 16 6.1 pulgadas. funda para el móvil
+102/537 ## excluido   ##  cargador inalambrico 3en1 belkin
+103/537 ## excluido   ##  funda iphone 16 pro max 
+104/537 ## excluido   ##  soporte iphone plus
+105/537 ## excluido   ##  funda iphone 16 pro nueva
+106/537 ## excluido   ##  telefono movil
+107/537 ++ guardado   ++ iphone 16 
+108/537 ## excluido   ##  caja iphone 16 plus
+109/537 ## excluido   ##  iphone 15 plus 256gb
+110/537 ## excluido   ##  funda iphone 16 pro max
+111/537 ## excluido   ##  funda iphone 16 pro
+112/537 ++ guardado   ++ iphone 16 128gb verde azulado a estrenar
+113/537 --precio bajo --  35,00 quad lock iphone 16 pro max
+114/537 --precio bajo --  10,00 case iphone 16 promax
+115/537 ## excluido   ##  funda iphone 16 pro max
+116/537 ## excluido   ##  funda iphone 16 pro negro
+117/537 --precio bajo --  30,00 iphone 16 plus. silicone case. magsafe
+118/537 ## excluido   ##  funda iphone 16. silicone case. magsafe.
+119/537 --precio bajo --  50,00 movil con parecido a iphone 16 gb sin uso 
+120/537 ++ guardado   ++ iphone 16 pro max
+121/537 --precio bajo --  30,00 iphone 16 pro max. silicone case. magsaf
+122/537 --precio bajo --  30,00 iphone 16 pro max. crear case. magsafe
+123/537 --precio bajo --  30,00 iphone 16 pro max.silicone case. magsafe
+124/537 --precio bajo --  30,00 iphone 16 pro max.silicone case.magsafe
+125/537 ## excluido   ##  funda iphone 16 pro black
+126/537 ++ guardado   ++ i phone 16 pro
+127/537 ## excluido   ##  iphone 14 blue 128gb nuevo
+
+128/537 ++ guardado   ++ ihone 16 
+129/537 ## excluido   ##  funda de silicona para iphone 16 pro
+130/537 ## excluido   ##  iphone 15 pro
+131/537 ## excluido   ##  funda movil iphone 16 pro plus max 
+132/537 ## excluido   ##  protector movil cristal antiespia 16pro max
+133/537 ++ guardado   ++ móvil nuevo iphone 16 128
+134/537 ## excluido   ##  fundas iphone 16 pro max pack completo
+135/537 ++ guardado   ++ iphone 16 pro
+136/537 ## excluido   ##  iphone16pro y 16pro max
+137/537 ## excluido   ##  funda iphone 16, plus, pro y pro max.
+138/537 ++ guardado   ++ iphone 16 plus 128gb negro a estrenar
+139/537 ++ guardado   ++ iphone 16 256gb negro bateria:100% + caja + cable *a estrenar*
+140/537 ## excluido   ##  funda transparente antigolpe para iphone 16 promax
+141/537 ## excluido   ##  funda magsafe iphone 16
+142/537 ++ guardado   ++ iphone 16 pro 
+143/537 --precio bajo --  150,00 regalazooo accesorios iphone 16
+144/537 ## excluido   ##  funda iphone 16 pro ( snoopy )
+145/537 ++ guardado   ++ iphone 16 pro max dorado 512gb "a estrenar"
+146/537 ## excluido   ##  funda silicona colores para iphone 16 pro max
+147/537 ## excluido   ##  funda iphone 16 pro
+148/537 ## excluido   ##  soporte de apple
+149/537 ## excluido   ##  carcasa iphone
+150/537 ## excluido   ##  fundas de movil para samsumg iphone 
+151/537 ## excluido   ##  funda iphone 16 pro max silicona 
+152/537 ## excluido   ##  funda iphone
+153/537 ## excluido   ##  funda iphone 16 plus
+154/537 ++ guardado   ++ telefono iphone 16 ultramarine / 128 gb, nuevo.
+155/537 ## excluido   ##  funda iphone 16
+156/537 ## excluido   ##  fundas iphone 16 pro max
+157/537 ## excluido   ##  funda iphone 16
+158/537 ++ guardado   ++ iphone 16 pro 128gb precintado
+159/537 ++ guardado   ++ iphone 16 plus 
+160/537 ## excluido   ##  cargador iphone 15 tipo c
+161/537 --precio bajo --  2,00 finda movil iphone 16 pro
+162/537 ## excluido   ##  funda movil para iphone 16 pro max
+163/537 ## excluido   ##  funda iphone 16 pro
+164/537 ## excluido   ##  funda iphone 16
+165/537 ## excluido   ##  funda iphone 16 pro
+166/537 ++ guardado   ++ iphone 16 plus
+167/537 ## excluido   ##  carcasa iphone16
+168/537 ## excluido   ##  funda iphone 16 pro max
+169/537 ## excluido   ##  iphone 15
+170/537 ## excluido   ##  funda + hidrogel iphone 16 pro
+171/537 ## excluido   ##  samsung z flip totalmente nuevo 
+172/537 ## excluido   ##  iphone, 16plus verde precintado
+173/537 ++ guardado   ++ iphone 16 plus 
+174/537 ++ guardado   ++ iphone 16 pro max 256 gb natural nuevo 
+175/537 --precio bajo --  5,00 cargador de iphone 16 cuerda
+176/537 ++ guardado   ++ iphone 16
+177/537 ## excluido   ##  funda iphone 16 pro max 
+178/537 ## excluido   ##  funda iphone 16 pro max 
+179/537 ## excluido   ##  funda iphone 16 pro max
+180/537 ## excluido   ##  funda iphone 16 pro max 
+181/537 ## excluido   ##  funda iphone 16 pro
+182/537 ++ guardado   ++ iphone 16 pro (sin estrenar ni quitar el precinto)
+183/537 ++ guardado   ++ iphone 16 128 nuevo sin usar
+184/537 ## excluido   ##  funda snoopy iphone 16 
+185/537 ## excluido   ##  ugreen nexode x 160w
+186/537 ## excluido   ##  alargador tipo c
+187/537 ## excluido   ##  cargador inalambrico 3en 1
+188/537 ++ guardado   ++ iphone 16 plus 512gb nuevo sin estrenar 
+189/537 ## excluido   ##  funda iphone 16 pro max
+190/537 ## excluido   ##  cargador tipo-c 22.5w para iphone 15/16 np-c1819
+191/537 ## excluido   ##  protector de camara iphone 16 pro max 
+192/537 --precio bajo --  0,00 puedes obtener el último iphone 16 ahora
+193/537 ## excluido   ##  carcasa 2€ iphone 16 pro max
+194/537 --precio bajo --  13,00 soporte iphone 12 13 14 15 16
+195/537 ## excluido   ##  ssd externo para iphone usbc zike 512gb
+196/537 ## excluido   ##  pantalla de iphone 11
+197/537 ## excluido   ##  pantalla de iphone 13
+198/537 ## excluido   ##  protector de pantalla de vidrio templado iphone
+199/537 ## excluido   ##  funda para iphone 14 pro max
+200/537 ## excluido   ##  funda iphone 16 pro 
+201/537 ## excluido   ##  funda iphone 16
+202/537 ++ guardado   ++ iphone 16 128gb
+203/537 ## excluido   ##  funda iphone 16
+204/537 ## excluido   ##  pantalla de iphone 14 pro
+205/537 ## excluido   ##  iphone 6s plus de 16gb color gris 
+206/537 ## excluido   ##  case
+207/537 ## excluido   ##  protector de silicona para iphone 
+208/537 ## excluido   ##  pantalla iphone 12 pro max
+209/537 ## excluido   ##  oppo 16as
+210/537 ## excluido   ##  protector pantalla iphone 6,7 pulgadas
+211/537 ## excluido   ##  auriculares inalambricos iphone
+212/537 --precio bajo --  8,00 iphone 16 plus carcasa
+213/537 ## excluido   ##  funda iphone 16 silicona cubre camara morado
+214/537 ## excluido   ##  carcasa iphone 
+215/537 ++ guardado   ++ iphone 16 pro max 256gb dorado *a estrenar*
+216/537 ++ guardado   ++ iphone 16 256gb nuevo a estrenar=movilcenter=
+217/537 ++ guardado   ++ iphone 16 plus 128gb nuevo=movilcenter=
+218/537 ## excluido   ##  funda iphone 16 6.1 silicona cubre camara negro
+219/537 ## excluido   ##  fundas iphone 16 pro
+220/537 ## excluido   ##  funda iphone 16+ 2 protector pantalla + 1 cámaras
+221/537 ## excluido   ##  funda gris con cadena para iphone 13
+222/537 ++ guardado   ++ i phone 16 pro max 256gb 
+223/537 ## excluido   ##  iphone 15 128gb
+224/537 ## excluido   ##  cable carga rápida iphone 
+225/537 ## excluido   ##  ugreen
+226/537 ## excluido   ##  funda iphone con logo 1:1
+227/537 ## excluido   ##  fundas para iphone 
+228/537 ## excluido   ##  ulanzi empuñadura de camara de teléfono 
+229/537 ## excluido   ##  iphone 15 pro max
+230/537 ## excluido   ##  funda iphone con logo 1:1
+231/537 ++ guardado   ++ movil iphone 16 512gb salud 100%+ cable + caja "a estrenar"
+232/537 ## excluido   ##  iphone xr funda magsafe
+233/537 ## excluido   ##  funda iphone con logo de lujo 1:1
+234/537 ## excluido   ##  soporte flexible para móvil. nuevo 
+235/537 ## excluido   ##  iphone 6
+236/537 ## excluido   ##  iphone 13 pro 256gb
+237/537 ## excluido   ##  carcasa con magsafe 16
+238/537 ## excluido   ##  iphone 12 pro 256 gb
+239/537 ## excluido   ##  nubia z70 ultra nuevo
+240/537 ## excluido   ##  caja iphone 6s
+241/537 ## excluido   ##  cargador
+242/537 ## excluido   ##  iphone 14 pro max 
+243/537 ## excluido   ##  cinturón para correr -spigen
+244/537 ## excluido   ##  navegador peugeot 207 2 din 9" hd gps android 11.0
+245/537 ## excluido   ##  bateria magnetica externa para iphone
+246/537 ## excluido   ##  cargador 3 en 1
+247/537 ## excluido   ##  iphone 14 pro max en caja + funda 
+248/537 ## excluido   ##  funda apple iphone 14 pro max transparente 
+249/537 ## excluido   ##  fuente de alimentación 500w nox
+250/537 ## excluido   ##  protectores pantalla (antiespía) y cámara trasera
+251/537 ## excluido   ##  carcasas movil iphone 13 pro max
+252/537 ## excluido   ##  fundas iphone 13 pro max
+253/537 ## excluido   ##  cable para iphone 15 de carga rápida usb-c a usb-c
+254/537 ## excluido   ##  grip para móvil shoulderpod x1
+255/537 ## excluido   ##  cja iphone 4 - 16 gb
+256/537 ## excluido   ##  iniu cable usb c trenzado (3 pack, 2m+2m+0.5m)
+257/537 ## excluido   ##  iphone 4  (16 gb)
+258/537 ## excluido   ##  fundas iphone 11
+259/537 ## excluido   ##  usb c a usb apple iphone 16/15/14
+260/537 ## excluido   ##  iphone 6s 16gb
+261/537 ## excluido   ##  🕸️🦈⚽funda iphone nueva 3 diseños distintos 
+            id  ...                                                url
+0   1088399856  ...  https://es.wallapop.com/item/apple-iphone-16-5...
+1   1088978863  ...  https://es.wallapop.com/item/iphone-16-plus-12...
+2   1088807272  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+3   1088458111  ...  https://es.wallapop.com/item/iphone-16-plus-12...
+4   1088289579  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+..         ...  ...                                                ...
+75  1067280966  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+76  1052138794  ...  https://es.wallapop.com/item/galaxy-flip-3-256...
+77  1052119977  ...  https://es.wallapop.com/item/xiaomi-12-t-128gb...
+78  1068974159  ...  https://es.wallapop.com/item/i-phone-16-pro-ma...
+79  1057685191  ...  https://es.wallapop.com/item/movil-iphone-16-5...
+
+[80 rows x 6 columns]
+20250113
+iphone 16
+new
+csv guardado

@@ -1,0 +1,61 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2012&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/331 ## excluido   ##  camara ultracompacta gopro hero12 black
+1/331 ## excluido   ##  gopro12
+2/331 ## excluido   ##  camara ultracompacta gopro hero12 black
+3/331 ++ guardado   ++ gopro 12
+4/331 ## excluido   ##  camara deportiva gopro 9 black + funda y acc
+5/331 ## excluido   ##  camara ultracompacta gopro hero4
+6/331 ## excluido   ##  funda acuatica gopro 9/10/11/12/13
+7/331 ## excluido   ##  camara deportiva gopro hero 3 silver
+8/331 ## excluido   ##  camara ultracompacta gopro hero4
+9/331 ## excluido   ##  camara ultracompacta gopro hero4
+10/331 ## excluido   ##  camara deportiva gopro hero 3
+11/331 ## excluido   ##  go pro hero 5
+12/331 ## excluido   ##  vídeo camara gopro hero 6 black
+13/331 ## excluido   ##  caja de relojes de joyería 
+14/331 ## excluido   ##  gopro hero4 silver cámara
+15/331 ## excluido   ##  camara 360 grados video y foto realidad virtual
+16/331 ## excluido   ##  gopro hero 4
+17/331 ## excluido   ##  gopro hero 3 + accesorios 
+18/331 ## excluido   ##  cámara deportiva gopro hero4
+19/331 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+20/331 ## excluido   ##  carcasa cámara gopro 5,6,7
+21/331 ## excluido   ##  gopro 3+
+22/331 ## excluido   ##  camara ultracompacta gopro hero 4
+23/331 ## excluido   ##  cámara deportiva gopro hero4
+24/331 ## excluido   ##  cámara deportiva gopro hero4
+25/331 ## excluido   ##  cámara deportiva gopro hero4
+26/331 ## excluido   ##  gopro hero 6 + smart remote + palo + accesorios
+27/331 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+28/331 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+29/331 ## excluido   ##  sk8 camara 4k -elite tipo gopro 
+30/331 ## excluido   ##  gopro 5 black 
+31/331 ## excluido   ##  gopro hero 4 y accesorios
+32/331 ## excluido   ##  gopro hero 4 black 4k
+33/331 ## excluido   ##  gopro hero 10 black
+           id  ...                                               url
+0  1079605964  ...  https://es.wallapop.com/item/gopro-12-1079605964
+
+[1 rows x 6 columns]
+20250110
+gopro 12
+good
+csv guardado

@@ -1,0 +1,138 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2016&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/602 ## excluido   ##  apple iphone 12 pro 512gb oro - revisado
+1/602 ## excluido   ##  iphone x 
+2/602 ++ guardado   ++ smartphone iphone 16 128 gb
+3/602 ++ guardado   ++ smartphone iphone 16 128 gb
+4/602 ## excluido   ##  iphone vintage
+5/602 ++ guardado   ++ smartphone iphone 16 128 gb
+6/602 ++ guardado   ++ smartphone iphone 16 128 gb
+7/602 ## excluido   ##  iphone 11 pro
+8/602 ## excluido   ##  apple iphone 12 pro 256gb oro - revisado
+9/602 ## excluido   ##  iphone se oro rosa
+10/602 ++ guardado   ++ apple iphone 16 256gb
+11/602 ## excluido   ##  iphone 3g s negro
+12/602 ## excluido   ##  apple iphone 13 128gb
+13/602 ## excluido   ##  iphone 13 pro
+14/602 ++ guardado   ++ iphone 16 256 gb, blanco salud bateria 100 %
+15/602 ## excluido   ##  apple iphone 13 pro max 256gb
+16/602 ## excluido   ##  apple iphone 12 pro 512gb plata - revisado
+17/602 ++ guardado   ++ iphone 16 pro max 512gb blanco bateria 100% + cable + caja
+18/602 ## excluido   ##  altavoz para iphone 
+19/602 ## excluido   ##  iphone 11 pro
+20/602 ## excluido   ##  movil iphone 13 mini 128gb 83bat
+21/602 ## excluido   ##  iphone 11 64gb morado
+22/602 ## excluido   ##  iphone
+23/602 ## excluido   ##  apple iphone 12 pro 128gb plata - revisado
+24/602 ## excluido   ##  placa base msi,procesador i5,16 gigas,gráfica 
+25/602 ## excluido   ##  iphone 5s 16gb
+26/602 ## excluido   ##  iphone 5s 16gb
+27/602 ## excluido   ##  iphone 6s
+28/602 ## excluido   ##  16 fundas iphone 13 pro max 
+29/602 ## excluido   ##  iphone 5s
+30/602 ## excluido   ##  iphone 15 pro max 256gb
+31/602 ## excluido   ##  apple iphone 12 pro 512gb grafito - revisado
+32/602 ## excluido   ##  lote de 2 iphone 4 16gb 
+33/602 ## excluido   ##  iphone 14 pro max 256gb
+34/602 ++ guardado   ++ iphone 16 plus 256gb 
+35/602 ## excluido   ##  vendi iphone xs max
+36/602 ## excluido   ##  iphone 12 128gb azul
+37/602 ## excluido   ##  iphone 13
+38/602 ## excluido   ##  iphone 14 pro 256gb
+39/602 ## excluido   ##  apple iphone 12 pro 256gb grafito - revisado
+40/602 ## excluido   ##  iphone 8 negro 64gb
+41/602 ## excluido   ##  iphone 4 16gb
+42/602 ++ guardado   ++ smartphone apple iphone 16 128 gb -e0037306cv-
+43/602 ## excluido   ##  iphone 15 pro 128gb 1 año de uso
+44/602 ## excluido   ##  peak design carcasa para iphone 16 pro max
+45/602 ## excluido   ##  iphone 8 de 64 gb en buen estado
+46/602 ## excluido   ##  apple iphone 14 pro 128gb plata - revisado
+47/602 ## excluido   ##  iphone 12 pro 256gb
+48/602 ## excluido   ##  iphone 8 64gb rosa-oro
+49/602 ## excluido   ##  iphone 12 128gb
+50/602 ## excluido   ##  iphone 4 blsnco de 16gb movistar
+51/602 ## excluido   ##  iphone 6 16gb
+52/602 ## excluido   ##  iphone 4s de 16gb
+53/602 ## excluido   ##  iphone 15 pro max 256gb negro
+54/602 ## excluido   ##  apple iphone 14 pro 256gb oro - revisado
+55/602 ## excluido   ##  iphone 11 64gb
+56/602 ## excluido   ##  apple iphone 13 128gb
+57/602 ## excluido   ##  iphone 6 plus
+58/602 ## excluido   ##  iphone 4s
+59/602 ## excluido   ##  iphone 14 plus
+60/602 ## excluido   ##  iphone se 16gb
+61/602 ## excluido   ##  apple iphone 14 pro 128gb oro - revisado
+62/602 ## excluido   ##  iphone 5s con airpods
+63/602 --precio bajo --  25,00 iphone se 16 gb
+64/602 ## excluido   ##  caja vacía para iphone 6, gold, 16 gb
+65/602 ++ guardado   ++ iphone 16 ultramarine 128gb 100% bat+ caja
+66/602 ## excluido   ##  gratis ipad mini 16gb
+67/602 ++ guardado   ++ smartphone apple iphone 16 128 gb
+68/602 ## excluido   ##  iphone 4 16gb
+69/602 ## excluido   ##  apple iphone 12 pro 512gb azul pacífico - revisado
+70/602 ## excluido   ##  iphone 12 pro max 256 gb
+71/602 ## excluido   ##  iphone 14 pro max blanco 128gb
+72/602 ## excluido   ##  iphone 12 pro 
+73/602 ## excluido   ##  apple iphone 5
+74/602 ## excluido   ##  iphone 6
+75/602 ## excluido   ##  movil 
+76/602 --precio bajo --  70,00 vendo un iphone 5c de 16 gb rosa
+77/602 ## excluido   ##  apple iphone 12 pro 256gb azul pacífico - revisado
+78/602 ## excluido   ##  iphone 13 pro
+79/602 ## excluido   ##  iphone 5 16 gb
+80/602 ## excluido   ##  móvil iphone 6
+81/602 ## excluido   ##  iphone 5c
+82/602 ## excluido   ##  iphone 6s 16gb plata negociable
+83/602 --precio bajo --  0,00 iphone 16 pro max
+84/602 ## excluido   ##  iphone se 16gb
+85/602 ## excluido   ##  apple iphone 12 pro 128gb azul pacífico - revisado
+86/602 ## excluido   ##  iphone 5c para piezas 
+87/602 ## excluido   ##  iphone 15 pro 128gb blanco perfecto estado
+88/602 ## excluido   ##  cargador inalambrico para iphone
+89/602 ## excluido   ##  2 iphone 6
+90/602 --precio bajo --  100,00 iphone 6s plus 16 gb dorado
+91/602 ## excluido   ##  apple iphone 13 pro max 256gb oro - revisado
+92/602 ## excluido   ##  iphone 5
+93/602 ## excluido   ##  iphone 5 
+94/602 ## excluido   ##  iphone 11 pro 256 gb
+95/602 ## excluido   ##  iphone 6
+96/602 ## excluido   ##  iphone 5 funcional
+97/602 ## excluido   ##  tlf-iphone 6s y el 8
+98/602 ## excluido   ##  iphone x
+99/602 ## excluido   ##  apple iphone 13 pro max 128gb oro - revisado
+100/602 ## excluido   ##  iphone 13 pro
+            id  ...                                                url
+0   1091115353  ...  https://es.wallapop.com/item/smartphone-iphone...
+1   1091097178  ...  https://es.wallapop.com/item/smartphone-iphone...
+2   1090922712  ...  https://es.wallapop.com/item/smartphone-iphone...
+3   1090699688  ...  https://es.wallapop.com/item/smartphone-iphone...
+4   1090509686  ...  https://es.wallapop.com/item/apple-iphone-16-2...
+5   1090702903  ...  https://es.wallapop.com/item/iphone-16-256-gb-...
+6   1090702250  ...  https://es.wallapop.com/item/iphone-16-pro-max...
+7   1084745293  ...  https://es.wallapop.com/item/iphone-16-plus-25...
+8   1085714489  ...  https://es.wallapop.com/item/smartphone-apple-...
+9   1083941020  ...  https://es.wallapop.com/item/iphone-16-ultrama...
+10  1080681424  ...  https://es.wallapop.com/item/smartphone-apple-...
+
+[11 rows x 6 columns]
+20250119
+iphone 16
+good
+csv guardado

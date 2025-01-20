@@ -1,0 +1,390 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2015&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/630 ++ guardado   ++ iphone 15 pro 
+1/630 ++ guardado   ++ iphone 15 128gb nuevo a estrenar 
+2/630 ++ guardado   ++ iphone 15 128gb nuevo
+3/630 ## excluido   ##  funda iphone 15 pro max
+4/630 ++ guardado   ++ iphone 15 plus rosa
+5/630 ## excluido   ##  funda de movil iphone 15 pro
+6/630 ++ guardado   ++ iphone 15 pro max
+7/630 ++ guardado   ++ iphone 15 pro max 256 gb
+8/630 ## excluido   ##  2 cargadores 20w iphone
+9/630 ++ guardado   ++ iphone 15 rosa 
+10/630 ## excluido   ##  funda iphone 15 original
+11/630 ++ guardado   ++ iphone 15 pro max 
+12/630 ## excluido   ##  funda iphone 15 pro
+13/630 ## excluido   ##  funda iphone 15 pro 
+14/630 ## excluido   ##  funda iphone 15 pro
+15/630 ++ guardado   ++ iphone 15 pro max
+16/630 ## excluido   ##  carcasas iphone 15
+17/630 ## excluido   ##  fundas de stitch iphone 15 pro
+18/630 ++ guardado   ++ iphone 15 pro max 256gb 
+19/630 ++ guardado   ++ iphone 15 128gb negro nuevo
+20/630 ++ guardado   ++ iphone 15  verde
+21/630 ++ guardado   ++ iphone 15 pro max gris 
+22/630 ++ guardado   ++ iphone 15 pro max 256gb como nuevo
+23/630 ## excluido   ##  otterbox funda para iphone 15 pro
+24/630 ## excluido   ##  funda original para iphone 15 pro max
+25/630 --precio bajo --  34,00 cargador iphone 15 tipo c
+26/630 ++ guardado   ++ iphone 15 pro max 256gb 99% bateria nuevo
+27/630 ++ guardado   ++ iphone 15 128gb negro bateria 100% + caja *a estrenar*
+28/630 ++ guardado   ++ iphone 15 pro max
+29/630 ## excluido   ##  fundas iphone 15
+30/630 ## excluido   ##  carcasa iphone 15 pro max
+31/630 ## excluido   ##  iphone 16 pro 256gb nuevo
+32/630 ## excluido   ##  cargador 20w iphone
+33/630 ++ guardado   ++ iphone 15 pro max
+34/630 ## excluido   ##  iphone 
+35/630 ## excluido   ##  funda iphone 15 pro
+36/630 ++ guardado   ++ iphone 15 256gb
+37/630 ## excluido   ##  fundas iphone 15
+38/630 --precio bajo --  10,00 fonda de iphone 15 pro 
+39/630 ## excluido   ##  fundas iphone 15 13 y 14
+40/630 ## excluido   ##  funda iphone 15 pro max
+41/630 --precio bajo --  100,00 bateria iphone 15 pro 
+42/630 ## excluido   ##  funda iphone 15 pro max 
+43/630 ++ guardado   ++ iphone 15 128gb libre
+44/630 ## excluido   ##  funda iphone 15 transparente
+45/630 ++ guardado   ++ telefono movil iphone 15
+46/630 --precio bajo --  50,00 altavoz superior iphone 15 pro 
+47/630 --precio bajo --  150,00 modulo de camaras iphone 15 pro 
+48/630 ++ guardado   ++ iphone 15 plus
+49/630 ++ guardado   ++ iphone 15
+50/630 ## excluido   ##  funda iphone 15 "one piece"
+51/630 ## excluido   ##  funda gris/nueva iphone15
+52/630 ## excluido   ##  fundas iphone 16 pro max
+53/630 ## excluido   ##  vidrio templado automático iphone 
+54/630 --precio bajo --  2,00 iphone 15 pro - accesorios
+55/630 ++ guardado   ++ iphone 15 / 128gb (nuevo)
+56/630 ++ guardado   ++ iphone 15 128gb
+57/630 ## excluido   ##  funda iphone 15
+58/630 ## excluido   ##  caja iphone 15 
+59/630 ## excluido   ##  caja iphone 15
+60/630 ## excluido   ##  iphone 11 nuevo a estrenar📲
+61/630 ++ guardado   ++ iphone 15 100% batería
+62/630 ++ guardado   ++ iphone 15 
+63/630 ## excluido   ##  teléfono redmi note 13 pro 5g 258 gb 
+64/630 ## excluido   ##  funda iphone 15 pro 
+65/630 ## excluido   ##  funda iphone 15 plus
+66/630 ++ guardado   ++ apple iphone 15 pro max 1tb titanio azul nuevo
+67/630 ++ guardado   ++ iphone 15 pro max 256g
+68/630 ++ guardado   ++ iphone 15 pro max 256gb nuevo
+69/630 ## excluido   ##  funda iphone 15 
+70/630 ++ guardado   ++ iphone 15 128 gb
+71/630 ## excluido   ##  carcasas varias iphone 15 pro
+72/630 --precio bajo --  10,00 funta iphone 15 pro max
+73/630 ## excluido   ##  funda iphone 15 promax
+74/630 ++ guardado   ++ iphone 15 pink y 15 pro max 
+75/630 ++ guardado   ++ iphone 15 128gb nuevo factura
+76/630 ## excluido   ##  protector pantalla iphone 15.
+77/630 ## excluido   ##  funda para iphone 15 pro
+78/630 ## excluido   ##  fundas iphone 15 pro con tapa
+79/630 ## excluido   ##  cargador iphone 3 en 1
+80/630 ## excluido   ##  funda iphone 15 pro max nueva
+81/630 ## excluido   ##  funda para iphone 15 pro
+82/630 ++ guardado   ++ iphone 15 negro 128gb + caja "a estrenar"
+83/630 ## excluido   ##  funda para iphone 15 pro
+84/630 ## excluido   ##  fundas iphone 15
+85/630 ++ guardado   ++ iphone 15 pro max
+86/630 ## excluido   ##  funda iphone 15 pro max
+87/630 ## excluido   ##  funda iphone 15
+88/630 ## excluido   ##  fundas iphone 15
+89/630 ## excluido   ##  iphone 16 pro max nuevo 
+90/630 ## excluido   ##  funda iphone 15 pro max kate spade
+91/630 ++ guardado   ++ iphone 15 pink 256gb 100%
+92/630 ## excluido   ##  soporte iphone 
+93/630 ++ guardado   ++ iphone 15 plus 256 gb 
+94/630 ## excluido   ##  funda transparente iphone 15 pro 
+95/630 ++ guardado   ++ iphone 15 128gb white
+96/630 ## excluido   ##  funda y protectores iphone 15 pro max
+97/630 ## excluido   ##  funda protectora iphone 15 
+98/630 ## excluido   ##  funda rhinoshield para iphone 15.
+99/630 ++ guardado   ++ iphone 15 pro 256mb
+100/630 ## excluido   ##  funda transparente original para iphone 15 pro max
+101/630 --precio bajo --  4,00 fund iphone 15 pro max 
+102/630 ## excluido   ##  funda de iphone 15 pro max
+103/630 ## excluido   ##  funda para iphone 15 pro max
+104/630 ## excluido   ##  cargador magnético para iphone 12,13,14,15,16
+105/630 ## excluido   ##  cable carga rápida iphone tipo c c apple
+106/630 ++ guardado   ++ iphone 15 de 256gb
+107/630 ## excluido   ##  iphone 14 blue 128gb nuevo
+108/630 ++ guardado   ++ iphone 15 pro max 
+109/630 ## excluido   ##  iphone 
+110/630 ## excluido   ##  funda iphone 15 pro hello kitty
+111/630 --precio bajo --  20,00 cajas vacias de iphone 15 pro max
+112/630 ## excluido   ##  funda para iphone 15 compatible con carga inhalamb
+113/630 ## excluido   ##  iphone 16 negro 256gb
+114/630 --precio bajo --  30,00 bateria iphone 15 pro max
+115/630 --precio bajo --  125,00 pantalla iphone 15 pro max
+116/630 ## excluido   ##  funda iphone 15 plus con magsafe 
+117/630 ++ guardado   ++ iphone 15 1t 
+118/630 ## excluido   ##  funda iphone 15
+119/630 --precio bajo --  8,00 accesorios iphone 15 pro
+120/630 ## excluido   ##  funda iphone 15 plus. silicone case.
+121/630 --precio bajo --  35,00 tapa trasera iphone 15 pro max
+122/630 --precio bajo --  85,00 camara trasera iphone 15 pro max
+123/630 ## excluido   ##  funda iphone 14 15 16
+124/630 ## excluido   ##  funda iphone 15 pro max 
+125/630 ## excluido   ##  fundas iphone 12 pro
+126/630 ++ guardado   ++ iphone 15 pro max titanium natural 256gb
+127/630 ++ guardado   ++ iphone 15 plus
+128/630 ## excluido   ##  iphone 13 128gb negro nuevo!!
+129/630 ## excluido   ##  funda de movil iphone 15
+130/630 ## excluido   ##  iphone 14 pro 256gb nuevo!
+131/630 ++ guardado   ++ iphone 15 pro 
+132/630 ++ guardado   ++ iphone 15
+133/630 ++ guardado   ++ iphone 15 pro 256gb
+134/630 ## excluido   ##  funda iphone 15 pro max
+135/630 ## excluido   ##  funda para móvil iphone
+136/630 ## excluido   ##  funda iphone 15 pro husqvarna
+137/630 ## excluido   ##  funda iphone 15 pro
+138/630 ## excluido   ##  funda kenzo paris iphone 15 pro
+139/630 ## excluido   ##  samsung a55
+140/630 ## excluido   ##  funda original para iphone 15 pro
+141/630 ## excluido   ##  pack fundas y accesorios iphone 15 pro max 
+142/630 ## excluido   ##  funda iphone 15
+143/630 ## excluido   ##  proteccion de camara iphone 15/15 plus
+144/630 ++ guardado   ++ iphone 15 128g
+145/630 ++ guardado   ++ iphone 15 rosa 128 gigas nuevo 100% 🔋
+146/630 ## excluido   ##  funda iphone 15 pro max
+147/630 ## excluido   ##  funda iphone 15 pro max
+148/630 ## excluido   ##  movil iphone 16 pro max 256gb black titanium a estrenar
+149/630 --precio bajo --  80,00 cajas de iphone desde 11 pro max a 15 pro
+150/630 ## excluido   ##  soporte carga iphone 16/15/14/13
+151/630 ## excluido   ##  funda iphone 15
+152/630 ## excluido   ##  funda iphone 15
+153/630 ## excluido   ##  funda iphone 15
+154/630 ## excluido   ##  fundas iphone 14 pro
+155/630 ## excluido   ##  funda iphone 15 pro
+156/630 ## excluido   ##  funda iphone 15 pro max
+157/630 ## excluido   ##  funda iphone 15 pro max
+158/630 ## excluido   ##  fundas iohone 15 pro 
+159/630 ## excluido   ##  funda iphone 15 pro max 
+160/630 ## excluido   ##  funda iphone 15 pro max 
+161/630 ## excluido   ##  iphone 6s plus 
+162/630 ## excluido   ##  funda iphone 15
+163/630 ## excluido   ##  accesorios movil
+164/630 ## excluido   ##  funda iphone se
+165/630 ## excluido   ##  funda apple iphone 15 pro max
+166/630 ## excluido   ##  funda iphone 15
+167/630 ## excluido   ##  funda rick and morty iphone 15
+168/630 ## excluido   ##  air auriculares inalámbricos 2
+169/630 ++ guardado   ++ iphone 15 
+170/630 ## excluido   ##  caja iphone 15
+171/630 ++ guardado   ++ iphone 15 pro max titanio natural. 100% batería 
+172/630 ## excluido   ##  iphone 16 128gb blanco precintado
+173/630 ## excluido   ##  iphone 16 128gb verde precintado
+174/630 ## excluido   ##  iphone 16 256gb negro precintado
+175/630 ## excluido   ##  funda para iphone 13/14/15
+176/630 ## excluido   ##  carcasas logo iphone 11 hasta iphone16 
+177/630 ## excluido   ##  funda iphone 15 pro 
+178/630 ## excluido   ##  vendo iphone 12 pro max
+179/630 ## excluido   ##  iphone 16
+180/630 ## excluido   ##  funda iphone 15 pro max
+181/630 ++ guardado   ++ iphone 15 
+182/630 ## excluido   ##  funda apple iphone 15 pro max nueva!!!
+183/630 ++ guardado   ++ mobile iphone 15 pro
+184/630 ## excluido   ##  funda iphone 15 pro max
+185/630 ## excluido   ##  motorola edge 50 neo nuevo
+186/630 --precio bajo --  160,00 inito starter pack iphone 15
+187/630 ## excluido   ##  carcasa original de apple iphone 15 nuevo sin etiq
+188/630 ## excluido   ##  iphone 16 plus 256gb azul precintado!
+189/630 ## excluido   ##  iphone 16 pro 128gb desierto precintado!
+190/630 ## excluido   ##  iphone 16 pro 128gb natural precintado
+191/630 ## excluido   ##  iphone 16 pro 128gb negro precintado!
+192/630 ## excluido   ##  iphone 15, 256gb, para repuestos
+193/630 --precio bajo --  30,00 iphone 15 plus. clear case. . magsafe
+194/630 ++ guardado   ++ iphone 15 pro 128gb nuevo
+195/630 ++ guardado   ++ iphone 15 pro 128gb nuevo
+196/630 ## excluido   ##  funda iphone 15 pro max 
+197/630 ## excluido   ##  mini phone tres colores 
+198/630 ## excluido   ##  funda iphone 15 spiderman
+199/630 ## excluido   ##  fundas iphone 15
+200/630 ## excluido   ##  funda para iphone 15 pro max 
+201/630 ## excluido   ##  iphone 16 pro max 256gb blanco precintado!
+202/630 ## excluido   ##  iphone 16 pro max 256gb natural precintado!
+203/630 ++ guardado   ++ iphone 15 prox max 
+204/630 ## excluido   ##  iphone 16 pro max 256gb negro precintado!
+205/630 ## excluido   ##  iphone 16 pro max 256gb desierto precintado!
+206/630 ## excluido   ##  funda iphone x  max
+207/630 ## excluido   ##  funda cuero iphone 15 max pro
+208/630 ## excluido   ##  funda iphone 15 pro. silicone case.megsa
+209/630 ## excluido   ##  funda iphone 15 rick and morty
+210/630 --precio bajo --  30,00 iphone 15 pro max.silicone case. magsafe
+211/630 ## excluido   ##  micas de cristal  para iphone 15 
+212/630 ## excluido   ##  movil
+213/630 ## excluido   ##  funda original de iphone 15
+214/630 ## excluido   ##  soporte iphone plus
+215/630 ## excluido   ##  fundas iphone 15
+216/630 ++ guardado   ++ iphone 15 128gb (con dos días de uso)
+217/630 --precio bajo --  70,00 reparacion batería iphone 15
+218/630 ## excluido   ##  funda iphone 15 plus
+219/630 --precio bajo --  5,00 case iphone 15 pro max
+220/630 ## excluido   ##  funda otterbox iphone 15 pro
+221/630 ## excluido   ##  funda iphone 15 north face
+222/630 ## excluido   ##  funda
+223/630 ## excluido   ##  funda iphone 15 pro nuevo con etiquetas·apple
+224/630 ## excluido   ##  apple iphone 15 pro max funda
+225/630 --precio bajo --  110,00 pantallas de gama de iphone 15
+226/630 ## excluido   ##  2 cables 20w iphone
+227/630 ## excluido   ##  cargador iphone
+228/630 ## excluido   ##  carcasa iphone 15
+229/630 ++ guardado   ++ iphone 15 pro max
+230/630 ## excluido   ##  funda iphone 15 promax
+231/630 ++ guardado   ++ iphone 15
+232/630 --precio bajo --  30,00 iphone 15 pro max clear case. magsafe.
+233/630 ## excluido   ##  funda iphone 13/14/15
+234/630 ## excluido   ##  funda iphone 13/14/15
+235/630 ## excluido   ##  funda y protector pantalla iphone 15 pro
+236/630 ++ guardado   ++ ihone 15 pro max 
+237/630 ## excluido   ##  funda iphone 15 pro 
+238/630 ## excluido   ##  funda fina iphone 15 pro max 
+239/630 ## excluido   ##  funda iphone 14promax
+240/630 ## excluido   ##  funda apple iphone 15 pro max
+241/630 --precio bajo --  3,00 vidrio templado iphone 15 pro max
+242/630 ## excluido   ##  funda de silicona líquida para iphone 15 pro
+243/630 --precio bajo --  190,00 cambio pantalla iphone 15 pro max
+244/630 ## excluido   ##  funda iphone 13 pro max
+245/630 ++ guardado   ++ iphone 15 256gb 
+246/630 ## excluido   ##  funda de silicona líquida para iphone 15 pro max
+247/630 ## excluido   ##  funda iphone 15 pro max ultra fina
+248/630 ## excluido   ##  funda iphone 15 
+249/630 ## excluido   ##  funda iphone 15 plus
+250/630 ## excluido   ##  caja iphone 15
+251/630 ## excluido   ##  funda de tela fina azul claro para iphone 15 pro
+252/630 ## excluido   ##  funda iphone 15 pro max 
+253/630 ## excluido   ##  funda iphone 15 con soporte, protección milita
+254/630 ++ guardado   ++ iphone 15 black 
+255/630 ++ guardado   ++ iphone 15 pro máx 
+256/630 ## excluido   ##  funda iphone 15
+257/630 ## excluido   ##  funda iphone
+258/630 ## excluido   ##  fundas iphone 15
+259/630 ## excluido   ##  vendo fundas de iphone 13 pro 
+260/630 ## excluido   ##  funda iphone 15 pro max
+261/630 ## excluido   ##  funda iphone 14 pro/15 pro
+262/630 --precio bajo --  18,00 12 accesorios iphone 15 pro max
+263/630 ## excluido   ##  funda iphone 15
+264/630 ++ guardado   ++ iphone 15 pro max 512
+265/630 ## excluido   ##  funda iphone 15 pro de mario bros
+266/630 ## excluido   ##  funda iphone 15 pro mario bros
+267/630 ++ guardado   ++ iphone 15
+268/630 ## excluido   ##  cargador tipo-c 22.5w para iphone 15/16 np-c1819
+269/630 ## excluido   ##  funda iphone 15 plus
+270/630 ## excluido   ##  funda iphone 13 pro
+271/630 ++ guardado   ++ iphone 15 pro max 256gb
+272/630 ## excluido   ##  carcasa de iphone 15, 14, 13 , 12 pro max plus 
+273/630 ## excluido   ##  iphone
+274/630 ## excluido   ##  funda magsafe iphone 15
+275/630 ## excluido   ##  nuevo wireless adapter ios soporte cargador 15w 
+276/630 ## excluido   ##  funda iphone 15 pro
+277/630 ## excluido   ##  fundas iphone 15 pro max stringeberry nueva
+278/630 ## excluido   ##  funda transparente iphone 15 pro max apple 
+279/630 ## excluido   ##  fundas iphone 13 pro
+280/630 ## excluido   ##  funda movil 
+281/630 ++ guardado   ++ iphone 15 pro max 
+282/630 ++ guardado   ++ iphone 15 promax 512 gb blue titanium
+283/630 ## excluido   ##  funda de movil iphone 15 plus
+284/630 ## excluido   ##  fundas iphone 15 pro max 
+285/630 ## excluido   ##  funda iphone 15 
+286/630 ## excluido   ##  funda protectora iphone 15 pro max 
+287/630 ## excluido   ##  caja iphone 15 pro 256gb
+288/630 ++ guardado   ++ iphone 15 pro 256gb
+289/630 ## excluido   ##  apple funda iphone 15 
+290/630 ## excluido   ##  apple funda iphone 15 
+291/630 ## excluido   ##  funda transparente para iphone 15 pro
+292/630 ++ guardado   ++ iphone 15 pro 128gb
+293/630 ## excluido   ##  iphone
+294/630 ++ guardado   ++ iphone 15 pro max 256gb
+295/630 ++ guardado   ++ iphone 15 pro max
+296/630 ## excluido   ##  funda magsafe iphone 15 pro max rosa 
+297/630 ## excluido   ##  fundas 16 pro max
+298/630 ## excluido   ##  lark m2
+299/630 ++ guardado   ++ iphone 15 pro max 
+300/630 ## excluido   ##  funda iphone 15 pro 
+301/630 --precio bajo --  2,50 protecto camara iphone 15 pro max
+302/630 ## excluido   ##  fundas iphone 15 pro
+303/630 ## excluido   ##  funda iphone 15 plus navidad
+304/630 ## excluido   ##  funda iphone 15 plus navidad
+305/630 ## excluido   ##  funda iphone 15 pro max
+306/630 ## excluido   ##  carcasa iphone 15 pro
+307/630 ## excluido   ##  apple funda iphone 15 pro
+308/630 ## excluido   ##  fundas iphone 15 pro max
+309/630 ## excluido   ##  apple funda iphone 15 plus
+310/630 ## excluido   ##  carcasa iphone 15 pro
+311/630 ## excluido   ##  fundas iphone 15.
+312/630 ++ guardado   ++ iphone 15 128gb
+313/630 ## excluido   ##  fundas iphone 15.
+314/630 ## excluido   ##  protector de lente de camara para iphone
+315/630 ## excluido   ##  funda iphone 15 
+316/630 ## excluido   ##  caja iphone 15 pro max
+317/630 ## excluido   ##  carcasa iphone 15 pro max 
+318/630 ++ guardado   ++ iphone 15 pro max 256gb
+319/630 ## excluido   ##  lote 3 fundas iphone 11 seafoam pink y rainbow
+320/630 ## excluido   ##  carcasa iphone 15 pro max nueva
+321/630 ++ guardado   ++ iphone 15 plus piezas 
+322/630 ## excluido   ##  funda iphone 15 pro max 
+323/630 ## excluido   ##  carcasa iphone 15 pro
+324/630 ## excluido   ##  iphone
+325/630 ## excluido   ##  fundas iphone 15 plus 
+326/630 ## excluido   ##  fundas de móvil iphone
+327/630 ## excluido   ##  apple funda iphone 15 pro max
+328/630 ## excluido   ##  funda transparente iphone 15 pro max
+329/630 ## excluido   ##  apple funda iphone 15 pro max
+330/630 ## excluido   ##  apple funda iphone 15 pro max
+331/630 ## excluido   ##  funda iphone 15
+332/630 ## excluido   ##  iphone16pro y 16pro max
+333/630 --precio bajo --  13,00 soporte iphone 12 13 14 15 16
+334/630 ## excluido   ##  funda iphone 15 
+335/630 ## excluido   ##  funda iphone 15pro
+336/630 ## excluido   ##  carcasa iphone 15 pro max batman nueva
+337/630 ## excluido   ##  funda iphone 15 
+338/630 ## excluido   ##  funda vans para iphone 15 pro
+339/630 ## excluido   ##  ssd externo para iphone usbc zike 512gb
+340/630 ## excluido   ##  fundas iphone 15
+341/630 ## excluido   ##   iphone
+342/630 ## excluido   ##  funda future iphone 15 pro
+343/630 ## excluido   ##  funda mortydollar iphone 15 pro
+344/630 ## excluido   ##  funda iphone 15
+345/630 ## excluido   ##  funda iphone 15
+346/630 ## excluido   ##  funda iphone 15
+347/630 ## excluido   ##  iphone 16 128 nuevo sin usar
+348/630 ## excluido   ##  fundas iphone 13/14 pro
+349/630 ## excluido   ##  i phone 16 pro
+350/630 ## excluido   ##  funda iphone 15 pro max 
+351/630 ## excluido   ##  cargador para iphone
+352/630 ## excluido   ##  funda de iphone 15 pro 
+            id  ...                                                url
+0   1089964739  ...  https://es.wallapop.com/item/iphone-15-pro-108...
+1   1091479510  ...  https://es.wallapop.com/item/iphone-15-128gb-n...
+2   1091414423  ...  https://es.wallapop.com/item/iphone-15-128gb-n...
+3   1091104756  ...  https://es.wallapop.com/item/iphone-15-plus-ro...
+4   1091168156  ...  https://es.wallapop.com/item/iphone-15-pro-max...
+..         ...  ...                                                ...
+71  1066561999  ...  https://es.wallapop.com/item/iphone-15-pro-max...
+72  1067720801  ...  https://es.wallapop.com/item/iphone-15-pro-max...
+73  1064004241  ...  https://es.wallapop.com/item/iphone-15-128gb-1...
+74  1065278194  ...  https://es.wallapop.com/item/iphone-15-pro-max...
+75  1063712371  ...  https://es.wallapop.com/item/iphone-15-plus-pi...
+
+[76 rows x 6 columns]
+20250119
+iphone 15
+new
+csv guardado

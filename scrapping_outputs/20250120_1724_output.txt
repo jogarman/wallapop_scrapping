@@ -1,0 +1,65 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2014&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/299 ++ guardado   ++ iphone 14 pro 256gb esim impecable
+1/299 ++ guardado   ++ iphone 14 98 128gb
+2/299 ++ guardado   ++ iphone 14 pro max 256gb nuevo
+3/299 ++ guardado   ++ iphone 14 nuevo 
+4/299 ++ guardado   ++ iphone 14 pro max 256gb
+5/299 ++ guardado   ++ iphone 14 93% batería 
+6/299 ++ guardado   ++ iphone 14 pro max nuevo
+7/299 ++ guardado   ++ iphone 14 pro max 
+8/299 ++ guardado   ++ iphone 14 pro max 128gb esim impecable
+9/299 ++ guardado   ++ iphone 14
+10/299 ++ guardado   ++ iphone 14 plus
+11/299 ++ guardado   ++ iphone 14
+12/299 ## excluido   ##  iphone 14pro
+13/299 ## excluido   ##   funda iphone 14 
+14/299 ## excluido   ##  fundas para iphone 14 pro
+15/299 ## excluido   ##  2 cables 20w iphone
+16/299 ## excluido   ##  apple iphone 16 512gb nuevo garantia
+17/299 ++ guardado   ++ iphone 14 pro 128gb negro espacial reacondicionado
+18/299 ++ guardado   ++ iphone 14 128 gb nuevo
+19/299 ## excluido   ##  cargador 20w iphone
+20/299 ++ guardado   ++ iphone 14 blue 128gb nuevo
+21/299 ## excluido   ##  carcasa iphone 14 pro
+22/299 ++ guardado   ++ iphone 14 pro max
+23/299 ## excluido   ##  funda iphone 14 pro negra 
+24/299 ## excluido   ##  funda survivor iphone 14 pro max
+25/299 ++ guardado   ++ iphone 14
+26/299 ## excluido   ##  2 cargadores 20w iphone
+27/299 ## excluido   ##  iphone 16 pro 256gb nuevo
+28/299 ## excluido   ##  fundas de iphone 
+29/299 ++ guardado   ++ iphone 14 pro 256gb nuevo!
+30/299 ## excluido   ##  funda iphone 13/14
+31/299 ## excluido   ##  caja iphone 14 pro
+32/299 ## excluido   ##  fundas para iphone 14 pro max 
+33/299 ++ guardado   ++ iphone 14 pro gold 256gb
+34/299 ## excluido   ##  iphone 15 pro max 
+35/299 ++ guardado   ++ iphon 14 pro
+36/299 --precio bajo --  10,00 protectores de pantalla iphone 14 pro max
+37/299 ++ guardado   ++ iphone 14 pro max
+38/299 --precio bajo --  170,00 iphone 14 para piezas
+39/299 ++ guardado   ++ iphone 14
+40/299 ## excluido   ##  iphone 
+41/299 ++ guardado   ++ iphone 14 pro blanco
+42/299 ++ guardado   ++ iphone 14 pro 256gb nuevo
+43/299 ## excluido   ##  funda para iphone 14 pro max
+44/299 ## excluido   ##  fundas iphone 14 pro
+45/299 ++ guardado   ++ iphone 14 plus rojo 128 gb 
