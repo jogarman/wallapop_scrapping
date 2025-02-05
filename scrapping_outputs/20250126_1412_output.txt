@@ -1,0 +1,624 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2011&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/587 ++ guardado   ++ iphone 11 negro 128gb
+1/587 ++ guardado   ++ apple iphone 11
+2/587 ++ guardado   ++ iphone 11 
+3/587 ++ guardado   ++ iphone 11 pro max
+4/587 ++ guardado   ++ iphone 11
+5/587 --precio bajo --  119,00 iphone 11
+6/587 ++ guardado   ++ iphone 11
+7/587 ++ guardado   ++ iphone 11 128gb
+8/587 ++ guardado   ++ apple iphone 11 pro 512gb plata - revisado
+9/587 ++ guardado   ++ iphone 11
+10/587 ++ guardado   ++ iphone 11 128gb
+11/587 --precio bajo --  99,00 iphone 11
+12/587 ++ guardado   ++ iphone 11 para piezas 
+13/587 ++ guardado   ++ iphone 11
+14/587 ++ guardado   ++ iphone 11 128gb
+15/587 ++ guardado   ++ iphone 11 de 64 gb
+16/587 ++ guardado   ++ apple iphone 11 pro 256gb plata - revisado
+17/587 --precio bajo --  60,00 iphone 11 pro max
+18/587 ++ guardado   ++ iphone  11 pro max 256gb impecable 
+19/587 ++ guardado   ++ iphone 11 pro max 256 gb
+20/587 ++ guardado   ++ iphone 11 64 gb
+21/587 ++ guardado   ++ iphone 11 pro 
+22/587 ++ guardado   ++ iphone 11 100% bateria📲
+23/587 ++ guardado   ++ iphone 11 64gb
+24/587 ++ guardado   ++ apple iphone 11 pro 64gb plata - revisado
+25/587 --precio bajo --  15,00 bateria iphone 11 original
+26/587 ++ guardado   ++ iphone 11 128gb
+27/587 ++ guardado   ++ iphone 11 pro 256 gb plateado
+28/587 ++ guardado   ++ iphone 11  128gb en perfecto estado  200
+29/587 ++ guardado   ++ iphone 11
+30/587 ++ guardado   ++ iphone 11 pro
+31/587 ++ guardado   ++ iphone 11 pro. 256gb
+32/587 ++ guardado   ++ apple iphone 11 pro 256gb oro - revisado
+33/587 ++ guardado   ++ iphone 11
+34/587 ++ guardado   ++ iphone 11 pro 256gb
+35/587 ++ guardado   ++ iphone 11 pro max 64gb
+36/587 ## excluido   ##  iphone 11pro máx 64 gb 
+37/587 ++ guardado   ++ iphone 11 
+38/587 ++ guardado   ++ iphone 11 pro max de 64gb
+39/587 ++ guardado   ++ iphone 11 pro max 256gb grafito
+40/587 ++ guardado   ++ apple iphone 11 pro 64gb oro - revisado
+41/587 ++ guardado   ++ iphone 11 vendido
+42/587 ++ guardado   ++ iphone 11 128gb
+43/587 ++ guardado   ++ iphone 11 sin face id
+44/587 ++ guardado   ++ iphone 11 pro
+45/587 ++ guardado   ++ iphone 11 lila 64gb
+46/587 ++ guardado   ++ iphone 11 azul cielo 64gb impecable
+47/587 ++ guardado   ++ iphone 11
+48/587 ++ guardado   ++ apple iphone 11 64gb amarillo - revisado
+49/587 --precio bajo --  100,00 iphone 11 128 gb
+50/587 ++ guardado   ++ iphone 11 128gb
+51/587 ++ guardado   ++ iphone 11 256gb rojo
+52/587 ++ guardado   ++ iphone 11 pro 256 gb
+53/587 ++ guardado   ++ iphone 11
+54/587 ++ guardado   ++ iphone 11 128gb
+55/587 ++ guardado   ++ iphone 11 (precio no negociable)
+56/587 ++ guardado   ++ apple iphone 11 128gb verde - revisado
+57/587 ++ guardado   ++ iphone 11 128 gb
+58/587 ++ guardado   ++ iphone 11 128gb
+59/587 ++ guardado   ++ iphone 11 morado 64gb
+60/587 ++ guardado   ++ iphone 11 
+61/587 ++ guardado   ++ iphone 11 100% bateria✅
+62/587 --precio bajo --  110,00 iphone 11
+63/587 ++ guardado   ++ iphone 11 64gb 
+64/587 ++ guardado   ++ apple iphone 11 64gb verde - revisado
+65/587 ++ guardado   ++ iphone 11 64gb
+66/587 ++ guardado   ++ iphone 11 256gb
+67/587 ++ guardado   ++ iphone 11 pro 256 gb 
+68/587 ++ guardado   ++ iphone 11
+69/587 ## excluido   ##  iphone 11. 128
+70/587 ++ guardado   ++ iphone 11 128gb
+71/587 ++ guardado   ++ iphone 11 64gb
+72/587 ++ guardado   ++ apple iphone 11 256gb rojo - revisado
+73/587 ++ guardado   ++ iphone 11 128 gb
+74/587 ## excluido   ##  funda para iphone 11
+75/587 ## excluido   ##  funda para iphone 11
+76/587 ++ guardado   ++ iphone 11 64gb rojo 
+77/587 ++ guardado   ++ iphone 11 pro max 
+78/587 ++ guardado   ++ iphone 11 100% baterias 📲
+79/587 ++ guardado   ++ iphone 11 64 gb
+80/587 ++ guardado   ++ apple iphone 11 128gb rojo - revisado
+81/587 ++ guardado   ++ iphone 11 negro
+82/587 ++ guardado   ++ iphone 11 amarillo 128gb
+83/587 ++ guardado   ++ apple iphone 11 pro max 64gb
+84/587 ## excluido   ##  funda protectora para iphone 11
+85/587 ++ guardado   ++ iphone 11 a estrenar ✅
+86/587 ++ guardado   ++ iphone 11 pro 256gb
+87/587 ++ guardado   ++ iphone 11 negro 128g
+88/587 ++ guardado   ++ apple iphone 11 64gb rojo - revisado
+89/587 ++ guardado   ++ iphone 11 pro max 
+90/587 ++ guardado   ++ iphone 11
+91/587 ++ guardado   ++ iphone 11 color verde agua
+92/587 ++ guardado   ++ iphone 11 64gb
+93/587 ++ guardado   ++ iphone 11 pro 256gb
+94/587 ++ guardado   ++ iphone 11
+95/587 ++ guardado   ++ iphone 11
+96/587 ++ guardado   ++ apple iphone 11 256gb blanco - revisado
+97/587 ++ guardado   ++ apple iphone 11 black
+98/587 ++ guardado   ++ apple iphone 11 128gb blanco - revisado
+99/587 ++ guardado   ++ apple iphone 11 64gb blanco - revisado
+100/587 ++ guardado   ++ apple iphone 11 256gb púrpura - revisado
+101/587 ++ guardado   ++ apple iphone 11 128gb púrpura - revisado
+102/587 ++ guardado   ++ apple iphone 11 64gb púrpura - revisado
+103/587 ++ guardado   ++ apple iphone 11 256gb negro - revisado
+104/587 ++ guardado   ++ apple iphone 11 128gb negro - revisado
+105/587 ++ guardado   ++ apple iphone 11 64gb negro - revisado
+106/587 ++ guardado   ++ apple iphone 11 pro 512gb verde noche - revisado
+107/587 ++ guardado   ++ apple iphone 11 pro 256gb verde noche - revisado
+108/587 ++ guardado   ++ apple iphone 11 pro 64gb verde noche - revisado
+109/587 ++ guardado   ++ apple iphone 11 pro 512gb gris espacial - revisado
+110/587 ++ guardado   ++ apple iphone 11 pro 256gb gris espacial - revisado
+111/587 ++ guardado   ++ apple iphone 11 pro 64gb gris espacial - revisado
+112/587 ++ guardado   ++ apple iphone 11 pro max 256gb oro - revisado
+113/587 ++ guardado   ++ apple iphone 11 pro max 64gb oro - revisado
+114/587 ++ guardado   ++ apple iphone 11 pro max 256gb plata - revisado
+115/587 ++ guardado   ++ apple iphone 11 pro max 64gb plata - revisado
+116/587 ++ guardado   ++ iphone 11
+117/587 ++ guardado   ++ apple iphone 11 pro max 512gb gris espacial - revisado
+118/587 ++ guardado   ++ apple iphone 11 pro max 256gb gris espacial - revisado
+119/587 ++ guardado   ++ apple iphone 11 pro max 64gb gris espacial - revisado
+120/587 ++ guardado   ++ apple iphone 11 pro max 512gb verde noche - revisado
+121/587 ++ guardado   ++ apple iphone 11 pro max 256gb verde noche - revisado
+122/587 ++ guardado   ++ apple iphone 11 pro max 64gb verde noche - revisado
+123/587 ++ guardado   ++ iphone 11 128gb
+124/587 ++ guardado   ++ iphone 11 128gb
+125/587 ++ guardado   ++ iphone 11 128gb
+126/587 ++ guardado   ++ iphone 11 128gb
+127/587 ++ guardado   ++ iphone 11 128gb
+128/587 ++ guardado   ++ iphone 11 128gb
+129/587 ++ guardado   ++ iphone 11 128gb
+130/587 ++ guardado   ++ iphone 11 128gb
+131/587 ++ guardado   ++ iphone 11 128gb
+132/587 ++ guardado   ++ iphone 11 128gb
+133/587 ++ guardado   ++ iphone 11 128gb
+134/587 ++ guardado   ++ iphone 11 128gb
+135/587 ++ guardado   ++ iphone 11 128gb
+136/587 ++ guardado   ++ iphone 11 128gb
+137/587 ++ guardado   ++ iphone 11 128gb
+138/587 ++ guardado   ++ iphone 11 128gb
+139/587 ++ guardado   ++ iphone 11 128gb
+140/587 ## excluido   ##  apple iphone 12 mini 256gb blanco - revisado
+141/587 ## excluido   ##  apple iphone 12 mini 128gb blanco - revisado
+142/587 ## excluido   ##  apple iphone 12 mini 64gb blanco - revisado
+143/587 ## excluido   ##  apple iphone 12 mini 256gb morado - revisado
+144/587 ## excluido   ##  apple iphone 12 mini 128gb morado - revisado
+145/587 ## excluido   ##  apple iphone 12 mini 64gb morado - revisado
+146/587 ## excluido   ##  apple iphone 12 mini 256gb verde - revisado
+147/587 ## excluido   ##  apple iphone 12 mini 128gb verde - revisado
+148/587 ## excluido   ##  apple iphone 12 mini 64gb verde - revisado
+149/587 ## excluido   ##  apple iphone 12 mini 256gb azul - revisado
+150/587 ## excluido   ##  apple iphone 12 mini 128gb azul - revisado
+151/587 ## excluido   ##  apple iphone 12 mini 64gb azul - revisado
+152/587 ## excluido   ##  apple iphone 12 mini 256gb grafito - revisado
+153/587 ## excluido   ##  apple iphone 12 mini 128gb grafito - revisado
+154/587 ## excluido   ##  apple iphone 12 mini 64gb grafito - revisado
+155/587 ++ guardado   ++ iphone 11 128gb
+156/587 ## excluido   ##  apple iphone 12 mini 256gb (product)red - revisado
+157/587 ## excluido   ##  apple iphone 12 mini 128gb (product)red - revisado
+158/587 ## excluido   ##  apple iphone 12 mini 64gb (product)red - revisado
+159/587 ++ guardado   ++ iphone 11 128gb
+160/587 ++ guardado   ++ iphone 11 128gb
+161/587 ++ guardado   ++ iphone 11 128gb
+162/587 ++ guardado   ++ iphone 11 128gb
+163/587 ++ guardado   ++ iphone 11 128gb
+164/587 ++ guardado   ++ iphone 11 128gb
+165/587 ## excluido   ##  apple iphone x 256gb plata - revisado
+166/587 ## excluido   ##  apple iphone x 64gb plata - revisado
+167/587 ++ guardado   ++ iphone 11 128gb
+168/587 ++ guardado   ++ iphone 11 128gb
+169/587 ++ guardado   ++ iphone 11 128gb
+170/587 ++ guardado   ++ iphone 11 128gb
+171/587 ++ guardado   ++ iphone 11 128gb
+172/587 ++ guardado   ++ iphone 11 128gb
+173/587 ++ guardado   ++ iphone 11 128gb
+174/587 ++ guardado   ++ iphone 11 128gb
+175/587 ++ guardado   ++ iphone 11 128gb
+176/587 ++ guardado   ++ iphone 11 128gb
+177/587 ++ guardado   ++ iphone 11 128gb
+178/587 ++ guardado   ++ iphone 11 128gb
+179/587 ++ guardado   ++ iphone 11 128gb
+180/587 ++ guardado   ++ iphone 11 64gb
+181/587 ## excluido   ##  apple iphone x 256gb gris espacial - revisado
+182/587 ## excluido   ##  apple iphone x 64gb gris espacial - revisado
+183/587 ++ guardado   ++ iphone 11 pro 256gb
+184/587 ++ guardado   ++ iphone 11 pro 256gb
+185/587 ++ guardado   ++ iphone 11 pro 256gb
+186/587 ++ guardado   ++ iphone 11 pro 256gb
+187/587 ++ guardado   ++ iphone 11 pro 256gb
+188/587 ++ guardado   ++ iphone 11 pro 256gb
+189/587 ++ guardado   ++ iphone 11 pro 256gb
+190/587 ++ guardado   ++ iphone 11 pro 64gb
+191/587 ++ guardado   ++ iphone 11 pro max 256gb
+192/587 ++ guardado   ++ iphone 11 pro max 256gb
+193/587 ++ guardado   ++ iphone 11 pro max 256gb
+194/587 ++ guardado   ++ iphone 11 pro max 256gb
+195/587 ++ guardado   ++ iphone 11 pro max 256gb
+196/587 ++ guardado   ++ iphone 11 pro max 512gb
+197/587 ++ guardado   ++ iphone 11 pro max 256gb
+198/587 ++ guardado   ++ iphone 11 pro max 256gb
+199/587 ++ guardado   ++ iphone 11 pro max 256gb
+200/587 ## excluido   ##  auriculares con microfono para iphone 7,8,x,xs,xr,11 cable lightning-bluetooth
+201/587 ++ guardado   ++ iphone 11 pro 
+202/587 ++ guardado   ++ iphone 11 
+203/587 ++ guardado   ++ iphone 11 256gb 
+204/587 ++ guardado   ++ iphone 11 128gb 100bateria
+205/587 ++ guardado   ++ iphone 11 pro 256gb
+206/587 --precio bajo --  100,00 iphone 11
+207/587 ++ guardado   ++ iphone 11
+208/587 ++ guardado   ++ 2x1 iphone 14 pro max y 11 pro max
+209/587 ++ guardado   ++ iphone 11
+210/587 ++ guardado   ++ iphone 11
+211/587 ++ guardado   ++ vendo iphone 11 pro max
+212/587 ++ guardado   ++ iphone 11 128g rojo
+213/587 ++ guardado   ++ iphone 11 pro
+214/587 ++ guardado   ++ iphone 11 black 
+215/587 ++ guardado   ++ iphone 11 
+216/587 ## excluido   ##  cargador + cable lightning usb 1m para iphone 7 8 plus 6 6s plus x xr xs max 11 pro max 5 5s se
+217/587 ++ guardado   ++ iphone 11 pro
+218/587 ++ guardado   ++ iphone 11 128 gb
+219/587 --precio bajo --  0,00 iphone 11 64 gb
+220/587 ++ guardado   ++ iphone 11 pro de 64gb/83 bat buen estado libre 
+221/587 ++ guardado   ++ iphone 11
+222/587 ++ guardado   ++ iphone 11
+223/587 ++ guardado   ++ iphone 11 128gb blanco
+224/587 ## excluido   ##  cable lightning carga + datos usb 1m para iphone 7 8 plus 6 6s plus x xr xs max 11 pro max 5 5s se
+225/587 ++ guardado   ++ iphone 11 128 gb
+226/587 ++ guardado   ++ iphone 11 64gb
+227/587 ++ guardado   ++ iphone 11
+228/587 ++ guardado   ++ iphone 11 morado
+229/587 ++ guardado   ++ iphone 11 pro 256gb 
+230/587 ++ guardado   ++ iphone 11
+231/587 ++ guardado   ++ iphone 11 pro max
+232/587 ++ guardado   ++ iphone 11 128gb
+233/587 --precio bajo --  110,00 iphone 11 64gb
+234/587 ++ guardado   ++ apple iphone 11 128gb verde
+235/587 ++ guardado   ++ iphone 11 semi nuevo a buen precio
+236/587 ++ guardado   ++ iphone 11 pro max color gris 
+237/587 ++ guardado   ++ iphone 11
+238/587 ++ guardado   ++ iphone 11 pro
+239/587 ++ guardado   ++ iphone 11 64gb
+240/587 ++ guardado   ++ iphone 11 promax 256gb
+241/587 ++ guardado   ++ iphone 11
+242/587 ++ guardado   ++ iphone 11
+243/587 ++ guardado   ++ apple iphone 11 pro 64gb
+244/587 --precio bajo --  0,00 cambio por iphone 11 pro
+245/587 ++ guardado   ++ iphone 11 pro
+246/587 ++ guardado   ++ iphone 11 pro oro 64gb buen estado
+247/587 ++ guardado   ++ iphone 11 rojo 128gb
+248/587 ++ guardado   ++ iphone 11 64gb 85% 
+249/587 ++ guardado   ++ iphone 11 128gb
+250/587 ++ guardado   ++ iphone 11 64gb
+251/587 ++ guardado   ++ iphone 11
+252/587 ++ guardado   ++ iphone 11 pro max
+253/587 ++ guardado   ++ iphone 11 - 128 gb
+254/587 ++ guardado   ++ iphone 11
+255/587 ++ guardado   ++ iphone 11 128 gb
+256/587 ++ guardado   ++ iphone 11
+257/587 ++ guardado   ++ iphone 11 128gb lila
+258/587 ++ guardado   ++ iphone 11 pro
+259/587 ++ guardado   ++ iphone 11 blanco 64 gb y 39 carcasas oportunidad
+260/587 ## excluido   ##  fundas iphone 11
+261/587 ++ guardado   ++ apple iphone 11 64gb
+262/587 ++ guardado   ++ iphone 11
+263/587 ++ guardado   ++ iphone 11 128gb negro
+264/587 ++ guardado   ++ iphone 11 256gb
+265/587 ++ guardado   ++ iphone 11 apple original 128gb color blanco
+266/587 ++ guardado   ++ iphone 11 128gb
+267/587 ++ guardado   ++ iphone 11
+268/587 --precio bajo --  100,00 iphone 11
+269/587 ++ guardado   ++ iphone 11 128gb
+270/587 ++ guardado   ++ iphone 11
+271/587 ++ guardado   ++ iphone 11 pro max gold 256 gb
+272/587 ++ guardado   ++ iphone 11 pro max 64gb titanio blanco 
+273/587 ++ guardado   ++ iphone 11 pro 256gb
+274/587 ++ guardado   ++ iphone 11 64gb 86% 
+275/587 ++ guardado   ++ iphone 11
+276/587 ++ guardado   ++ iphone 11 
+277/587 ++ guardado   ++ iphone 11 pro
+278/587 ++ guardado   ++ iphone 11 pro max 
+279/587 ++ guardado   ++ iphone 11
+280/587 ++ guardado   ++ iphone 11 
+281/587 ++ guardado   ++ iphone 11 128g blanco
+282/587 ## excluido   ##  iphone 11 blanco 64 gb  accesorios  5 fundas 
+283/587 ++ guardado   ++ iphone 11 64gb
+284/587 ++ guardado   ++ iphone 11 pro max 512gbs
+285/587 ++ guardado   ++ iphone 11 64gb morado
+286/587 ++ guardado   ++ iphone 11 pro 64gb
+287/587 ++ guardado   ++ iphone 11 64 gb face id hay que arreglarlo
+288/587 ++ guardado   ++ iphone 11 256 gb
+289/587 ++ guardado   ++ iphone 11
+290/587 ++ guardado   ++ iphone 11 64gb
+291/587 ++ guardado   ++ iphone 11 64gb white 
+292/587 ++ guardado   ++ iphone 11 64gb black 
+293/587 ## excluido   ##  iphone 11 y apple watch series 4
+294/587 ++ guardado   ++ iphone 11 pro con bateria nueva
+295/587 ++ guardado   ++ iphone 11 
+296/587 ## excluido   ##  iphone 
+297/587 ++ guardado   ++ iphone 11 128 gb
+298/587 ++ guardado   ++ iphone 11
+299/587 ++ guardado   ++ iphone 11 256gb
+300/587 ++ guardado   ++ iphone 11 128gb
+301/587 ++ guardado   ++ iphone 11 pro max 64gb
+302/587 ++ guardado   ++ iphone 11 64gb
+303/587 ++ guardado   ++ iphone 11 128gb
+304/587 ++ guardado   ++ iphone 11 mini 
+305/587 ++ guardado   ++ iphone 11 azul verdoso 
+306/587 ++ guardado   ++ iphone 11 256gb
+307/587 ++ guardado   ++ iphone 11
+308/587 ++ guardado   ++ iphone 11 pro 64 gb
+309/587 ++ guardado   ++ smartphone iphone 11 128gb 
+310/587 ++ guardado   ++ smartphone iphone 11 128gb 
+311/587 ++ guardado   ++ iphone 11 128 gb negro
+312/587 ++ guardado   ++ iphoe 11 64 gb 
+313/587 ++ guardado   ++ iphone 11 64gb
+314/587 ++ guardado   ++ iphone 11 pro
+315/587 ++ guardado   ++ iphone 11 128gb red
+316/587 ++ guardado   ++ iphone 11
+317/587 ++ guardado   ++ iphone 11 
+318/587 ++ guardado   ++ iphone 11 64gb
+319/587 ++ guardado   ++ iphone 11 amarillo
+320/587 ++ guardado   ++ iphone 11 128gb
+321/587 ++ guardado   ++ apple iphone 11 pro max 64gb
+322/587 --precio bajo --  110,00 iphone 11
+323/587 ++ guardado   ++ iphone 11 pro 256gb
+324/587 ++ guardado   ++ iphone 11 turquesa 
+325/587 ++ guardado   ++ iphone 11
+326/587 ++ guardado   ++ smartphone iphone 11 128gb 
+327/587 ## excluido   ##  funda iphone 11
+328/587 ++ guardado   ++ iphone 11 - 64gb
+329/587 ++ guardado   ++ iphone 11  128gb
+330/587 ++ guardado   ++ apple iphone 11 pro max 64gb
+331/587 ++ guardado   ++ iphone 11 64gb
+332/587 ++ guardado   ++ iphone 11 128gb
+333/587 ++ guardado   ++ iphone 11 128gb
+334/587 ++ guardado   ++ iphone 11 128gb
+335/587 ++ guardado   ++ iphone 11 64 gb en buen estado 
+336/587 ++ guardado   ++ iphone 11 128gb 
+337/587 ++ guardado   ++ iphone 11
+338/587 ++ guardado   ++ iphone 11 pro
+339/587 ++ guardado   ++ iphone 11 pro. batería recien cambiada 
+340/587 ++ guardado   ++ iphone 11 
+341/587 ## excluido   ##  fundas iphone 11
+342/587 ++ guardado   ++ iphone 11 128gb 100% batería 🔋
+343/587 ++ guardado   ++ iphone 11 
+344/587 ++ guardado   ++ iphone 11 pro max 256gb verde noche 
+345/587 ++ guardado   ++ iphone 11
+346/587 ++ guardado   ++ iphone 11 128gb blanco
+347/587 ++ guardado   ++ iphone 11 rojo
+348/587 ++ guardado   ++ i phone 11 
+349/587 ++ guardado   ++ iphone 11
+350/587 ++ guardado   ++ iphone 11 pro
+351/587 ++ guardado   ++ smartphone iphone 11 128gb 
+352/587 ++ guardado   ++ iphone 11 256gb
+353/587 ++ guardado   ++ iphone 11
+354/587 ## excluido   ##  iphone 11pro
+355/587 ++ guardado   ++ iphone 11 
+356/587 ++ guardado   ++ iphone 11 64gb
+357/587 ++ guardado   ++ iphone 11
+358/587 ++ guardado   ++ iphone 11
+359/587 ## excluido   ##  fundas iphone 11 
+360/587 ++ guardado   ++ apple iphone 11 pro 512gb
+361/587 ++ guardado   ++ iphone 11 128gb
+362/587 --precio bajo --  115,00 iphone 11 128gb
+363/587 ++ guardado   ++ iphone 11 128gb
+364/587 ++ guardado   ++ iphone 11 128gb
+365/587 ++ guardado   ++ iphone 11 pro 512 gb
+366/587 ++ guardado   ++ iphone 11 128gb
+367/587 ++ guardado   ++ iphone 11 64gb
+368/587 ++ guardado   ++ iphone 11 pro 256g
+369/587 ++ guardado   ++ iphone 11 128gb
+370/587 ++ guardado   ++ iphone 11 rojo
+371/587 ++ guardado   ++ iphone 11
+372/587 ++ guardado   ++ iphone 11
+373/587 ++ guardado   ++ iphone 11
+374/587 ++ guardado   ++ iphone 11 128 gb 
+375/587 ++ guardado   ++ i phone 11  
+376/587 ++ guardado   ++ iphone 11 pro max 
+377/587 ## excluido   ##  lote fundas iphone 11
+378/587 ++ guardado   ++ iphone 11 64gb
+379/587 ++ guardado   ++ iphone 11
+380/587 ++ guardado   ++ iphone 11 pro 64gb
+381/587 ++ guardado   ++ iphone 11 original
+382/587 ++ guardado   ++ iphone 11 plus 128gb
+383/587 ++ guardado   ++ iphone 11
+384/587 ++ guardado   ++ iphone 11 blanco
+385/587 ++ guardado   ++ iphone 11 rojo
+386/587 ++ guardado   ++ iphone 11 128gb
+387/587 ++ guardado   ++ iphone 11
+388/587 ++ guardado   ++ iphone 11
+389/587 ++ guardado   ++ iphone 11 128gb
+390/587 ++ guardado   ++ iphone 11 de 64 gb. 
+391/587 ++ guardado   ++ iphone 11 pro max
+392/587 ++ guardado   ++ iphone 11 64gb
+393/587 ++ guardado   ++ iphone 11 128gb
+394/587 ++ guardado   ++ apple iphone 11 128 g purpura perfecto estado
+395/587 ++ guardado   ++ iphone 11 64gb
+396/587 ## excluido   ##  iphone 15 pro max 256 gb 87 % bateria gris
+397/587 ++ guardado   ++ iphone 11 64gb
+398/587 ++ guardado   ++ iphone 11
+399/587 ++ guardado   ++ iphone 11 128gb
+400/587 ++ guardado   ++ iphone 11 64gb
+401/587 ++ guardado   ++ vendo iphone 11
+402/587 ++ guardado   ++ iphone 11 rojo 
+403/587 ## excluido   ##  funda iphone 11 karl lagerfeld
+404/587 ++ guardado   ++ iphone 11
+405/587 ++ guardado   ++ iphone 11 128gb y airpods 2 generacion.
+406/587 ++ guardado   ++ iphone 11 pro plateado
+407/587 ++ guardado   ++ iphone 11
+408/587 ++ guardado   ++ iphone 11 pro max
+409/587 ++ guardado   ++ iphone 11 pro max
+410/587 ++ guardado   ++ iphone 11
+411/587 ++ guardado   ++ iphone 11
+412/587 ++ guardado   ++ iphone 11
+413/587 ++ guardado   ++ iphone 11 128gb
+414/587 ++ guardado   ++ iphone 11 pro 256gb
+415/587 ++ guardado   ++ iphone 11 128gb
+416/587 ++ guardado   ++ iphone 11
+417/587 ++ guardado   ++ iphone 11 64gb negro
+418/587 ++ guardado   ++ movil iphone 11
+419/587 ++ guardado   ++ iphone 11 64gb
+420/587 ## excluido   ##  iphone 13 promax 256gb + airpods pro 1era g
+421/587 ++ guardado   ++ iphone 11
+422/587 ++ guardado   ++ iphone 11 pro max
+423/587 ++ guardado   ++ iphone 11 64gb
+424/587 ++ guardado   ++ iphone 11 pro 128 gb
+425/587 ++ guardado   ++ iphone 11 negro
+426/587 ++ guardado   ++ iphone 11 256gb
+427/587 ++ guardado   ++ iphone 11  256 gb púrpura morado ios 18
+428/587 ## excluido   ##  iphone 512 gb 28
+429/587 ++ guardado   ++ iphone 11 64gb
+430/587 ++ guardado   ++ iphone 11
+431/587 ++ guardado   ++ iphone 11 
+432/587 ++ guardado   ++ iphone 11 128gb
+433/587 ++ guardado   ++ iphone 11
+434/587 ++ guardado   ++ iphone 11
+435/587 ++ guardado   ++ iphone 11 64gb
+436/587 ++ guardado   ++ iphone 11
+437/587 ++ guardado   ++ iphone 11
+438/587 ++ guardado   ++ iphone 11
+439/587 ++ guardado   ++ iphone 11
+440/587 ## excluido   ##  fundas iphone 11 
+441/587 ++ guardado   ++ iphone 11
+442/587 ++ guardado   ++ iphone 11 128gb blanco 
+443/587 ++ guardado   ++ apple iphone 11 64gb
+444/587 ++ guardado   ++ iphone 11 pro. 
+445/587 ++ guardado   ++ apple iphone 11 64gb
+446/587 ++ guardado   ++ iphone 11 64gb
+447/587 ++ guardado   ++ iphone 11 64 gb - color verde menta
+448/587 ++ guardado   ++ iphone 11
+449/587 ++ guardado   ++ iphone 11
+450/587 ++ guardado   ++ iphone 11
+451/587 ++ guardado   ++ iphone 11
+452/587 ++ guardado   ++ iphone 11 128g
+453/587 ++ guardado   ++ iphone 11 rojo 128 gb
+454/587 ++ guardado   ++ iphone 11
+455/587 ++ guardado   ++ i phone 11
+456/587 ## excluido   ##  fundas iphone 11 
+457/587 ++ guardado   ++ iphone 11 pro
+458/587 ++ guardado   ++ iphone 11
+459/587 ++ guardado   ++ apple iphone 11 pro 64gb
+460/587 ++ guardado   ++ iphone 11
+461/587 ++ guardado   ++ iphone 11 128gb malva
+462/587 ++ guardado   ++ iphone 11 negro 128gb
+463/587 --precio bajo --  100,00 iphone 11
+464/587 ++ guardado   ++ iphone 11
+465/587 ++ guardado   ++ iphone 11 pro 256 gb 
+466/587 ++ guardado   ++ oferta hoy iphone 11 64gb
+467/587 ++ guardado   ++ iphone 11
+468/587 ## excluido   ##  funda bimba y lola iphone 11
+469/587 ++ guardado   ++ movil iphone 11 128gb negro 80% sb
+470/587 ++ guardado   ++ iphone 11 128 gb
+471/587 ++ guardado   ++ iphone 11
+472/587 ++ guardado   ++ iphone 11 64gb
+473/587 ++ guardado   ++ iphone 11 con pantalla protectots y fundas 
+474/587 ## excluido   ##  iphone 11. 
+475/587 ## excluido   ##  iphone 12 
+476/587 ++ guardado   ++ iphone 11 negro 64 gb
+477/587 ++ guardado   ++ iphone 11
+478/587 ++ guardado   ++ iphone 11 128g negro
+479/587 ++ guardado   ++ iphone 11  64 gb amarillo
+480/587 ++ guardado   ++ iphone 11 pro max 
+481/587 ++ guardado   ++ iphone 11
+482/587 ++ guardado   ++ iphone 11 128gb negro
+483/587 ++ guardado   ++ iphone 11 blanco 64gb
+484/587 ++ guardado   ++ iphone 11
+485/587 ++ guardado   ++ apple iphone 11 128gb
+486/587 ## excluido   ##  iphone
+487/587 ++ guardado   ++ iphone 11 128gb negro
+488/587 ++ guardado   ++ iphone 11 pro
+489/587 ++ guardado   ++ iphone 11 pro max
+490/587 ++ guardado   ++ iphone 11
+491/587 ++ guardado   ++ iphone 11 pro 256 
+492/587 ## excluido   ##  funda iphone 11
+493/587 ++ guardado   ++ iphone 11 64gb indestructible
+494/587 --precio bajo --  99,99 iphone 11
+495/587 ++ guardado   ++ iphone 11 pro 256 gigas
+496/587 ++ guardado   ++ iphone 11 pro max 64gb verde
+497/587 ++ guardado   ++ iphone 11 pro
+498/587 ++ guardado   ++ iphone 11 128gb
+499/587 ## excluido   ##  iphone 16 pro 256gb dorado 100% cb + caja
+500/587 ++ guardado   ++ iphone 11 128 gb
+501/587 ++ guardado   ++ apple iphone 11 pro 64 gb
+502/587 ++ guardado   ++ iphone 11
+503/587 ++ guardado   ++ iphone 11
+504/587 ++ guardado   ++ iphone 11 128gb
+505/587 --precio bajo --  100,00 iphone 11 para piezas
+506/587 ++ guardado   ++ iphone 11 pro max
+507/587 ++ guardado   ++ iphone 11 pro max 256
+508/587 ++ guardado   ++ iphone 11 
+509/587 ++ guardado   ++ iphone 11 pro max de 256gb/100 bat buen estado 
+510/587 ++ guardado   ++ iphone 11
+511/587 ++ guardado   ++ iphone 11
+512/587 ++ guardado   ++ iphone 11 negro 64gb
+513/587 ++ guardado   ++ iphone 11 verde 128 gb
+514/587 ++ guardado   ++ iphone 11 pro max 256g
+515/587 ++ guardado   ++ iphone 11 128gb
+516/587 ++ guardado   ++ iphone 11 pro
+517/587 ++ guardado   ++ iphone 11 64gb
+518/587 ++ guardado   ++ apple iphone 11 pro max 256gb
+519/587 ++ guardado   ++ iphone 11 64g negro
+520/587 ## excluido   ##  iphone se 2020
+521/587 ++ guardado   ++ iphone 11 64gb
+522/587 ++ guardado   ++ iphone 11 - 128gb
+523/587 ++ guardado   ++ iphone 11 128 gb blanco con bateria +84%
+524/587 ## excluido   ##  fundas iphone 11 pro max 
+525/587 ++ guardado   ++ apple iphone 11 64gb
+526/587 --precio bajo --  45,00 pantalla iphone 11 rota 
+527/587 ++ guardado   ++ iphone 11 pro max 
+528/587 ## excluido   ##  funda rosa iphone
+529/587 ## excluido   ##  carcasas iphone 11
+530/587 ++ guardado   ++ iphone 11
+531/587 ++ guardado   ++ iphone 11 64gb
+532/587 ++ guardado   ++ iphone 11
+533/587 ++ guardado   ++ iphone 11 pro 512gb
+534/587 ++ guardado   ++ iphone 11 256gb sin face id
+535/587 ++ guardado   ++ iphone 11 64gb
+536/587 ++ guardado   ++ iphone 11 negro 64 gb
+537/587 ++ guardado   ++ iphone 11
+538/587 ## excluido   ##  funda iphone 11
+539/587 ++ guardado   ++ iphone 11
+540/587 ++ guardado   ++ iphone 11 pro +12 fundas
+541/587 ++ guardado   ++ iphone 11 pro 256gb oro
+542/587 ++ guardado   ++ iphone 11 pro max
+543/587 ++ guardado   ++ iphone 11
+544/587 ++ guardado   ++ iphone 11
+545/587 ++ guardado   ++ iphone 11 de 128gb
+546/587 ++ guardado   ++ iphone 11  64 gb con auriculares apple
+547/587 ++ guardado   ++ iphone 11 
+548/587 ++ guardado   ++ iphone 11
+549/587 ++ guardado   ++ apple iphone 11 pro max 64 gb -r0002533cv-
+550/587 ++ guardado   ++ iphone 11 negro 128gb
+551/587 ++ guardado   ++ iphone 11 128 gb negro
+552/587 ++ guardado   ++ iphone 11 pro 64gb
+553/587 ++ guardado   ++ iphone 11 negro 64gb
+554/587 ++ guardado   ++ iphone 11 64 gb blanco 85 % bateria
+555/587 --precio bajo --  100,00 xiaomi redmi note 11 pro
+556/587 ++ guardado   ++ iphone 11 128gb 86 bat negro
+557/587 ++ guardado   ++ iphone 11 blanco 
+558/587 ++ guardado   ++ iphone 11 128gb + accesorios 
+559/587 ++ guardado   ++ iphone 11
+560/587 ++ guardado   ++ iphone 11
+561/587 ++ guardado   ++ iphone 11
+562/587 ++ guardado   ++ iphone 11 blanco 
+563/587 ++ guardado   ++ iphone 11 pro max 
+564/587 ++ guardado   ++ vendo iphone 11
+565/587 ## excluido   ##  iphone 11 + 6 fundas + cable no original
+566/587 ++ guardado   ++ iphone 11 pro 256g
+567/587 ## excluido   ##  funda iphone 11
+568/587 ## excluido   ##  pack 3 fundas iphone 11
+569/587 ++ guardado   ++ iphone 11 pro max 
+570/587 ++ guardado   ++ iphone 11 256 gb
+571/587 ++ guardado   ++ iphone 11
+572/587 ++ guardado   ++ iphone 11 pro 64gb
+573/587 ++ guardado   ++ apple iphone 11 pro max 256gb
+574/587 ++ guardado   ++ iphon 11 
+575/587 ## excluido   ##  teléfono iphone
+576/587 ++ guardado   ++ iphone 11
+577/587 ++ guardado   ++ iphone 11 
+578/587 ++ guardado   ++ iphone 11 plus
+579/587 ++ guardado   ++ iphone 11 
+580/587 ++ guardado   ++ iphone 11 64 gb blanco
+581/587 ++ guardado   ++ iphone 11 pro max
+582/587 ## excluido   ##  iphone 11. 128g
+583/587 ++ guardado   ++ iphone 11 
+584/587 ++ guardado   ++ iphone 11 128gb
+585/587 ++ guardado   ++ iphone 11 128gb con fundas 
+586/587 ++ guardado   ++ iphone 11 pro
+             id  ...                                                url
+0    1091147146  ...  https://es.wallapop.com/item/iphone-11-negro-1...
+1    1094039722  ...  https://es.wallapop.com/item/apple-iphone-11-1...
+2    1093903240  ...  https://es.wallapop.com/item/iphone-11-1093903240
+3    1093931552  ...  https://es.wallapop.com/item/iphone-11-pro-max...
+4    1093885668  ...  https://es.wallapop.com/item/iphone-11-1093885668
+..          ...  ...                                                ...
+503  1081135861  ...  https://es.wallapop.com/item/iphone-11-pro-max...
+504  1084666456  ...  https://es.wallapop.com/item/iphone-11-1084666456
+505  1086162696  ...  https://es.wallapop.com/item/iphone-11-128gb-1...
+506  1082536917  ...  https://es.wallapop.com/item/iphone-11-128gb-c...
+507  1079509138  ...  https://es.wallapop.com/item/iphone-11-pro-107...
+
+[508 rows x 6 columns]
+20250126
+iphone 11
+good
+csv guardado

@@ -1,0 +1,421 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2012&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/645 ++ guardado   ++ iphone 12
+1/645 ++ guardado   ++ iphone 12 pro
+2/645 ++ guardado   ++ iphone 12 
+3/645 ++ guardado   ++ iphone 12
+4/645 ++ guardado   ++ iphone 12 128 gb
+5/645 ++ guardado   ++ iphone 12 pro 256 gb
+6/645 ++ guardado   ++ iphone 12
+7/645 ++ guardado   ++ iphone 12
+8/645 ## excluido   ##  fundas silicona iphone 12
+9/645 ## excluido   ##  iphone 16 (128gb) blanco (nuevo)
+10/645 ++ guardado   ++ iphone 12 nuevo 100 de bateria!!
+11/645 ++ guardado   ++ iphone 12
+12/645 ## excluido   ##  iphone xr negro de 64 gb en perfecto estado 
+13/645 ++ guardado   ++ iphone 12 mini
+14/645 ++ guardado   ++ iphone 12 pro 
+15/645 ++ guardado   ++ iphone 12 pro 
+16/645 ++ guardado   ++ iphone 12 pro rracondicionado. 256gb.
+17/645 ++ guardado   ++ iphone 12 pro max blue 128gb intacto 
+18/645 ++ guardado   ++ iphone 12 pro max dorado 128gb nuevo!
+19/645 ++ guardado   ++ iphone 12 pro 256gb
+20/645 ## excluido   ##  funda iphone 12
+21/645 ++ guardado   ++ iphone 12 blanco
+22/645 ## excluido   ##  google pixel 8a
+23/645 --precio bajo --  100,00 iphone 12 para piezas o repuestos 
+24/645 ++ guardado   ++ iphone 12 negro nuevo leer descripcion
+25/645 ## excluido   ##  iphone 11
+26/645 ## excluido   ##  funda iphone 12 - iphone 12 pro
+27/645 ++ guardado   ++ iphone 12 nuevo
+28/645 ++ guardado   ++ iphone 12 pro
+29/645 ## excluido   ##  fundas combinadas iphone 12 pro max
+30/645 ## excluido   ##  funda apple iphone 12/12pro
+31/645 ## excluido   ##  funda iphone 12 mini
+32/645 ++ guardado   ++ iphone 12
+33/645 ++ guardado   ++ iphone 12 pro nuevo
+34/645 ++ guardado   ++ iphone 12 mimi 128gb!
+35/645 ++ guardado   ++ iphone 12
+36/645 ++ guardado   ++ iphone 12 mini
+37/645 ++ guardado   ++ iphone 12 pro max 256gb
+38/645 --precio bajo --  10,00 batería iphone 12 pro max
+39/645 ++ guardado   ++ oferta!! iphone 12 blanco
+40/645 ## excluido   ##  4 tapas cristal traseras iphone  
+41/645 ## excluido   ##  fundas iphone 12
+42/645 ++ guardado   ++ iphone 12
+43/645 ++ guardado   ++ iphone 12 
+44/645 ++ guardado   ++ (negociable) iphone 12 nuevo sin usar!!
+45/645 ++ guardado   ++ iphone 12 128gb purpura batería nueva 1 
+46/645 ## excluido   ##  fundas iphone 12 11
+47/645 ++ guardado   ++ iphone 12
+48/645 ## excluido   ##  funda y protector de pantalla iphone 12 pro
+49/645 ## excluido   ##  protector de pantalla iphone 12 pro max 
+50/645 --precio bajo --  75,00 cámara trasera de iphone 12 pro
+51/645 ## excluido   ##  fundas iphone 12
+52/645 ## excluido   ##  funda iphone 12 pro
+53/645 ## excluido   ##  2 cargadores 20w iphone
+54/645 ++ guardado   ++ iphone 12 64gb negro bateria bateria 100% + caja + cable *a estrenar*
+55/645 ++ guardado   ++ iphone 12 64gb sin estrenar
+56/645 ## excluido   ##  cargador 20w iphone
+57/645 --precio bajo --  90,00 pantalla iphone 12 oled buena calidad
+58/645 ## excluido   ##  apple iphone 16 negro 128 gb nuevo
+59/645 ++ guardado   ++ iphone 12 pro
+60/645 --precio bajo --  95,00 pantalla iphone 12 pro oled buena calidad
+61/645 ++ guardado   ++ iphone 12
+62/645 ## excluido   ##  cámara trasera de iphone
+63/645 ## excluido   ##  funda iphone 12 nueva con cordón
+64/645 ## excluido   ##  cristal trasero iphone 12 blanco y pegamento
+65/645 ++ guardado   ++ vendo iphone 12 pro max
+66/645 ## excluido   ##  cámara trasera de iphone
+67/645 ## excluido   ##  2 cables 20w iphone
+68/645 ++ guardado   ++ iphone 12
+69/645 ++ guardado   ++ iphone 12
+70/645 ## excluido   ##  protector iphone 12 mini
+71/645 ++ guardado   ++ iphone 12 pro 256gb
+72/645 ++ guardado   ++ iphone 12 
+73/645 ## excluido   ##  fundas iphone 12 pro max nuevas
+74/645 ## excluido   ##  iphone rojo 128gb
+75/645 ## excluido   ##  funda iphone 12 / 12 pro
+76/645 ## excluido   ##  funda iphone 12 mini
+77/645 ## excluido   ##  iphone 14 pro 256gb nuevo!
+78/645 ## excluido   ##  funda iphone 12 pro max
+79/645 ## excluido   ##  funda iphone 12 nueva
+80/645 ## excluido   ##  funda iphone
+81/645 ## excluido   ##  funda transparente con magsafe para iphone12/12pro
+82/645 ## excluido   ##  funda iphone 12 naranja
+83/645 ## excluido   ##  carcasa iphone 12 pro
+84/645 ## excluido   ##  funda de iphone 12
+85/645 ## excluido   ##  6 fundas iphone 13/14
+86/645 ## excluido   ##  carcasa iphone 12 pro blue banana
+87/645 ++ guardado   ++ iphone 12 morado
+88/645 ## excluido   ##  funda para iphone 12 mini
+89/645 ++ guardado   ++ iphone 12 mini rojo
+90/645 ++ guardado   ++ iphone 12 pro nuevo con garantia 
+91/645 ## excluido   ##  adaptador apple original 12w
+92/645 ## excluido   ##  funda iphone 12 mini
+93/645 --precio bajo --  4,00 vendo forros de iphone 12
+94/645 ++ guardado   ++ iphone 12 64gb azul nuevo 
+95/645 ## excluido   ##  iphone 16 pro max 256 gb nuevo titanio desierto
+96/645 ## excluido   ##  protector pantalla iphone 12 pro max
+97/645 ++ guardado   ++ a estrenar!! iphone 12 pro max 128gb
+98/645 ## excluido   ##  funda iphone 12
+99/645 ++ guardado   ++ iphone 12 pro 128gb
+100/645 ++ guardado   ++ iphone 12 mini de apple 256gb
+101/645 ## excluido   ##  protector de pantalla iphone 12/13 mini
+102/645 ## excluido   ##  apple iphone 15 pro max 1tb titanio azul nuevo
+103/645 ## excluido   ##  fundas iphone 12 pro
+104/645 ## excluido   ##  lote fundas apple iphone 12 11 unidades 
+105/645 --precio bajo --  13,75 batería iphone 12 nueva precintada 🔋📲🛍️
+106/645 ## excluido   ##  fundas iphone 12
+107/645 ## excluido   ##  funda iphone 12 
+108/645 ## excluido   ##  fundas iphone 12 pro max
+109/645 ## excluido   ##  fundas iphone 12 
+110/645 ## excluido   ##  ayuda con iphone
+111/645 --precio bajo --  60,00 🪛 reparación pantalla iphone 12
+112/645 ## excluido   ##  batería iphone 12pro nueva precintada 🔋📲🛍️
+113/645 --precio bajo --  13,00 batería iphone 12 mini nueva precintada 🔋📲🛍️
+114/645 ## excluido   ##  funda antílope iphone 12
+115/645 ++ guardado   ++ iphone 12 pro 128gb
+116/645 ## excluido   ##  cable cargador iphone nuevo
+117/645 ## excluido   ##  funda iphone 12 mini
+118/645 ## excluido   ##  caja móvil iphone 12
+119/645 ++ guardado   ++ vendo iphone 12 pro
+120/645 ## excluido   ##  fundas iphone 12 + cristal templado 
+121/645 ## excluido   ##  lote fundas apple iphone 13 / 13 pro 12 
+122/645 ## excluido   ##  pantalla iphone 12/12 pro lcd+ táctil 📲🛒🔧
+123/645 ## excluido   ##  cargador magnético para iphone 12,13,14,15,16
+124/645 ## excluido   ##  fundas iphone 12
+125/645 --precio bajo --  0,00 iphone 12 pro max 256 gb 100 de salud
+126/645 ## excluido   ##  iphone 15 128g
+127/645 --precio bajo --  1,50 iphone 12 pro max
+128/645 ## excluido   ##  iphone
+129/645 ++ guardado   ++ iphone 12 pro, nuevo con auriculares regalo 
+130/645 ## excluido   ##  3 fundas iphone 12 mini
+131/645 ++ guardado   ++ iphone 12
+132/645 ++ guardado   ++ iphone 12
+133/645 ## excluido   ##  cargador portátil iphone y funda iphone 12
+134/645 --precio bajo --  74,99 pantalla de iphone 12
+135/645 ++ guardado   ++ iphone 12 128gb white
+136/645 ++ guardado   ++ iphone 12 mini 
+137/645 ++ guardado   ++ iphone 12 256gb precio no negociable
+138/645 ++ guardado   ++ iphone 12 pro 256 gb
+139/645 ## excluido   ##  funda batería iphone 12
+140/645 ## excluido   ##  funda iphone 12 de cuero diesel nueva
+141/645 ++ guardado   ++ iphone 12 64 gb reacondicionado a estrenar 
+142/645 --precio bajo --  79,99 pantalla de iphone 12 pro
+143/645 ## excluido   ##  soporte iphone 
+144/645 ## excluido   ##  protector pantalla apple iphone 12/12 pro
+145/645 ## excluido   ##  funda iphone 12 pro max
+146/645 ## excluido   ##  funda iphone 12 pro max
+147/645 ++ guardado   ++ iphone 12 pro 128 gb (a estrenar)
+148/645 ## excluido   ##  funda iphone 12
+149/645 --precio bajo --  89,99 pantalla iphone 12 pro max
+150/645 ## excluido   ##  funda y cristal templado iphone 12 y 12 pro
+151/645 ++ guardado   ++ iphone 12 pro
+152/645 ++ guardado   ++ iphone 12 pro max 128gb
+153/645 ++ guardado   ++ iphone 12 pro de 256gb 
+154/645 ## excluido   ##  cargador iphone 3 en 1
+155/645 ## excluido   ##  funda batería portatil iphone 12
+156/645 ## excluido   ##  caja iphone 12
+157/645 ++ guardado   ++ iphone 12
+158/645 ## excluido   ##  iphone 16 pro desert titanium 128gb 'a estrenar'
+159/645 ## excluido   ##  funda iphone 12 pro max
+160/645 ## excluido   ##  fundas iphone 12
+161/645 ## excluido   ##  protector de camara iphone 12 pro max
+162/645 ## excluido   ##  fundas iphone 12
+163/645 ## excluido   ##  lote fundas nuevas iphone 12 pro
+164/645 ## excluido   ##  funda iphone 12/12 pro protección grado militar
+165/645 ## excluido   ##  funda iphone 12 color rosa fucsia 
+166/645 ## excluido   ##  (original) funda de silicona con magsafe iphone 12
+167/645 ## excluido   ##  cable original iphone nuevo!
+168/645 ## excluido   ##  funda iphone12
+169/645 ## excluido   ##  funda iphone12
+170/645 ## excluido   ##  funda carcasa iphone 
+171/645 ++ guardado   ++ iphone 12 negro
+172/645 ## excluido   ##  funda iphone 12 silicona 
+173/645 ## excluido   ##  funda swarovski para iphone 12
+174/645 ++ guardado   ++ pantalla iphone 12 pro max 
+175/645 ++ guardado   ++ iphone 12 mini 128gb rojo
+176/645 ## excluido   ##  6 carcasas  iphone 12
+177/645 ++ guardado   ++ iphone 12 mini 128gb nuevo 
+178/645 --precio bajo --  40,00 pantalla iphone 12 pro
+179/645 ## excluido   ##  carcasas logo iphone 11 hasta iphone16 
+180/645 --precio bajo --  13,00 soporte iphone 12 13 14 15 16
+181/645 ## excluido   ##  funda iphone 12
+182/645 ## excluido   ##  iphone 12 pro pack 6 carcasas 
+183/645 ## excluido   ##  funda iphone 12 pro máx atleti
+184/645 ## excluido   ##  ventilador motor man tgapinzas ate mercedescaja ip
+185/645 ## excluido   ##  funda iphone 12 mini
+186/645 ## excluido   ##  funda iphone 12 mini
+187/645 ## excluido   ##  fundas iphone 12 pro max
+188/645 ## excluido   ##  carcasa iphone 12/12 pro
+189/645 ## excluido   ##  xiaomi poco x6 pro 5g-512/12g
+190/645 ## excluido   ##  fundas iphone 12
+191/645 --precio bajo --  15,00 lote iphone 12 pro max 
+192/645 ## excluido   ##  funda de iphone 12
+193/645 ## excluido   ##  3 fondas iphone 12
+194/645 ## excluido   ##  funda iphone 12 sin estrenar 
+195/645 ## excluido   ##  funda iphone 12
+196/645 ## excluido   ##  lote de pantallas y baterias iphone 
+197/645 ## excluido   ##  iphone 16 128gb verde azulado a estrenar
+198/645 ## excluido   ##  funda magnética iphone 12/13 mini.
+199/645 ## excluido   ##  funda iphone 12
+200/645 ## excluido   ##  funda iphone 12/ 12 pro
+201/645 ## excluido   ##  carcasa iphone's diseños varios
+202/645 ## excluido   ##  funda iphone 12
+203/645 ## excluido   ##  funda iphone 12
+204/645 ++ guardado   ++ iphone 12 totalmente nuevo
+205/645 ## excluido   ##  funda iphone 12 pro max 
+206/645 ## excluido   ##  caja iphone 12 black 
+207/645 ## excluido   ##  funda iphone magsafe 
+208/645 ## excluido   ##  funda iphone 12 mini
+209/645 ## excluido   ##  funda iphone 12 pro max 
+210/645 ## excluido   ##  funda iphone 12 pro max 
+211/645 ## excluido   ##  silicone case 
+212/645 ## excluido   ##  funda iphone
+213/645 ## excluido   ##  funda iphone 12 pro max the north face
+214/645 ## excluido   ##  funda iphone 12 pro the north face 
+215/645 ## excluido   ##  funda iphone 12 pro 
+216/645 ## excluido   ##  funda iphone 12 pro 
+217/645 ## excluido   ##  carcasa nueva iphone 12
+218/645 ++ guardado   ++ iphone 12 pro
+219/645 ## excluido   ##  carcasa iphone 12 mini
+220/645 ## excluido   ##  pack fundas iphone 12
+221/645 --precio bajo --  10,00 tapa trasera iphone 12
+222/645 ## excluido   ##  protector pantalla iphone 12
+223/645 ## excluido   ##  fundas iphone 12 burga
+224/645 ## excluido   ##  funda iphone 12 pro max
+225/645 ## excluido   ##  funda de iphone 12 pro max
+226/645 ## excluido   ##  funda iphone 12
+227/645 ## excluido   ##  funda transparente para iphone 12 / 12 pro nueva
+228/645 --precio bajo --  4,00 iphone 12 con tapa
+229/645 ## excluido   ##  fundas iphone 12
+230/645 ## excluido   ##  backbone iphone
+231/645 ++ guardado   ++ iphone 12 256gb
+232/645 ## excluido   ##  funda iphone 12/12 pro
+233/645 --precio bajo --  10,00 tapa trasera iphone 12 pro 
+234/645 ++ guardado   ++ iphone 12
+235/645 ## excluido   ##  funda transparente con marco negro para iphone 12
+236/645 ++ guardado   ++ hipone 12 
+237/645 --precio bajo --  4,00 iphone 12
+238/645 ## excluido   ##  caja de iphone 13 pro max
+239/645 ## excluido   ##  protector pantalla iphone 12 pro max
+240/645 ## excluido   ##  fundas iphone 12 pro
+241/645 --precio bajo --  12,00 tapa trasera iphone 12 pro max 
+242/645 ## excluido   ##  fundas iphone 14 pro max
+243/645 ## excluido   ##  fundas iphone
+244/645 ## excluido   ##  funda iphone 12 peo casetify amarillo
+245/645 ## excluido   ##  funda iphone 12 pro
+246/645 ## excluido   ##  mini power bank 6600mah iphone 14,13,12 y 11
+247/645 ## excluido   ##  funda iphone 12 pro max
+248/645 ## excluido   ##  tapa cristal trasero iphone xr blanco
+249/645 ## excluido   ##  funda iphone 12 pro
+250/645 --precio bajo --  5,00 estuche navideño iphone 12 pro max
+251/645 ## excluido   ##  fundas iphone xr
+252/645 ## excluido   ##  funda catalyst vibe iphone 12 mini 
+253/645 ## excluido   ##  pantalla iphone 12-12pro
+254/645 ## excluido   ##  pack fundas iphone 12
+255/645 ## excluido   ##  carcasa de silicona morada para iphone 12 mini
+256/645 ## excluido   ##  carcasa de iphone 15, 14, 13 , 12 pro max plus 
+257/645 ## excluido   ##  caja iphone 12
+258/645 ++ guardado   ++ iphone 12 128gb
+259/645 ## excluido   ##  funda iphone 12 pro (cellularline)
+260/645 ## excluido   ##  funda de iphone 12
+261/645 ## excluido   ##  funda iphone 12 espejo 
+262/645 ## excluido   ##  funda iphone 12 pro max
+263/645 ++ guardado   ++ iphone 12 morado
+264/645 ## excluido   ##  carcasa iphone 12/12pro
+265/645 ## excluido   ##  fundas iphone 12
+266/645 ## excluido   ##  cristal trasero iphone 11, 12
+267/645 ## excluido   ##  funda iphone 12 pro 
+268/645 ## excluido   ##  funda iphone 12 pro 
+269/645 ## excluido   ##  cartera magnética  / magsafe  / iphone  / nueva
+270/645 ## excluido   ##  funda iphone 12 pro 
+271/645 ## excluido   ##  funda iphone 12 pro 
+272/645 ## excluido   ##  funda móvil gato iphone 12/12 pro gato
+273/645 ## excluido   ##  fundas iphone 12 pro
+274/645 ## excluido   ##  funda iphone 12
+275/645 ## excluido   ##  funda iphone 12 pro max
+276/645 ## excluido   ##  funda iphone 12
+277/645 ++ guardado   ++ iphone 12 🩵
+278/645 ## excluido   ##  cargador para iphone
+279/645 ++ guardado   ++ iphone gold 12 pro max nuevo
+280/645 ## excluido   ##  funda iphone 12 pro max 
+281/645 ## excluido   ##  funda iphone 12 
+282/645 ## excluido   ##  flex conector de carga iphone 12/12 pro
+283/645 ## excluido   ##  funda móvil bimba y lola iphone 12/12 pro
+284/645 ## excluido   ##  funda iphone 12
+285/645 ## excluido   ##  apple cartera magsafe
+286/645 --precio bajo --  65,00 cambiar pantalla iphone 12
+287/645 ## excluido   ##  fundas iphone 12 (leer)
+288/645 ## excluido   ##  funda para iphone 12 y 12 pro + cristal templado
+289/645 ## excluido   ##  fundas iphone 12
+290/645 ## excluido   ##  protector de pantalla de vidrio templado iphone
+291/645 --precio bajo --  8,00 altavoz iphone 12
+292/645 --precio bajo --  65,00 bateria iphone 12 
+293/645 ++ guardado   ++ pantalla iphone 12
+294/645 ++ guardado   ++ iphone 12 pro max 128 gb oferton
+295/645 --precio bajo --  2,00 case para iphone 12
+296/645 ## excluido   ##  fundas iphone 14 pro
+297/645 ## excluido   ##  funda de móvil iphone 12
+298/645 ++ guardado   ++ iphone 12 pro 128gb como nuevo en maymovil.com
+299/645 ## excluido   ##  fundas iphone12/ 12 pro
+300/645 --precio bajo --  75,00 cambiar pantalla iphone 12 pro
+301/645 ## excluido   ##  cable para iphone nuevos
+302/645 ## excluido   ##  funda north face
+303/645 ## excluido   ##  power bank magnético 225w  10.000mah
+304/645 ++ guardado   ++ iphone 12 pro max
+305/645 ## excluido   ##  iphone 16 128gb
+306/645 --precio bajo --  4,99 bandeja sim iphone 12
+307/645 ## excluido   ##  carcasa iphone 
+308/645 --precio bajo --  65,00 bateria iphone 12 pro
+309/645 --precio bajo --  59,00 bateria iphone 12 mini
+310/645 ++ guardado   ++ pantalla iphone 12 pro
+311/645 --precio bajo --  120,00 pantalla iphone 12 mini
+312/645 --precio bajo --  65,00 flex de carga iphone 12
+313/645 ## excluido   ##  funda de movil 
+314/645 ## excluido   ##  funda iphone 12 pro shin-chan
+315/645 ## excluido   ##  funda magnetica quad lock iphone 12 y 12 pro 
+316/645 --precio bajo --  3,00 cambio de pantalla iphone 12 original 
+317/645 --precio bajo --  5,00 conector de lector de tarjeta sim dual iphone 12
+318/645 ## excluido   ##  caja iphone 12
+319/645 ## excluido   ##  12 fundas para iphone 13 pro max 
+320/645 --precio bajo --  90,00 cambiar pantalla iphone 12 pro max
+321/645 --precio bajo --  14,95 adaptador de corriente usb de 12 w de apple
+322/645 ## excluido   ##  funda y protector de panatalla iphone 13 
+323/645 ## excluido   ##  funda iphone 12 mini casetify
+324/645 ## excluido   ##  carcasa iphone 12 pro max
+325/645 ## excluido   ##  fundas iphone 12
+326/645 ## excluido   ##  fundas iphone 12 pro 
+327/645 ## excluido   ##  funda iphone 12 anti golpes y sumer
+328/645 ## excluido   ##  tapa cristal trasero iphone x plata
+329/645 --precio bajo --  69,00 bateria iphone 12 pro max
+330/645 ++ guardado   ++ pantalla iphone 12 pro max
+331/645 --precio bajo --  65,00 flex de carga iphone 12 pro
+332/645 --precio bajo --  65,00 flex de carga iphone 12 mini
+333/645 --precio bajo --  60,00 tapa trasera iphone 12 pro
+334/645 --precio bajo --  60,00 tapa trasera iphone 12 mini
+335/645 ## excluido   ##  fundas iphone 
+336/645 ## excluido   ##  fundas iphone 12 mini 
+337/645 --precio bajo --  4,00 phone case iphone 12 pro max 
+338/645 ++ guardado   ++ iphone 12 pro 128 gb - todo original / nuevo
+339/645 ## excluido   ##  funda iphone 12 pro max 
+340/645 ## excluido   ##  fundas iphone 12 pro max y 11
+341/645 ## excluido   ##  fundas iphone 
+342/645 ## excluido   ##  funda bimba y lola
+343/645 ## excluido   ##  funda para iphone 12 / 13 / 14 pro max
+344/645 ## excluido   ##  fundas iphone 12
+345/645 ## excluido   ##  funda iphone 16, plus, pro y pro max.
+346/645 --precio bajo --  69,00 flex de carga iphone 12 pro max
+347/645 --precio bajo --  70,00 tapa trasera iphone 12 pro max
+348/645 ## excluido   ##  funda transparente para iphone 12 pro max
+349/645 --precio bajo --  25,00 chasis iphone 12
+350/645 --precio bajo --  5,00 case iphone 12 
+351/645 --precio bajo --  18,00 12 accesorios iphone 15 pro max
+352/645 ## excluido   ##  funda iphone 12
+353/645 --precio bajo --  35,00 pantalla led  iphone 12
+354/645 --precio bajo --  52,30 pantalla iphone 12 mini
+355/645 ## excluido   ##  funda iphone 12 pro max
+356/645 ## excluido   ##  funda iphone 12 pro max bimba y lola 
+357/645 ## excluido   ##  cambiar pantalla iphone 15
+358/645 ## excluido   ##  funda iphone 12 mini
+359/645 ## excluido   ##  funda iphone
+360/645 ## excluido   ##  funda iphone 
+361/645 --precio bajo --  45,00 vibrador de iphone 12 pro max
+362/645 ## excluido   ##  fundas iphone 12 azul y negra
+363/645 ## excluido   ##  cristal templado iphone 12 pro (4 uds.)
+364/645 ## excluido   ##  funda negra snoopy para iphone 12 pro max
+365/645 ## excluido   ##  fundas iphone 12 pro
+366/645 ## excluido   ##  funda guess
+367/645 --precio bajo --  10,00 case iphone 12
+368/645 ## excluido   ##  carcasa para iphone 12 pro max !!! 
+369/645 ## excluido   ##  funda nueva iphone 12pro el rey león
+370/645 --precio bajo --  5,00 iphone 12 / 12 pro funda magsafe 
+371/645 ## excluido   ##  cargador inalámbrico magnético compatible iphone
+372/645 ## excluido   ##  funda beige efecto acolchado iphone 12 pro max
+373/645 --precio bajo --  2,00 iphone 12 pro funda compatible
+374/645 --precio bajo --  45,00 auricular original iphone 12 pro max
+375/645 --precio bajo --  45,00 cámara frontal para iphone 12 pro max
+376/645 --precio bajo --  45,00 lector sim iphone 12 pro max
+377/645 ## excluido   ##  cable carga rápida iphone 
+378/645 ## excluido   ##  funda phone 12 pro max
+379/645 ## excluido   ##  cargador tipo-c 22.5w para iphone 15/16 np-c1819
+380/645 ## excluido   ##  funda protectora iphone 12pro
+381/645 ## excluido   ##  fundas para iphone 12 pro
+382/645 --precio bajo --  65,00 altavoz iphone y ipod scott i-px 12 helin
+383/645 ## excluido   ##  fundas iphone 
+            id  ...                                                url
+0   1093938947  ...  https://es.wallapop.com/item/iphone-13-1093938947
+1   1093951425  ...  https://es.wallapop.com/item/iphone-12-pro-109...
+2   1093864062  ...  https://es.wallapop.com/item/iphone-12-1093864062
+3   1093780132  ...  https://es.wallapop.com/item/iphone-12-1093780132
+4   1093296719  ...  https://es.wallapop.com/item/iphone-12-128-gb-...
+..         ...  ...                                                ...
+79   948802499  ...  https://es.wallapop.com/item/iphone-12-pro-128...
+80   995828647  ...  https://es.wallapop.com/item/iphone-12-pro-max...
+81  1011785739  ...  https://es.wallapop.com/item/pantalla-iphone-1...
+82  1011786115  ...  https://es.wallapop.com/item/pantalla-iphone-1...
+83   942659408  ...  https://es.wallapop.com/item/iphone-12-pro-128...
+
+[84 rows x 6 columns]
+20250126
+iphone 12
+new
+csv guardado

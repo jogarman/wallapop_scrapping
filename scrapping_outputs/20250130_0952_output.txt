@@ -1,0 +1,122 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2010&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/506 ++ guardado   ++ go pro hero 10 black
+1/506 ++ guardado   ++ gopro hero 10 black
+2/506 ## excluido   ##  alquiler gopro
+3/506 ++ guardado   ++ gopro 10 black
+4/506 ++ guardado   ++ gopro 10
+5/506 ## excluido   ##  baterias gopro 9/10 original y telesin
+6/506 ## excluido   ##  accesorio gopro
+7/506 ## excluido   ##  cargador baterías gopro 9/10/11/12
+8/506 ++ guardado   ++ gopro hero 10 black y accesorios
+9/506 ## excluido   ##  pack camara gopro
+10/506 ++ guardado   ++ gopro hero black 10
+11/506 ++ guardado   ++ gopro 10 black
+12/506 ## excluido   ##  funda impermeable gopro
+13/506 ++ guardado   ++ gopro hero 10 black 
+14/506 ## excluido   ##  pack 3 baterias gopro hero 9,10 y 11
+15/506 ## excluido   ##  gopro hero session 5 
+16/506 ## excluido   ##  gopro hero 11
+17/506 ++ guardado   ++ gopro 10 black
+18/506 ++ guardado   ++ gopro hero 10
+19/506 ## excluido   ##  cargador y 3 baterías gopro 10/9
+20/506 ## excluido   ##  gopro 4 y accesorios 
+21/506 ## excluido   ##  gopro hero7 black
+22/506 ## excluido   ##  repuesto montura gopro 9/10/11/12
+23/506 ## excluido   ##  pack accesorios para gopro 9/10/11/12
+24/506 --precio bajo --  25,00 cargador gopro 9, 10, 11 y 12 original
+25/506 ## excluido   ##  funda protectora para gopro 9/10/11/12/13
+26/506 ## excluido   ##  cámara aventura gopro hero5 black
+27/506 ++ guardado   ++ cambio panasonic por gopro 10
+28/506 ## excluido   ##  go pro 9
+29/506 ## excluido   ##  gopro 11 black + accesorios
+30/506 ++ guardado   ++ go pro hero 10
+31/506 ++ guardado   ++ gopro hero 10 + accesorios
+32/506 ## excluido   ##  cámara t’nb xp30 4k y arnés gopro
+33/506 ++ guardado   ++ gopro hero 10 black 
+34/506 ## excluido   ##  gopro hero 5 black oferta!!
+35/506 ## excluido   ##  case protector para gopro 13,12,11,10 y 9
+36/506 ++ guardado   ++ gopro 10 
+37/506 ## excluido   ##  caja go pro 9 / 10 / 11 / 12
+38/506 ++ guardado   ++ gopro hero 10 black + pack max lens
+39/506 ## excluido   ##  gopro hero 7 white camara
+40/506 ## excluido   ##  gopro 6 naked - negociable 
+41/506 ++ guardado   ++ gopro hero 10 con accesorios a estrenar
+42/506 ## excluido   ##  gopro hero3
+43/506 ## excluido   ##  gopro cámara hero session 4
+44/506 ## excluido   ##  gopro anclaje magnético ulanzi gp-16 [perfecto]
+45/506 ## excluido   ##  gopro hero7 black camara de acción 
+46/506 ## excluido   ##  full kit gopro hero 5 black
+47/506 ++ guardado   ++ gopro hero 10 black
+48/506 ## excluido   ##  smart remote gopro
+49/506 ## excluido   ##  dome gopro para hacer estas fotos!
+50/506 ## excluido   ##  polaroid camara acción hd xs100 tipo gopro 
+51/506 ## excluido   ##  gopro hero 8 black + accesorios 
+52/506 ## excluido   ##  yi 4k cámara gopro + full accesorios 
+53/506 ## excluido   ##  tabla de surf 5’ 10’’
+54/506 ## excluido   ##  (gopro) videocamara multisport prixton dv609
+55/506 ## excluido   ##  go pro hero 4 black
+56/506 ## excluido   ##  drone cheerson cx-20
+57/506 ## excluido   ##  dron 3dr solo (gopro aparte )
+58/506 ## excluido   ##  dji avata
+59/506 ## excluido   ##  go pro hero 3 silver edition 
+60/506 ## excluido   ##  sony rx0 
+61/506 ## excluido   ##  seminuevo segway-ninebot g2 max
+62/506 ## excluido   ##  hohem isteady multi 3-axis estabilizador gimbal
+63/506 ## excluido   ##  hohem isteady pro 4 estabilizador gimbal#131681
+64/506 ## excluido   ##  go pro hero 8 black 
+65/506 ## excluido   ##  apple watch se 
+66/506 ## excluido   ##  equio submarinismo
+67/506 ## excluido   ##  piezas/recambios para patinetes xiaomi
+68/506 ## excluido   ##  gopro 3 hero plus
+69/506 ## excluido   ##  cargador baterias gopro
+70/506 ## excluido   ##  gopro hero 4 silver  
+71/506 ## excluido   ##  gopro hero 4k
+72/506 ## excluido   ##  estuche compacto gopro
+73/506 ## excluido   ##  gopro 9
+74/506 ## excluido   ##  gopro remote control
+75/506 ## excluido   ##  gopro hero 3
+76/506 ## excluido   ##  cámara gopro hd 1800p
+77/506 ## excluido   ##  gopro 11 black 
+            id  ...                                                url
+0   1095343902  ...  https://es.wallapop.com/item/go-pro-hero-10-bl...
+1   1094003898  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+2   1091568974  ...  https://es.wallapop.com/item/gopro-10-black-10...
+3   1090787536  ...   https://es.wallapop.com/item/gopro-10-1090787536
+4   1091711762  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+5   1086977927  ...  https://es.wallapop.com/item/gopro-hero-black-...
+6   1073821636  ...  https://es.wallapop.com/item/gopro-10-black-10...
+7   1078290389  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+8   1069932964  ...  https://es.wallapop.com/item/gopro-10-black-10...
+9   1071003713  ...  https://es.wallapop.com/item/gooro-hero-10-107...
+10  1051674571  ...  https://es.wallapop.com/item/cambio-panasonic-...
+11  1075203306  ...  https://es.wallapop.com/item/go-pro-hero-10-10...
+12  1048036050  ...  https://es.wallapop.com/item/gopro-hero-10---a...
+13  1037670264  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+14   997314133  ...    https://es.wallapop.com/item/gopro-10-997314133
+15  1027999409  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+16   936206770  ...  https://es.wallapop.com/item/gopro-10-con-acce...
+17   934696940  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+
+[18 rows x 6 columns]
+20250130
+gopro 10
+as_good_as_new
+csv guardado

@@ -1,0 +1,91 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2012&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/462 ## excluido   ##  pack de filtros freewell gopro 
+1/462 ++ guardado   ++ gopro hero 12 black 
+2/462 ## excluido   ##  gopro hero12 edicion para creadores
+3/462 ++ guardado   ++ gopro 12 pack crator edition
+4/462 ## excluido   ##  gopro hero 7 black
+5/462 ## excluido   ##  cargador baterías gopro 9/10/11/12
+6/462 ## excluido   ##  funda impermeable gopro
+7/462 ## excluido   ##  gopro hero7 black con accesorios
+8/462 ## excluido   ##  cámara gopro hero12 creator edition 
+9/462 ## excluido   ##  gopro 8 hero black
+10/462 ++ guardado   ++ gopro 12
+11/462 ## excluido   ##  gopro hero session 5 
+12/462 ## excluido   ##  gopro hero7 black
+13/462 ## excluido   ##  repuesto montura gopro 9/10/11/12
+14/462 ## excluido   ##  pack accesorios para gopro 9/10/11/12
+15/462 ## excluido   ##  funda protectora para gopro 9/10/11/12/13
+16/462 --precio bajo --  25,00 cargador gopro 9, 10, 11 y 12 original
+17/462 ## excluido   ##  cámara aventura gopro hero5 black
+18/462 ++ guardado   ++ gopro hero 12 naked
+19/462 ## excluido   ##  gopro hero 7 black
+20/462 ## excluido   ##  camara ultracompacta gopro hero12 black
+21/462 ## excluido   ##  camara ultracompacta gopro hero7
+22/462 ## excluido   ##  gopro hero 5 black oferta!!
+23/462 ## excluido   ##  case protector para gopro 13,12,11,10 y 9
+24/462 ## excluido   ##  camara ultracompacta gopro hero12 black
+25/462 ++ guardado   ++ go pro 12 
+26/462 ## excluido   ##  caja go pro 9 / 10 / 11 / 12
+27/462 ++ guardado   ++ gopro hero 12 creator pack + mod max lens 2.0
+28/462 ## excluido   ##  gopro hero 4 silver táctil + accesorios
+29/462 ## excluido   ##  gopro hero7 black con accesorios. 
+30/462 ## excluido   ##  camara fotos yi action deportiva tipo gopro
+31/462 ## excluido   ##  insta360 go 2
+32/462 ## excluido   ##  gopro karma grip completo + accesorios regalo
+33/462 ## excluido   ##  gopro hero7 black camara de acción 
+34/462 ## excluido   ##  gopro anclaje magnético ulanzi gp-16 [perfecto]
+35/462 ## excluido   ##  gopro  nero3
+36/462 ## excluido   ##  polaroid camara acción hd xs100 tipo gopro 
+37/462 ## excluido   ##  xiaomi yi 4k similar a gopro
+38/462 ## excluido   ##  gopro session  original acuatica
+39/462 ## excluido   ##  go pro black hero 7
+40/462 ## excluido   ##  cámara deportiva (tipo gopro)
+41/462 ## excluido   ##  go pro hero 8 black
+42/462 --precio bajo --  50,00 casco niña, talla 12 con gafas para ventisca
+43/462 ## excluido   ##  hohem isteady pro 4 estabilizador gimbal#131681
+44/462 ## excluido   ##  nikon d7000
+45/462 ## excluido   ##  cámara de acción sjcam
+46/462 ## excluido   ##  gopro hero4
+47/462 ## excluido   ##  gopro hero 8
+48/462 ## excluido   ##  gopro black hero 3 
+49/462 ## excluido   ##  gopro hero 6
+50/462 ## excluido   ##  gopro 10 hero black 
+51/462 ## excluido   ##  gopro hero 9 black
+52/462 ## excluido   ##  gopro
+53/462 ## excluido   ##  gopro hero 9 black
+54/462 ## excluido   ##  gopro hero 4 session
+55/462 ## excluido   ##  gopro hero 8 black
+56/462 ## excluido   ##  gimbal feiyu gopro
+57/462 ## excluido   ##  gopro hero 6 como nueva y con mando
+58/462 ## excluido   ##  gopro hero 3
+           id  ...                                                url
+0  1097081705  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+1  1095462963  ...  https://es.wallapop.com/item/gopro-12-pack-109...
+2  1072590194  ...   https://es.wallapop.com/item/gopro-12-1072590194
+3  1050597462  ...  https://es.wallapop.com/item/gopro-hero-12-nak...
+4  1066722758  ...  https://es.wallapop.com/item/go-pro-12-1066722758
+5  1047653797  ...  https://es.wallapop.com/item/full-equip-go-pro...
+
+[6 rows x 6 columns]
+20250205
+gopro 12
+as_good_as_new
+csv guardado

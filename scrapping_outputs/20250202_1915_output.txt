@@ -1,0 +1,428 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2016&longitude=-3.69196&latitude=40.41956&distance=60000&condition=as_good_as_new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/552 ++ guardado   ++ iphone 16 128 gb azul ultramar
+1/552 ++ guardado   ++ iphone 16 con factura 
+2/552 ++ guardado   ++ iphone 16 
+3/552 ++ guardado   ++ iphone 16 pro 256gb
+4/552 ++ guardado   ++ iphone 16 pro 256gb desierto
+5/552 ++ guardado   ++ iphone 16 pro 256gb titanio negro
+6/552 ++ guardado   ++ iphone 16 pro 256gb 1 ciclo
+7/552 ## excluido   ##  iphone
+8/552 ++ guardado   ++ otras unidades apple apple iphone 16 pro max 256gb esim
+9/552 ++ guardado   ++ iphone 16 plus 128gb azul ultramar
+10/552 ## excluido   ##  iphone 16pro 256 gb
+11/552 ++ guardado   ++ iphone 16 pro max 256gb negro
+12/552 ++ guardado   ++ iphone 16 pro max 256gb desierto
+13/552 ++ guardado   ++ iphone 16 pro max 256gb natural
+14/552 ++ guardado   ++ iphone 16 pro max 256gb desierto 1 ciclo carga
+15/552 ++ guardado   ++ iphone 16
+16/552 ++ guardado   ++ iphone 16 pro max
+17/552 ++ guardado   ++ iphone 16 
+18/552 ++ guardado   ++ apple iphone 16 256gb
+19/552 ++ guardado   ++ vendo iphone 16 pro max de 256 gb
+20/552 ++ guardado   ++ apple iphone 16 plus 128gb
+21/552 ++ guardado   ++ apple iphone 16 pro 256gb
+22/552 ++ guardado   ++ iphone 16 
+23/552 ++ guardado   ++ iphone 16
+24/552 ++ guardado   ++ iphone 16 256gb rosa 2 semanas de uso
+25/552 ## excluido   ##  iphone 15
+26/552 ++ guardado   ++ apple iphone 16 pro max 512gb
+27/552 ++ guardado   ++ iphone 16 pro 256gb
+28/552 ++ guardado   ++ iphone 16 
+29/552 ++ guardado   ++ iphone 16
+30/552 ++ guardado   ++ movil apple iphone 16 128gb
+31/552 ++ guardado   ++ venta de iphone 16 pro 
+32/552 ## excluido   ##  hp portatil dragonfly g4 16gb ram 512gb nvme
+33/552 ++ guardado   ++ iphone 16 pro 256gb
+34/552 ## excluido   ##  iphone 15 pro 128gb
+35/552 ## excluido   ##  iphone 15 pro 128gb
+36/552 ## excluido   ##  iphone 13 pro 256gb 
+37/552 ++ guardado   ++ iphone 16 128gb 
+38/552 ## excluido   ##  iphone 12 pro max 128gb
+39/552 ## excluido   ##  iphone 15 de 128gb verde
+40/552 ++ guardado   ++ iphone 16 rosa 128gb 
+41/552 ++ guardado   ++ iphone 16 pro max 1 tb
+42/552 ++ guardado   ++ iphone 16 pro max 256gb
+43/552 ++ guardado   ++ apple iphone 16 128gb
+44/552 ++ guardado   ++ otras unidades apple apple iphone 16 pro max 256gb esim
+45/552 ++ guardado   ++ apple iphone 16 256gb
+46/552 ## excluido   ##  carcasa funda iphone 16 pro 
+47/552 ++ guardado   ++ iphone 16 plus 
+48/552 ++ guardado   ++ iphone 16 pro max 256gb
+49/552 ## excluido   ##  apple iphone 13 pro max 
+50/552 ## excluido   ##  iphone 14 pro max 128gb
+51/552 ++ guardado   ++ iphone 16 azul ultramar 128 gb
+52/552 ++ guardado   ++ iphone 16 128gb
+53/552 ## excluido   ##  iphone 12 pro 256 gb
+54/552 ++ guardado   ++ apple iphone 16 pro max 512gb
+55/552 ++ guardado   ++ iphone 16 plus 256gb
+56/552 ++ guardado   ++ apple iphone 16 pro max 256gb
+57/552 ++ guardado   ++ iphone 16 pro
+58/552 ++ guardado   ++ iphone 16 plus 256 gb
+59/552 ++ guardado   ++ iphone 16 plus
+60/552 ++ guardado   ++ iphone 16 256gb nuevo
+61/552 ++ guardado   ++ iphone 16 
+62/552 ++ guardado   ++ iphone 16 plus 256 gb azul marino
+63/552 ## excluido   ##  iphone 6
+64/552 ++ guardado   ++ iphone 16 256gb nuevo
+65/552 ++ guardado   ++ apple iphone 16 pro max 512gb
+66/552 ++ guardado   ++ iphone 16 pro max 512 gb
+67/552 ++ guardado   ++ iphone 16 pro 
+68/552 ++ guardado   ++ iphone 16 pro max 256gb
+69/552 ## excluido   ##  iphone 15 barato
+70/552 ## excluido   ##  iphone 13
+71/552 ++ guardado   ++ iphone 16 pro max 256 white 100% impecable
+72/552 ++ guardado   ++ apple iphone 16 pro max 256gb
+73/552 ++ guardado   ++ iphone 16 promax 
+74/552 ## excluido   ##  iphone 6 plus
+75/552 ## excluido   ##  iphone 14 128gb
+76/552 ## excluido   ##  funda iphone 16 pro otterbox negra magsafe
+77/552 ## excluido   ##  apple funda original iphone 16 pro max
+78/552 ## excluido   ##  iphone 15 pro max 256gb titanium
+79/552 ++ guardado   ++ iphone 16 plus 
+80/552 ++ guardado   ++ smarthphone iphone 16 pro max 256 gb
+81/552 ++ guardado   ++ apple iphone 16 128gb
+82/552 ++ guardado   ++ apple iphone 16 128gb
+83/552 ++ guardado   ++ vendo iphone 16 pro max
+84/552 ++ guardado   ++ apple iphone 16 plus 128gb
+85/552 ++ guardado   ++ apple iphone 16 plus 128gb
+86/552 ## excluido   ##  iphone 14 pro
+87/552 ++ guardado   ++ iphone 16 pro max 
+88/552 ## excluido   ##  iphone 11
+89/552 ## excluido   ##  pantalla iphone 14 pro max oled
+90/552 ++ guardado   ++ iphone 16 pro max 256gb
+91/552 ## excluido   ##  iphone 14 pro max 512 gb negro batería reemplazada
+92/552 ++ guardado   ++ apple iphone 16 128gb
+93/552 ++ guardado   ++ apple iphone 16 128gb
+94/552 ## excluido   ##  iphone 6s 16gb
+95/552 ++ guardado   ++ apple iphone 16 pro 256gb
+96/552 ## excluido   ##  iphone 15 pro max leer descripcion ...gracias
+97/552 ## excluido   ##  iphone 13 128gb
+98/552 ++ guardado   ++ iphone 16
+99/552 ++ guardado   ++ iphone 16 pro max 
+100/552 ++ guardado   ++ iphone 16
+101/552 ++ guardado   ++ iphone 16 pro max
+102/552 ++ guardado   ++ iphone 16 plus 256gb 3 ciclos
+103/552 ++ guardado   ++ apple iphone 16 128gb
+104/552 ++ guardado   ++ iphone 16
+105/552 ++ guardado   ++ iphone 16 
+106/552 ++ guardado   ++ apple iphone 16 128gb
+107/552 ++ guardado   ++ iphone 16
+108/552 ++ guardado   ++ iphone 16 plus 
+109/552 ++ guardado   ++ apple iphone 16 pro max
+110/552 ++ guardado   ++ apple iphone 16 128gb
+111/552 ++ guardado   ++ iphone 16 plus
+112/552 ## excluido   ##  funda original iphone 16 pro max
+113/552 --precio bajo --  14,50 iphone 15 y 16 series tipo c a c cableadoptador
+114/552 ++ guardado   ++ iphone 16 128gb
+115/552 ++ guardado   ++ iphone 16 pro max 256gb
+116/552 ## excluido   ##  powerbank 
+117/552 ++ guardado   ++ iphone 16 plus 
+118/552 ++ guardado   ++ iphone 16
+119/552 ++ guardado   ++ iphone 16 256gb rosa
+120/552 ## excluido   ##  iphone 15 pro 128gb
+121/552 ++ guardado   ++ apple iphone 16 plus 256gb (100% bat)
+122/552 ++ guardado   ++ iphone 16 plus 256gb verde 30 ciclos
+123/552 ++ guardado   ++ iphone 16 pro 256gb
+124/552 ++ guardado   ++ iphone 16 black 128 gb. impoluto. 
+125/552 ## excluido   ##  iphone 14
+126/552 ++ guardado   ++ iphone 16 128gb
+127/552 ++ guardado   ++ iphone 16 pro 256gb
+128/552 ++ guardado   ++ vendo iphone 16 urgente 
+129/552 ## excluido   ##  iphone 15 pro 256gb como nuevo garantia
+130/552 ++ guardado   ++ apple iphone 16 plus 256gb
+131/552 ++ guardado   ++ apple iphone 16 pro 128gb
+132/552 ++ guardado   ++ iphone 16 plus
+133/552 ++ guardado   ++ iphone 16 plus 256gb 
+134/552 ## excluido   ##  iphone x blanco
+135/552 ++ guardado   ++ iphone 16 pro max
+136/552 ++ guardado   ++ iphone 16 pro de 128gb/100 bat perfecto estado
+137/552 ++ guardado   ++ ihone 16 pro max 512gb bateria 100 como nuevo
+138/552 ++ guardado   ++ iphone 16 256gb negro
+139/552 ## excluido   ##  iphone 13 pro
+140/552 ++ guardado   ++ iphone 16 pro max 512gb
+141/552 ++ guardado   ++ ¡iphone 16 128gb perfecto estado!
+142/552 ## excluido   ##  iphone se negro 128 gb impecable
+143/552 ## excluido   ##   iphone 12 64gb blanco en perfecto estado  
+144/552 ++ guardado   ++ iphone 16 pro max de 256gb/100 bat perfecto estad
+145/552 ++ guardado   ++ çambio iphone 16 de 128 gpor un coche 
+146/552 ## excluido   ##  iphone 15
+147/552 ++ guardado   ++ iphone 16 plus 256gb
+148/552 ++ guardado   ++ apple iphone 16 pro 256gb
+149/552 ## excluido   ##  iphone x !!ofertoon!!
+150/552 ++ guardado   ++ iphone 16
+151/552 ++ guardado   ++ apple iphone 16 128gb
+152/552 ## excluido   ##  funda iphone16
+153/552 ## excluido   ##  iphone 15 blue 128g nuevo 
+154/552 ++ guardado   ++ iphone 16 rosa
+155/552 ## excluido   ##  iphone 6
+156/552 ## excluido   ##  iphone 4s 16gb
+157/552 ## excluido   ##  iphone 15
+158/552 ++ guardado   ++ apple iphone 16 plus 128gb (100% bat)
+159/552 ++ guardado   ++ iphone 16 pro 128gb 100% 
+160/552 ++ guardado   ++ apple iphone 16 128gb
+161/552 ## excluido   ##  iphone 15 pro
+162/552 ++ guardado   ++ apple iphone 16 128gb
+163/552 ++ guardado   ++ iphone 16 plus negro 256 gb
+164/552 ## excluido   ##  ordenador portatil i7 12gen 16gb de ram
+165/552 ++ guardado   ++ iphone 16 pro
+166/552 ## excluido   ##  hp elitebook 745 g5,ryzen 5,16 gigas,ssd m2
+167/552 ++ guardado   ++ apple iphone 16 plus 256gb
+168/552 ## excluido   ##  iphone 11 negro 128 gigas
+169/552 ## excluido   ##  iphone 15 128gb azul
+170/552 ## excluido   ##  iphone 11 128gb oferta  ❗️❗️
+171/552 ++ guardado   ++ iphone 16 pro 128gb
+172/552 ## excluido   ##  iphone 14 pro max 128gb coor negro 
+173/552 ## excluido   ##  iphone 13 pro
+174/552 ## excluido   ##  iphone 12 pro max 256gb
+175/552 ## excluido   ##  iphone 14 plus 
+176/552 ++ guardado   ++ cambio s24 ultra por iphone 16 o pixel 9 pro 
+177/552 ## excluido   ##  funda case iphone 16 pro rinoshield
+178/552 ++ guardado   ++ vendo iphone 16
+179/552 ## excluido   ##  iphone 5 de 16 gb color negro 
+180/552 ++ guardado   ++ iphone 16 128gb rosa 
+181/552 ++ guardado   ++ iphone 16 negro 128gb
+182/552 ## excluido   ##  iphone 13
+183/552 ## excluido   ##  movil
+184/552 ## excluido   ##  iphone 15 pro max no vendo!!
+185/552 ## excluido   ##  iphone 13 512 gb
+186/552 ++ guardado   ++ apple iphone 16 512gb
+187/552 ++ guardado   ++ apple iphone 16 256gb
+188/552 ++ guardado   ++ iphone 16
+189/552 ++ guardado   ++ iphone 16 pro max 
+190/552 ## excluido   ##  iphone
+191/552 ## excluido   ##  23 carcasas iphone 14 plus o 15 plus
+192/552 ++ guardado   ++ iphone 16 pro max
+193/552 ## excluido   ##  iphone 6 16gb perfecto estado 
+194/552 ## excluido   ##  iphone 15 pro max
+195/552 ## excluido   ##  funda iphone 16 pro max 
+196/552 ++ guardado   ++ iphone 16 pro max 512gb
+197/552 ++ guardado   ++ apple iphone 16
+198/552 ## excluido   ##  iphone 15 pro max
+199/552 ++ guardado   ++ iphone 16 plus
+200/552 ++ guardado   ++ iphone 16 pro 256 
+201/552 ++ guardado   ++ iphone 16 pro max 
+202/552 ## excluido   ##  iphone 5
+203/552 ## excluido   ##  apple iphone 13 128gb
+204/552 ++ guardado   ++ iphone 16 pro max 256gb titaneo desierto
+205/552 ++ guardado   ++ phone 16 pro max de 512 gb 
+206/552 ## excluido   ##  iphone 15 pro titanio blanco
+207/552 ## excluido   ##  iphone 7 32gb
+208/552 ## excluido   ##  iphone 7 32gb
+209/552 ++ guardado   ++ iphone 16 pro 256
+210/552 ## excluido   ##  iphone 7 32gb
+211/552 ++ guardado   ++ iphone 16 pro max 
+212/552 ## excluido   ##  iphone xr 64 gb
+213/552 ## excluido   ##  iphone 13 pro max
+214/552 ++ guardado   ++ iphone 16 pro max
+215/552 ++ guardado   ++ iphone 16 rosa 128gb
+216/552 ## excluido   ##  iphone 14 pro 256gb
+217/552 ## excluido   ##  iphone 14
+218/552 ++ guardado   ++ iphone 16 pro max 
+219/552 ## excluido   ##  iphone 15 plus 128gb
+220/552 ++ guardado   ++ iphone 16 pro 256(titanium white)
+221/552 ++ guardado   ++ iphone 16 pro max
+222/552 ++ guardado   ++ iphone 16 por max 556
+223/552 ++ guardado   ++ apple iphone 16 128gb
+224/552 ++ guardado   ++ cambio iphone 15 pro por iphone 16 pro factura 
+225/552 ++ guardado   ++ apple iphone 16 plus 256gb
+226/552 ++ guardado   ++ iphone 16 pro
+227/552 ++ guardado   ++ iphone 16
+228/552 ## excluido   ##  iphone 14 pro morado 128gb
+229/552 ++ guardado   ++ iphone 16 pro max 256gb
+230/552 --precio bajo --  35,00 iphone 16 pro clear case
+231/552 ++ guardado   ++ smartphone apple iphone 16 128 gb -r0002548cv-
+232/552 ## excluido   ##  iphone x 
+233/552 ++ guardado   ++ iphone 16 plus 
+234/552 ## excluido   ##  iphone 13 
+235/552 --precio bajo --  100,00 iphone 16 plus
+236/552 ## excluido   ##  carcasa iphone 16 pro max
+237/552 ## excluido   ##  iphone 14
+238/552 ++ guardado   ++ iphone 16 pro max 256gb
+239/552 ## excluido   ##  iphone 12 128gb black perfectísimo estado
+240/552 ## excluido   ##  iphone 15 128gb negro 
+241/552 ## excluido   ##  iphone 13
+242/552 ## excluido   ##  pantalla iphone 15 oled
+243/552 ## excluido   ##  pantalla iphone 14 oled
+244/552 ++ guardado   ++ apple iphone 16 512gb
+245/552 ## excluido   ##  iphone 11 pro max (256gb)
+246/552 ++ guardado   ++ iphone 16 pro 256(titanium blanco)
+247/552 ## excluido   ##  iphone 13 pro max
+248/552 ## excluido   ##  funda carcasa iphone 16 pro
+249/552 ++ guardado   ++ iphone 16 pro 256gb(white)
+250/552 ## excluido   ##  iphone 13 128gb (batería 100%)
+251/552 ## excluido   ##  iphone 15 
+252/552 ## excluido   ##  pantalla iphone 14 pro oled
+253/552 ## excluido   ##  pantalla iphone 13 pro oled
+254/552 ++ guardado   ++ iphone 16 pro 128gb
+255/552 ## excluido   ##  iphone 6s rosa 64gb
+256/552 ++ guardado   ++ iphone 16 pro 256gb(titanium white)
+257/552 ++ guardado   ++ apple iphone 16 256gb
+258/552 ## excluido   ##  iphone 14 pro max 256gb
+259/552 ## excluido   ##  iphone 15 pro max 
+260/552 ++ guardado   ++ iphone 16 pro max 256gb precintado
+261/552 --precio bajo --  65,00 iphone 5s god 16 gb
+262/552 ## excluido   ##  pantalla iphone 13 pro max oled
+263/552 ## excluido   ##  iphone 14 plus 128g
+264/552 ++ guardado   ++ apple iphone 16 256gb
+265/552 ## excluido   ##  iphone 14 | 128 gb | lila
+266/552 ## excluido   ##  apple iphone 13 128gb
+267/552 ## excluido   ##  torre gamer i5 6500, 16gb ram, 6gb video
+268/552 ## excluido   ##  iphone 11 black 64gb 
+269/552 ## excluido   ##  funda iphone 16 pro transparente
+270/552 ## excluido   ##  iphone x
+271/552 ## excluido   ##  iphone 12 128 gb!!
+272/552 ## excluido   ##  xiaomi 14 ultra (16 de ram y 512 )
+273/552 ## excluido   ##  iphone 5s 16gb blanco
+274/552 ## excluido   ##  caja iphone 16
+275/552 ## excluido   ##  iphone 12 pro max 256gb
+276/552 ## excluido   ##  iphone se 16gb gris espacial
+277/552 ## excluido   ##  iphone 15 pro max
+278/552 ## excluido   ##  iphone 14pro max 512gb morado
+279/552 --precio bajo --  0,00 vendo iphone 16 pro max
+280/552 ## excluido   ##  iphone 12 pro max 256gb
+281/552 --precio bajo --  45,00 iphone se 2016 en perfecto estado . 16 gb. 
+282/552 ## excluido   ##  iphone 15 
+283/552 ## excluido   ##  iphone 14 256gb
+284/552 ## excluido   ##  iphone 13
+285/552 --precio bajo --  60,00 iphone 5s  16 gb color plata. impecable.
+286/552 ## excluido   ##  iphone 15 pro max
+287/552 ## excluido   ##  iphone 11 negro 
+288/552 ## excluido   ##  iphone 15 pro
+289/552 ## excluido   ##  iphone 13
+290/552 ## excluido   ##  iphone 14 pro 256 gb 
+291/552 ## excluido   ##  iphone 15 pro
+292/552 ## excluido   ##  iphone 13
+293/552 ++ guardado   ++ iphone 16 pro
+294/552 ## excluido   ##  iphone 14 pro
+295/552 ## excluido   ##  iphone 15 pro 256gb
+296/552 ## excluido   ##  iphone 14 pro max
+297/552 ++ guardado   ++ iphone 16 plus 256gb
+298/552 ## excluido   ##  iphone 15 95%🔋garantia
+299/552 ## excluido   ##  iphone 15 100%🔋garantia
+300/552 ## excluido   ##  iphone 6 16 gb negro
+301/552 ## excluido   ##  iphone 14 pro max 
+302/552 ## excluido   ##  iphone 14 pro 128gb
+303/552 ## excluido   ##  iphone 12 pro max 128 gb
+304/552 ## excluido   ##  iphone 15 pro max 512gb
+305/552 ## excluido   ##  iphone 14 
+306/552 ## excluido   ##  iphone 12 pro max 256gb negro
+307/552 ## excluido   ##  iphone 15 pro max black titanium 
+308/552 ## excluido   ##  iphone 13  128gb
+309/552 ## excluido   ##  iphone 15 pro max
+310/552 ++ guardado   ++ móvil apple iphone 16 black 128gb
+311/552 ## excluido   ##  iphone 15 pro max 1tb
+312/552 ## excluido   ##  iphone 12 pro 128gb gris espacial
+313/552 ## excluido   ##  funda iphone 16 pro 
+314/552 ## excluido   ##  iphone 14 pro
+315/552 ++ guardado   ++ apple iphone 16 plus 128gb
+316/552 --precio bajo --  80,00 iphone 6s plus 16 gb como nuevo.
+317/552 ## excluido   ##  iphone 13
+318/552 ## excluido   ##  vendo iphone 15 
+319/552 ## excluido   ##  iphone 6s plus
+320/552 ## excluido   ##  i phone 6 16gb
+321/552 ## excluido   ##  iphone 5 blanco 16g
+322/552 ## excluido   ##  iphone
+323/552 ## excluido   ##  samsung galaxy s23 ultra (256 gb) + cargador
+324/552 ## excluido   ##  iphone 15 black 128gb
+325/552 ## excluido   ##  carcasa iphone 16
+326/552 ## excluido   ##  iphone 14 pro 128 gb
+327/552 ++ guardado   ++ iphone 16 128 gb rosa
+328/552 ## excluido   ##  iphone 14 plus 
+329/552 ## excluido   ##  iphone 14 plus
+330/552 ## excluido   ##  iphone 6 plus
+331/552 ## excluido   ##  iphone 13
+332/552 ## excluido   ##  iphone se rosa
+333/552 --precio bajo --  50,00 iphone 5s 16 g
+334/552 ## excluido   ##  movil iphone 6 plus s
+335/552 ## excluido   ##  iphone 6
+336/552 ## excluido   ##  iphone 14 pro 128
+337/552 ## excluido   ##  funda sin estrenar iphone 16 pro max
+338/552 ## excluido   ##  carcasa buceo divevolk seatouch 4 max plus
+339/552 ## excluido   ##  iphone 12 azul - 64 gb
+340/552 ++ guardado   ++ iphone 16 pro 128gb negro a estrenar 
+341/552 ++ guardado   ++ teléfono apple iphone 16 black 128gb
+342/552 ++ guardado   ++ iphone 16 pro 256gb
+343/552 ## excluido   ##  iphone 12 pro 512gb color graphite
+344/552 ## excluido   ##  iphone 4s 16gb.
+345/552 ## excluido   ##  funda iphone 16 pro max
+346/552 ## excluido   ##  carcasas para iphone 14 pro max
+347/552 ## excluido   ##  iphone 13 pro max, color oro 256g (como nuevo)
+348/552 ## excluido   ##  iphone16 pro max 256 
+349/552 ## excluido   ##  iphone 5c
+350/552 ## excluido   ##  iphone 14 negro 128 gb
+351/552 ## excluido   ##  iphone 14 pro max 256
+352/552 ## excluido   ##  samsung galaxy z fold6 1tb
+353/552 ## excluido   ##  iphone 13
+354/552 ## excluido   ##  iphone 13 pro 256 gb
+355/552 ## excluido   ##  iphone 12 mini
+356/552 ## excluido   ##  iphone 5 (16 gb) – muy buen estado
+357/552 ## excluido   ##  iphone 5 16 gb
+358/552 ## excluido   ##  iphone 10
+359/552 ++ guardado   ++ iphone 16 pro 256gb desierto 
+360/552 ++ guardado   ++ smartphone apple iphone 16 pro max  256 gb
+361/552 ## excluido   ##  iphone 8 gris espacial 64gb
+362/552 ## excluido   ##  iphone15 plus - 128gb
+363/552 ## excluido   ##  cambio iphone 15 pro max 1t
+364/552 ## excluido   ##  iphone 15 pro max 512gb con apple care 
+365/552 ## excluido   ##  cargador multiple apple - base carga
+366/552 ## excluido   ##  iphone 15 plus 256 gb super retona xdr
+367/552 ## excluido   ##  samsung galaxy a12
+368/552 ## excluido   ##  iphone 14 pro morado 100 porcentaje salud y fundas
+369/552 ## excluido   ##  funda iphone 16 pro max
+370/552 ## excluido   ##  iphone 8
+371/552 ## excluido   ##  iphone 11 max pro 512gb
+372/552 ## excluido   ##  iphone 4
+373/552 ## excluido   ##  iphone se
+374/552 ## excluido   ##  funda goyard
+375/552 ## excluido   ##  iphone 6 16gb plata
+376/552 ## excluido   ##  vendo iphone xr coral 128gb 
+377/552 ## excluido   ##  iphone 14 pro max es como nuevo batre 85
+378/552 ## excluido   ##  gimbal feiyutech g6max 
+379/552 ## excluido   ##  iphone 12 pro 128gb en perfecto estado
+380/552 ## excluido   ##  iphone 14 pro de 256 gb en buen estado
+381/552 ## excluido   ##  iphone 5s
+382/552 ## excluido   ##  iphone se (2016) en perfecto estado
+383/552 ## excluido   ##  iphone xr 256gb 82%
+384/552 ## excluido   ##  iphone 13 - 128gb
+385/552 ## excluido   ##  iphone 14
+386/552 ## excluido   ##  samsung galaxy note 20 ultra 5g
+387/552 ## excluido   ##  iphone 6 de 16gb
+388/552 ## excluido   ##  iphone 15 plus 512gb 16.11.2024
+389/552 ## excluido   ##  iphone 4s blanco 16gb
+390/552 ## excluido   ##  móvil 
+             id  ...                                                url
+0    1096195366  ...  https://es.wallapop.com/item/iphone-16-128-gb-...
+1    1096787862  ...  https://es.wallapop.com/item/iphone-16-1096787862
+2    1096634071  ...  https://es.wallapop.com/item/iphone-16-1096634071
+3    1096772875  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+4    1096796458  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+..          ...  ...                                                ...
+167  1068500560  ...  https://es.wallapop.com/item/iphone-16-pro-128...
+168  1071420052  ...  https://es.wallapop.com/item/telefono-apple-ip...
+169  1063219003  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+170  1062835973  ...  https://es.wallapop.com/item/iphone-16-pro-256...
+171  1067325860  ...  https://es.wallapop.com/item/smartphone-apple-...
+
+[172 rows x 6 columns]
+20250202
+iphone 16
+as_good_as_new
+csv guardado

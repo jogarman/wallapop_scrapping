@@ -1,0 +1,617 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=iphone%2014&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/580 --precio bajo --  219,00 iphone 12 mini iphone 13 mini iphone 14
+1/580 ++ guardado   ++ iphone 14 
+2/580 ++ guardado   ++ iphone 14
+3/580 ++ guardado   ++ iphone 14
+4/580 ++ guardado   ++ iphone 14 pro max
+5/580 ++ guardado   ++ iphone 14 pro 256 blanco
+6/580 ++ guardado   ++ iphone 14 pro 256 gb
+7/580 ++ guardado   ++ iphone 14 pro 128gb
+8/580 ++ guardado   ++ iphone 14 pro 1tb
+9/580 ++ guardado   ++ iphone 14 pro max
+10/580 ++ guardado   ++ iphone 14 pro max 256gb white
+11/580 ++ guardado   ++ se vende iphone 14 pro max 256gb
+12/580 ++ guardado   ++ vendo iphone 14 pro 256
+13/580 ## excluido   ##  iphone 14pro max
+14/580 ++ guardado   ++ iphone 14 128gb
+15/580 ++ guardado   ++ iphone 14 pro max
+16/580 ++ guardado   ++ iphone 14 pro 1tb
+17/580 ++ guardado   ++ iphone 14
+18/580 ++ guardado   ++ iphone 14 pro max
+19/580 ++ guardado   ++ iphone 14 pro 1tb
+20/580 ++ guardado   ++ iphone 14 pro morado oscuro/purple 128 gb
+21/580 ++ guardado   ++ iphone 14 pro max 128gb purple
+22/580 ++ guardado   ++ iphone 14 plus 
+23/580 ++ guardado   ++ iphone 14 pro 128gb
+24/580 ++ guardado   ++ iphone 14 plus
+25/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+26/580 ## excluido   ##  accesorios iphone magsafe
+27/580 ++ guardado   ++ iphone 14
+28/580 ++ guardado   ++ iphone 14 128gb 
+29/580 ++ guardado   ++ iphone 14 pro max 
+30/580 ++ guardado   ++ iphone 14 pro max 256gb
+31/580 ++ guardado   ++ iphone 14 plus 128gb
+32/580 ++ guardado   ++ iphone 14 pro max
+33/580 ++ guardado   ++ iphone 14 de 128 gb 
+34/580 ++ guardado   ++ iphone 14 plus
+35/580 ++ guardado   ++ iphone 14 pro max 128gb
+36/580 ++ guardado   ++ iphone 14 pro max
+37/580 ++ guardado   ++ iphone 14 pro max 256 gb verde alpino
+38/580 ++ guardado   ++ iphone 14 pro max deep purple 
+39/580 ++ guardado   ++ iphone 14 plus 128gb
+40/580 ++ guardado   ++ iphone 14 pro gris espacial 128gb
+41/580 ++ guardado   ++ iphone 14 
+42/580 ++ guardado   ++ iphone 14 pro 256gb garantia!
+43/580 ++ guardado   ++ iphone 14 plus 
+44/580 ++ guardado   ++ iphone 14 pro 256gb blanco
+45/580 ++ guardado   ++ iphone 14 128gb 90% salud bateria sin caja cargado
+46/580 ## excluido   ##  caja iphone 14 plus
+47/580 ++ guardado   ++ iphone 14 pro max 256gb
+48/580 ## excluido   ##  apple iphone 15 pro max 512gb
+49/580 ++ guardado   ++ iphone 14 plus
+50/580 ++ guardado   ++ iphone 14 pro de 256gb/87 bat buen estado 
+51/580 ++ guardado   ++ iphone 14 plus 256 gb
+52/580 ## excluido   ##  iphone 13 pro max de 256gb/87 bat perfecto estado
+53/580 ++ guardado   ++ iphone 14 purpura 500euros
+54/580 ++ guardado   ++ iphone 14 pro max
+55/580 ++ guardado   ++ iphone 14 pro max 1tb
+56/580 ++ guardado   ++ iphone 14 pro 128 gb
+57/580 ++ guardado   ++ iphone 14 
+58/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+59/580 ++ guardado   ++ iphone 14 negro 128gb
+60/580 ++ guardado   ++ iphone 14 rojo 
+61/580 ++ guardado   ++ iphone 14 pro max
+62/580 ++ guardado   ++ iphone 14 pro
+63/580 ++ guardado   ++ iphone 14 pro max 256gb
+64/580 ++ guardado   ++ smartphone apple iphone 14 128 gb -e0102858cv-
+65/580 ++ guardado   ++ iphone 14 pro violeta
+66/580 --precio bajo --  160,00 iphone 14 morado 
+67/580 ++ guardado   ++ iphone 14 pro
+68/580 ++ guardado   ++ apple iphone 14 256gb
+69/580 ++ guardado   ++ iphone 14 pro 128gb bat 90 garantia!
+70/580 ++ guardado   ++ iphone 14 pro max
+71/580 ++ guardado   ++ iphone 14 pro 128gb
+72/580 ++ guardado   ++ apple iphone 14 plus 256gb
+73/580 ## excluido   ##  apple iphone 12 64gb
+74/580 ++ guardado   ++ iphone 14 plus 128gb
+75/580 ## excluido   ##  apple iphone 13 128gb
+76/580 ## excluido   ##  apple iphone 16 128gb
+77/580 ## excluido   ##  apple iphone 15 128gb
+78/580 ++ guardado   ++ iphone 14 pro 128gb 
+79/580 ++ guardado   ++ iphone 14 plus 128gb
+80/580 ++ guardado   ++ iphone 14 plus 128gb
+81/580 ## excluido   ##  iphone  al por mayor 
+82/580 ## excluido   ##  apple iphone 15 plus 128gb
+83/580 ++ guardado   ++ cambio iphone 14 pro max
+84/580 ## excluido   ##  apple iphone 13 pro 128gb
+85/580 ++ guardado   ++ iphone 14 pro max 256gb
+86/580 ++ guardado   ++ iphone 14 plus
+87/580 ## excluido   ##  apple iphone 15 128gb
+88/580 ++ guardado   ++ iphone 14 pro max se vende o cambio
+89/580 ++ guardado   ++ iphone 14 plus
+90/580 ## excluido   ##  apple iphone 12 pro max 128gb
+91/580 --precio bajo --  219,00 iphone 12mini 64gb iphone 14
+92/580 ## excluido   ##  apple iphone 13 pro max 128gb
+93/580 ++ guardado   ++ movil iphone 14 plus 
+94/580 ++ guardado   ++ iphone 14 pro 512gb y apple watch serie 10
+95/580 ## excluido   ##  apple iphone 15 pro max 512gb
+96/580 ++ guardado   ++ iphone 14 plus 128gb + caja
+97/580 ++ guardado   ++ iphone 14 pro 
+98/580 ++ guardado   ++ iphone 14 pro max 512gb violeta
+99/580 ++ guardado   ++ iphone 14 plus
+100/580 ## excluido   ##  iphone 12 64gb
+101/580 ++ guardado   ++ iphone 14
+102/580 ++ guardado   ++ iphone 14 plus en color rojo
+103/580 ++ guardado   ++ iphone 14 128 86%
+104/580 ++ guardado   ++ iphone 14 pro
+105/580 ++ guardado   ++ iphone 14 128gb red
+106/580 ++ guardado   ++ iphone 14 pro max 256gb
+107/580 ++ guardado   ++ iphone 14 pro max 
+108/580 ++ guardado   ++ iphone 14 color zul 128 gb + caja + cargador
+109/580 ++ guardado   ++ iphone 14 pro 128gb bat 95 garantia!
+110/580 ++ guardado   ++ iphone 14 plus 
+111/580 ++ guardado   ++ iphone 14 128gb 87% 
+112/580 ++ guardado   ++ iphone 14 pro max 128gb
+113/580 ++ guardado   ++ iphone 14 pro 256gb dorado
+114/580 ## excluido   ##  funda iphone 14 pro
+115/580 ## excluido   ##  funda iphone 14 pro
+116/580 ++ guardado   ++ iphone 14 256 gb
+117/580 ++ guardado   ++ iphone 14 128gb 87% 
+118/580 ++ guardado   ++ iphone 14 128gb 90% 
+119/580 ++ guardado   ++ iphone 14 plus red
+120/580 ## excluido   ##  apple iphone xs 256gb
+121/580 ++ guardado   ++ iphone 14
+122/580 ++ guardado   ++ iphone 14 128gb azul
+123/580 ++ guardado   ++ iphon 14 128 gb
+124/580 ++ guardado   ++ iphone 14 plus 
+125/580 ++ guardado   ++ iphone 14 128gb
+126/580 ++ guardado   ++ iphone 14 pro 256gb
+127/580 ++ guardado   ++ iphone 14 pro max 256gb
+128/580 ++ guardado   ++ iphone 14 pro
+129/580 ## excluido   ##  iphone12 mini. iphone 13
+130/580 ++ guardado   ++ iphone 14 azul  256gb
+131/580 ++ guardado   ++ iphone 14 plus 128gb 89% 
+132/580 ++ guardado   ++ iphone 14 pro 128gb
+133/580 ++ guardado   ++ iphone 14 plus 128gb
+134/580 ++ guardado   ++ iphone 14 pro 128gb negro
+135/580 ++ guardado   ++ iphone 14 plus 256g
+136/580 ++ guardado   ++ iphone 14 
+137/580 ++ guardado   ++ iphone 14 negro (128gb) como nuevo
+138/580 ++ guardado   ++ iphone 14 pro max de 128gb/90 bat buen estado lib
+139/580 ++ guardado   ++ iphone 14 plus 128 gb
+140/580 ++ guardado   ++ iphone 14 plus
+141/580 ++ guardado   ++ iphone 14 pro 
+142/580 ++ guardado   ++ iphone 14 plus 128gb black garantia!
+143/580 ## excluido   ##  iphone 12 128gb  morado  libre
+144/580 ++ guardado   ++ iphone 14 max pro
+145/580 ++ guardado   ++ iphone 14 pro 256gb 
+146/580 ++ guardado   ++ iphone 14 plus
+147/580 ++ guardado   ++ iphone 14 pro 256gb garantia!
+148/580 ++ guardado   ++ iphone 14 pro 128gb bat 90 garantia!
+149/580 ++ guardado   ++ iphone 14 pro 128 gb blanco
+150/580 ## excluido   ##  iphone 13 128gb azul
+151/580 --precio bajo --  50,00 placa base iphone 14 pro 256 gb
+152/580 ++ guardado   ++ apple iphone 14 plus 128gb
+153/580 ++ guardado   ++ iphone 14 pro max 128gb 
+154/580 ## excluido   ##  iphone xr de 64gb/100 bat buen estado 
+155/580 ## excluido   ##  iphone 13 de 128gb/100 bat buen estado 
+156/580 ## excluido   ##  iphone xr de 128gb/100 bat buen estado 
+157/580 ## excluido   ##  iphone xr de 64gb 100 bat buen estado 
+158/580 ++ guardado   ++ iphone 14 pro 256gb
+159/580 ## excluido   ##  apple iphone 13 128gb
+160/580 ++ guardado   ++ se vende iphone 14 pro max precio: 800
+161/580 ++ guardado   ++ iphone 14 pro 128gb 
+162/580 ++ guardado   ++ iphone 14 128 gb negro
+163/580 ++ guardado   ++ iphone 14 pro max
+164/580 ++ guardado   ++ iphone 14 promax negro 256 gb
+165/580 ## excluido   ##  iphone xs max de 256gb/100 perfecto estado libre 
+166/580 ++ guardado   ++ iphone 14 pro max 256gb
+167/580 ++ guardado   ++ iphone 14
+168/580 ## excluido   ##  iphone 14,midnight,128gb buen estado 
+169/580 ## excluido   ##  apple iphone 8 plus 64gb
+170/580 ++ guardado   ++ apple iphone 14 pro 128gb
+171/580 ++ guardado   ++ iphone 14 pro max de 128gb/100 bat perfecto estad
+172/580 ++ guardado   ++ iphone 14 plus 
+173/580 ## excluido   ##  iphone 12 pro max de 128gb/100 bat perfecto estad
+174/580 ++ guardado   ++ iphone 14 pro
+175/580 ++ guardado   ++ apple iphone 14 256gb
+176/580 ## excluido   ##  apple iphone 15 pro max 256gb
+177/580 ## excluido   ##  apple iphone 13 pro max 256gb
+178/580 ## excluido   ##  apple iphone 11 pro max 64gb
+179/580 ## excluido   ##  apple iphone 15 pro 128gb
+180/580 ++ guardado   ++ iphone 14 pro max 256gb
+181/580 ## excluido   ##  funda iphone 14 pro
+182/580 ++ guardado   ++ iphone 14 pro max
+183/580 ++ guardado   ++ iphone 14 pro 256mb 
+184/580 ## excluido   ##  apple iphone 12 128gb
+185/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+186/580 ## excluido   ##  apple iphone 15 pro max 256gb
+187/580 ++ guardado   ++ iphone 14 pro 256g con defecto
+188/580 ## excluido   ##  apple iphone 13 pro max 256gb
+189/580 ## excluido   ##  apple iphone 13 256gb
+190/580 ## excluido   ##  apple iphone 13 256gb
+191/580 ## excluido   ##  apple iphone 13 256gb
+192/580 ++ guardado   ++ iphone 14 pro 256gb negro
+193/580 ++ guardado   ++ iphone 14 pro 256mb 2023
+194/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+195/580 ++ guardado   ++ iphone 14 pro
+196/580 ++ guardado   ++ iphone 14 pro 128gb
+197/580 ++ guardado   ++ iphone 14 128gb negro
+198/580 ++ guardado   ++ iphone 14 pro max 128gb
+199/580 ++ guardado   ++ iphone 14 pro max 256 gb
+200/580 ++ guardado   ++ iphone 14 pro max 128gb
+201/580 ++ guardado   ++ iphone 14 pro max morado 128gb
+202/580 ++ guardado   ++ iphone 14 
+203/580 ++ guardado   ++ iphone 14
+204/580 ++ guardado   ++ iphone 14 pro max 128gb
+205/580 ## excluido   ##  apple iphone 13 pro 256gb
+206/580 ++ guardado   ++ iphone 14 pro max
+207/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+208/580 --precio bajo --  100,00 pantalla iphone 14 original 
+209/580 ++ guardado   ++ iphone 14 128gb 
+210/580 ++ guardado   ++ iphone 14 de 128gb/97 bat buen estado libre 
+211/580 ## excluido   ##  fundas iphone 14 plus
+212/580 ++ guardado   ++ iphone 14 pro max
+213/580 ++ guardado   ++ apple iphone 14 pro 128gb
+214/580 ++ guardado   ++ iphone 14 pro max
+215/580 ++ guardado   ++ iphone 14 pro 256 gb
+216/580 ++ guardado   ++ iphone 14 pro 256gb
+217/580 ++ guardado   ++ iphone 14 plus 256gb azul (salud 85% )
+218/580 ## excluido   ##  iphone 
+219/580 ++ guardado   ++ iphone 14
+220/580 ++ guardado   ++ iphone 14 pro 128gb
+221/580 ++ guardado   ++ iphone 14 pro
+222/580 ## excluido   ##  movil
+223/580 ## excluido   ##  apple iphone se (2020) 128gb
+224/580 ++ guardado   ++ iphone 14 128gb
+225/580 ## excluido   ##  fundas iphone 14 pro max
+226/580 ++ guardado   ++ iphone 14 plus de 128gb/86 bat buen estado libre 
+227/580 ++ guardado   ++ iphone 14 pro
+228/580 ++ guardado   ++ iphone 14 pro max 
+229/580 ## excluido   ##  apple iphone 11 64gb
+230/580 ++ guardado   ++ iphone 14 
+231/580 ## excluido   ##  funda iphone 14
+232/580 ## excluido   ##  iphone
+233/580 ++ guardado   ++ iphone 14 pro max 128gb y airpods pro 2
+234/580 ## excluido   ##  apple iphone 13 128gb
+235/580 ++ guardado   ++ smartphone apple iphone 14 128 gb -e0100639cv-
+236/580 ## excluido   ##  apple iphone 12 pro 128gb
+237/580 ++ guardado   ++ iphone 14 pro max 128gb negro
+238/580 ## excluido   ##  apple iphone 13 pro 128gb
+239/580 ++ guardado   ++ iphone 14 pro max
+240/580 ++ guardado   ++ iphone 14 plus 
+241/580 ++ guardado   ++ iphone 14 pro max 128gb/93 bat buen estado libre 
+242/580 ++ guardado   ++ iphone 14 pro 128gb
+243/580 ## excluido   ##  funda lacoste iphone 14 pro
+244/580 ## excluido   ##  apple iphone 13 128gb
+245/580 ++ guardado   ++ iphone 14 pro
+246/580 ## excluido   ##  carcasa de iphone 13 y 14 pro
+247/580 ## excluido   ##  apple iphone 13 128gb
+248/580 ## excluido   ##  apple iphone 12 pro max 128gb
+249/580 ## excluido   ##  apple iphone 16 128gb
+250/580 ++ guardado   ++ iphone 14 plus 128gb bat 100 garantia!
+251/580 ++ guardado   ++ smartphone apple iphone 14 pro 128 gb -e0033406cv-
+252/580 ## excluido   ##  iphone
+253/580 ++ guardado   ++ iphone 14 256gb
+254/580 ++ guardado   ++ iphone 14 pro max 256gb
+255/580 ## excluido   ##  iphone 11 pro de 64gb/83 bat buen estado libre 
+256/580 ## excluido   ##  funda de cuero original iphone 14 pro leather case
+257/580 ++ guardado   ++ iphone 14 pro max 256gb
+258/580 ## excluido   ##  apple iphone 15 plus 128gb
+259/580 ## excluido   ##  apple iphone 12 pro 128gb
+260/580 ++ guardado   ++ 2x1 iphone 14 pro max y 11 pro max
+261/580 ++ guardado   ++ iphone 14 pro max 128gb
+262/580 ++ guardado   ++ iphone 14 pro max
+263/580 ++ guardado   ++ iphone 14 pro 512 gb
+264/580 ## excluido   ##  iphone 12 64gb
+265/580 ++ guardado   ++ iphone 14 pro max
+266/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+267/580 ++ guardado   ++ apple iphone 14 128gb
+268/580 ++ guardado   ++ iphone 14 pro 128gb purpura bateruia 93% + cable+ caja
+269/580 ++ guardado   ++ iphone 14 pro max 
+270/580 ++ guardado   ++ iphone 14 plus 128gb black bat 100 garantia!
+271/580 ++ guardado   ++ apple iphone 14 pro 128gb silver
+272/580 ++ guardado   ++ iphone 14
+273/580 ## excluido   ##  iphone x 64gb
+274/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+275/580 ++ guardado   ++ vendo o cambio iphone 14 pro max
+276/580 ++ guardado   ++ iphone 14 pro max 256gb
+277/580 --precio bajo --  60,00 pantalla iphone 14 pro original
+278/580 ## excluido   ##  funda iphone 14 transparente original
+279/580 ## excluido   ##  apple iphone 13 128gb
+280/580 ## excluido   ##  fundas iphone 14 pro max
+281/580 ## excluido   ##  iphone 14, 256gb.  
+282/580 ++ guardado   ++ iphone 14 pro max morado
+283/580 ++ guardado   ++ iphone 14 pro max de 128gb/100 bat segunda mano 
+284/580 ++ guardado   ++ iphone 14 pro max 128gb morado *bateria 100%*
+285/580 ## excluido   ##  iphone 12 128gb azul
+286/580 ++ guardado   ++ apple iphone 14 128gb
+287/580 ## excluido   ##  iphone xr de 64gb/buen estado libre 
+288/580 ## excluido   ##  apple iphone 15 pro 128gb
+289/580 ## excluido   ##  iphone 12 mini verde
+290/580 ## excluido   ##  apple iphone 12 pro 256gb
+291/580 ++ guardado   ++ iphone 14 pro max 256gb
+292/580 ++ guardado   ++ smartphone iphone 14 pro max
+293/580 ++ guardado   ++ iphone 14 plus 128gb color lila 
+294/580 ## excluido   ##  apple iphone 12 64gb
+295/580 ++ guardado   ++ iphone 14 pro max
+296/580 ++ guardado   ++ iphone 14 promax
+297/580 ## excluido   ##  apple iphone 15 256gb
+298/580 ++ guardado   ++ iphone 14 con caja y fundas
+299/580 ## excluido   ##  apple iphone 13 128gb
+300/580 ++ guardado   ++ iphone 14 pro max de 256 gb
+301/580 ## excluido   ##  iphone 13 pro de 128gb/88 bat perfecto estado
+302/580 --precio bajo --  5,00 forros 14 pro max 
+303/580 ## excluido   ##  iphone 12 mini  iphone 12 pro ...
+304/580 ## excluido   ##  iphone 12 mini, 12 pro 256 gb
+305/580 ## excluido   ##  apple iphone 11 pro max 64gb
+306/580 ++ guardado   ++ iphone 14 pro 128gb negro
+307/580 ## excluido   ##  iphone 12 mini 64gb
+308/580 ++ guardado   ++ iphone 14 pro max 
+309/580 ++ guardado   ++ smartphone apple iphone 14 pro max 128 gb
+310/580 ## excluido   ##  iphone 12 mini, 13 128 gb
+311/580 ++ guardado   ++ iphone 14 pro max
+312/580 ## excluido   ##  carcasa iphone 14 pro max guess
+313/580 ++ guardado   ++ iphone 14 pro max 256gb 
+314/580 ++ guardado   ++ iphone 14 pro 256gb - negro
+315/580 ## excluido   ##  fundas iphone 14 pro
+316/580 ## excluido   ##  apple iphone 11 64gb
+317/580 ## excluido   ##  apple iphone xr 64gb
+318/580 ## excluido   ##  apple iphone xs 64gb
+319/580 ## excluido   ##  apple iphone se (2020) 64gb
+320/580 ## excluido   ##  iphone 12 de 64gb/88 bat buen estado libre 
+321/580 ++ guardado   ++ iphone 14 pro
+322/580 ++ guardado   ++ apple iphone 14 plus 128gb
+323/580 ++ guardado   ++ iphone 14 
+324/580 ## excluido   ##  lote fundas iphone 13 y 14
+325/580 ## excluido   ##  iphone 15 pro max 1tb
+326/580 ## excluido   ##  apple iphone 11 pro 64gb
+327/580 ++ guardado   ++ iphone 14 plus de 256gb/ 87% bat buen estado libre
+328/580 ++ guardado   ++ iphone 14 pro max 128
+329/580 ## excluido   ##  iphone 13 de 128gb/100 bat buen estado libre 
+330/580 ## excluido   ##  iphone 12 mini 64gb rojo
+331/580 ## excluido   ##  3 fundas para iphone 11
+332/580 ++ guardado   ++ iphone 14 blanco 
+333/580 ## excluido   ##  apple iphone 13 pro max 512gb
+334/580 ++ guardado   ++ apple iphone 14 pro 512gb
+335/580 ++ guardado   ++ iphone 14 pro max 256gb
+336/580 ## excluido   ##  apple iphone 12 64gb
+337/580 ++ guardado   ++ iphone 14 94%
+338/580 ++ guardado   ++ iphone 14 pro max
+339/580 ++ guardado   ++ iphone 14 plus 128gb 
+340/580 ## excluido   ##  iphone 12 pro max de 256gb/87 bat perfecto estado
+341/580 ## excluido   ##  funda iphone 14
+342/580 ## excluido   ##  iphone 12 pro max de 128gb/100 bat buen estado 
+343/580 ++ guardado   ++ iphone 14 de 128gb/buen estado 
+344/580 ## excluido   ##  iphone 15 pro max de 256gb/88 bat perfecto estado
+345/580 ++ guardado   ++ iphone 14 pro máx 128gb
+346/580 ++ guardado   ++ iphone 14 plus 
+347/580 ++ guardado   ++ vendo iphone 14 plus  128 gb
+348/580 ## excluido   ##  apple iphone 13 pro max 128gb
+349/580 ## excluido   ##  dos fundas movil iphone 14 pro marca mous
+350/580 ++ guardado   ++ iphone 14 pro max 128gb negro *87% bateria*
+351/580 ## excluido   ##  iphone 12 128gb
+352/580 ++ guardado   ++ iphone 14 pro
+353/580 ++ guardado   ++ iphone 14 256gb oferta!!!
+354/580 --precio bajo --  100,00 piezas iphone 14
+355/580 ++ guardado   ++ iphone 14 plus 256gb perfecta
+356/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+357/580 ++ guardado   ++ iphone 14 plus 512 gb
+358/580 ++ guardado   ++ iphone 14 plus 128gb perfectas
+359/580 ## excluido   ##  iphone 12mini.  13 mini 128 gb
+360/580 ++ guardado   ++ iphone 14 plus 128 gb
+361/580 ++ guardado   ++ iphone 14 pro max 128gb morado en perfecto estado
+362/580 ## excluido   ##  apple iphone se (2020) 256gb
+363/580 ## excluido   ##  apple iphone 11 pro max 64gb
+364/580 ## excluido   ##  apple iphone 12 pro max 128gb
+365/580 ## excluido   ##  apple iphone 13 128gb
+366/580 ++ guardado   ++ iphone 14 pro 128 gb
+367/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+368/580 ## excluido   ##  quadlock carcasa para iphone14pro
+369/580 ## excluido   ##  apple iphone 11 pro 512gb
+370/580 ## excluido   ##  iphone 15 pro max de 256gb/100 bat perfecto estad
+371/580 ## excluido   ##  apple iphone 15 plus 128gb
+372/580 --precio bajo --  1,05 🔥funda iphone 14 pro, color lila
+373/580 ## excluido   ##  iphone xr
+374/580 ## excluido   ##  iphone xr
+375/580 ## excluido   ##  iphone 12 negro 256gb/14 cases/1 protector pantall
+376/580 ## excluido   ##  iphone xs de 512gb/100 bat buen estado libre 
+377/580 ## excluido   ##  iphone 13 mini de 128gb/87 bat buen estado 
+378/580 ## excluido   ##  fundas iphone 14 pro
+379/580 ## excluido   ##  fundas iphone 14 pro
+380/580 ## excluido   ##  fundas iphone 14 pro
+381/580 ## excluido   ##  fundas iphone 14 pro
+382/580 ++ guardado   ++ apple iphone 14 256gb
+383/580 ## excluido   ##  fundas iphone 14 pro max
+384/580 ## excluido   ##  apple iphone xs max 256gb
+385/580 ++ guardado   ++ iphone 14 pro 128 gb purple
+386/580 ## excluido   ##  apple iphone 15 pro max 256gb
+387/580 ## excluido   ##  apple iphone 13 mini 128gb
+388/580 ++ guardado   ++ oferta!!iphone 14 plus 128gb bat 98% garantia!
+389/580 --precio bajo --  20,00 cargador iphone 14 pro 
+390/580 ## excluido   ##  iphone xr
+391/580 ## excluido   ##  iphone 13 pro max 128gb gris 86% sb + caja + cargador
+392/580 ## excluido   ##  caja iphone
+393/580 ## excluido   ##  apple iphone 8 64gb
+394/580 ++ guardado   ++ iphone 14 pro 1tb negro
+395/580 ## excluido   ##  apple iphone x 64gb
+396/580 ## excluido   ##  apple iphone xr 128gb
+397/580 ++ guardado   ++ apple iphone 14 128gb
+398/580 ## excluido   ##  iphone 11 pro max de 256gb/100 bat buen estado 
+399/580 ++ guardado   ++ apple iphone 14 pro 128gb
+400/580 ## excluido   ##  apple iphone 13 128gb
+401/580 ## excluido   ##  apple iphone 11 64gb
+402/580 ++ guardado   ++ iphone 14 pro max 128gb morado salud bateria 87% - leves arañazos en pantalla -
+403/580 ## excluido   ##  iphone 12 mini 64gb
+404/580 ## excluido   ##  iphone 12 de 128gb/85 bat funcional sin face id 
+405/580 ++ guardado   ++ iphone 14 pro
+406/580 ## excluido   ##  apple iphone 15 pro max 256gb
+407/580 ## excluido   ##  iphone 12mini 64gb  iphone12 iphone 13mini
+408/580 ## excluido   ##  apple iphone 13 pro max 256gb
+409/580 ++ guardado   ++ iphone 14 pro max 128gb
+410/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+411/580 ## excluido   ##  apple iphone xs 64gb
+412/580 ++ guardado   ++ iphone 14 pro max
+413/580 ## excluido   ##  apple iphone 11 128gb
+414/580 ++ guardado   ++ iphone 14
+415/580 ## excluido   ##  apple iphone 13 pro 128gb
+416/580 ++ guardado   ++ vendo iphone 14 pro max - 256gb deep purple
+417/580 --precio bajo --  17,00 iphone  14 plus carcasas 
+418/580 --precio bajo --  90,00 pantalla iphone 14
+419/580 ++ guardado   ++ iphone 14 plus
+420/580 ## excluido   ##  iphone 12 mini usados con garantia somos tienda 
+421/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+422/580 ## excluido   ##  apple iphone 12 64gb
+423/580 ++ guardado   ++ iphone 14 pro
+424/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+425/580 ++ guardado   ++ iphone 14 plus azul 256gb con fundas
+426/580 ## excluido   ##  apple iphone 16 256gb
+427/580 ## excluido   ##  movil iphone 11 128gb negro 80% sb
+428/580 ## excluido   ##  iphone 13 128gb
+429/580 ## excluido   ##  fundas iphone 14 plus
+430/580 ## excluido   ##  funda iphone 14 pro max 
+431/580 ++ guardado   ++ iphone 14 pro max 512 gigas
+432/580 ## excluido   ##  apple iphone 13 pro max 256gb
+433/580 ## excluido   ##  apple iphone 15 256gb
+434/580 ## excluido   ##  apple iphone 13 128gb
+435/580 ## excluido   ##  apple iphone 13 256gb
+436/580 ## excluido   ##  iphone 12 mini iphone 12 pro iphone 12 pro usados 
+437/580 ## excluido   ##  iphone 11
+438/580 ## excluido   ##  apple iphone 11 64gb
+439/580 ## excluido   ##  apple iphone 8 64gb
+440/580 ++ guardado   ++ iphone 14 púrpura /segunda mano
+441/580 ++ guardado   ++ iphone 14 pro max 
+442/580 ## excluido   ##  apple iphone 12 mini  12 12 pro 1 año de garantia 
+443/580 ## excluido   ##  iphone 13 de 128gb/97 bat buen estado libre 
+444/580 ## excluido   ##  apple iphone xr 64gb
+445/580 ## excluido   ##  apple iphone 11 pro max 256gb
+446/580 ## excluido   ##  apple iphone 15 pro max 256gb
+447/580 ++ guardado   ++ iphone 14 pro max /1 tb 
+448/580 ## excluido   ##  apple iphone 15 128gb
+449/580 ## excluido   ##  iphone 12 mini, 12, 13 y 13 mini all colors 
+450/580 ## excluido   ##  apple iphone xr 256gb
+451/580 ## excluido   ##  iphone 15 pro max 256, natural
+452/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+453/580 ++ guardado   ++ apple iphone 14 plus 128gb
+454/580 --precio bajo --  200,00 iphone 14 ( para piezas ) 128gb
+455/580 ## excluido   ##  movil iphone xr 3gb/256gb negro
+456/580 ## excluido   ##  apple iphone 13 pro max 128gb
+457/580 ## excluido   ##  apple iphone 11 pro max 256gb
+458/580 ++ guardado   ++ apple iphone 14 pro 1tb
+459/580 ++ guardado   ++ iphone 14 pro 128 gb
+460/580 ## excluido   ##  fundas iphone xr
+461/580 --precio bajo --  50,00 chasis iphone 14 plus azul original
+462/580 ++ guardado   ++ apple iphone 14 plus 256gb
+463/580 ## excluido   ##  apple iphone 15 pro 128gb
+464/580 ## excluido   ##  apple iphone 15 pro max 512gb
+465/580 --precio bajo --  159,99 cambiode pantalla iphone 14 pro max
+466/580 ++ guardado   ++ iphone 14 pro max
+467/580 ## excluido   ##  iphone 13 pro max
+468/580 ## excluido   ##  carcasas iphone 14 pro max 
+469/580 ++ guardado   ++ iphone 14 128gb 88% de bateria + caja
+470/580 ## excluido   ##  apple iphone 13 pro max 128gb
+471/580 ++ guardado   ++ iphone 14 pro max 512gb
+472/580 ## excluido   ##  apple iphone 11 pro max 256gb
+473/580 ## excluido   ##  apple iphone 11 pro max 64gb
+474/580 ## excluido   ##  fundas iphone 14 plus
+475/580 ## excluido   ##  apple iphone 13 128gb
+476/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+477/580 ## excluido   ##  apple iphone 12 128gb
+478/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+479/580 ## excluido   ##  iphone 12 mini , iphone 12
+480/580 ++ guardado   ++ apple iphone 14 128gb
+481/580 ## excluido   ##  funda iphone
+482/580 ++ guardado   ++ iphone 14  256 gb red 
+483/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+484/580 ## excluido   ##  apple iphone 15 pro max 256gb
+485/580 ## excluido   ##  fundas iphone 14 pro
+486/580 ## excluido   ##  funda iphone 14 pro max
+487/580 ## excluido   ##  funda iphone 14 pro max
+488/580 ## excluido   ##  funda iphone 14 pro max
+489/580 ++ guardado   ++ movil iphone 14 plus 128gb + funda + caja
+490/580 ## excluido   ##  funda de iphone 14
+491/580 ++ guardado   ++ iphone 14 plus 128gb bat 98% garantia 
+492/580 ## excluido   ##  funda iphone 14 magsafe original 
+493/580 ++ guardado   ++ iphone 14
+494/580 ++ guardado   ++ movil iphone 14 pro 256gb salud 84% negro
+495/580 ## excluido   ##  apple iphone 15 pro max 256gb
+496/580 ++ guardado   ++ iphone 14 pro 128gb bateria en 87% morado + caja
+497/580 ## excluido   ##  iphone x
+498/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+499/580 ## excluido   ##  apple iphone 13 pro max 256gb
+500/580 ## excluido   ##  apple iphone 15 256gb
+501/580 ++ guardado   ++ apple iphone 14 pro 256gb
+502/580 ++ guardado   ++ iphone 14 pro 256gb
+503/580 ## excluido   ##  iphone 12 pro 256 gb azul
+504/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+505/580 --precio bajo --  6,00 leather case iphone 14 pro max
+506/580 ++ guardado   ++ iphone 14 pro roto
+507/580 ++ guardado   ++ iphone 14 pro max 128gb negro bateria 86%
+508/580 ## excluido   ##  apple iphone xr 128gb
+509/580 ## excluido   ##  iphone xs max a1921 256gb negro
+510/580 ## excluido   ##  apple iphone 13 pro 128gb
+511/580 ## excluido   ##  iphone 15 pro max 512gb + caja salud de bateria 100%
+512/580 ## excluido   ##  caja vacía de iphone 14 roja
+513/580 ## excluido   ##  apple iphone 12 pro 128gb
+514/580 ## excluido   ##  apple iphone 12 64gb
+515/580 ## excluido   ##  apple iphone 13 256gb
+516/580 ++ guardado   ++ apple iphone 14 pro max 256gb
+517/580 ## excluido   ##  fundas iphone 14pro
+518/580 ## excluido   ##  apple iphone 12 pro max 256gb
+519/580 ## excluido   ##  funda iphone 14 pro
+520/580 --precio bajo --  25,00 quad lock iphone 14 pro 
+521/580 ## excluido   ##  movil
+522/580 ++ guardado   ++ apple iphone 14 pro 512gb
+523/580 ## excluido   ##  apple iphone xr 64gb
+524/580 ## excluido   ##  samsung galaxy a51. garantia
+525/580 ## excluido   ##  movil iphone 15 pro max 256gb titanio natural 100%sb + cable + funda
+526/580 ## excluido   ##  funda iphone 11
+527/580 ## excluido   ##  funda rhinoshield clear iphone 13/14
+528/580 ## excluido   ##  fundas de iphone 14 pro max
+529/580 --precio bajo --  49,95 teclado creator keyboard iphone 14 pro 198763
+530/580 ## excluido   ##  iphone 15 128gb blanco 97% sb
+531/580 ## excluido   ##  funda para iphone 14 plus
+532/580 ## excluido   ##  iphone se 2020 64 gb
+533/580 ## excluido   ##  iphone 8 
+534/580 ++ guardado   ++ apple iphone 14 pro 128gb
+535/580 ## excluido   ##  apple iphone 12 64gb
+536/580 ## excluido   ##  iphone 12 mini, 13 pro max, 13 mini 
+537/580 ## excluido   ##  apple iphone 12 pro max 256gb
+538/580 ## excluido   ##  iphone 12mini usados con garantia somos tienda
+539/580 ## excluido   ##  apple iphone 12 64gb
+540/580 ## excluido   ##  apple iphone 13 pro 128gb
+541/580 ## excluido   ##  samsung s23 ultra 256gb 
+542/580 ## excluido   ##  funda iphone 14
+543/580 ## excluido   ##  apple iphone xr 64gb
+544/580 ++ guardado   ++ apple iphone 14 plus 128gb
+545/580 ++ guardado   ++ apple iphone 14 pro 256gb
+546/580 ## excluido   ##  apple iphone 13 128gb
+547/580 --precio bajo --  10,00 cajas apple ipad pro 10,5"+leather case iphone 14 
+548/580 ## excluido   ##  fundas iphone 13
+549/580 ## excluido   ##  apple iphone 15 128gb
+550/580 ## excluido   ##  funda iphone 14 pro max granate
+551/580 ## excluido   ##  apple iphone xr 64gb
+552/580 ++ guardado   ++ apple iphone 14 256gb
+553/580 ## excluido   ##  iphone xr
+554/580 ## excluido   ##  apple iphone 15 pro max 256gb
+555/580 ## excluido   ##  pack 5 fundas iphone 14 plus
+556/580 ## excluido   ##  apple iphone 13 pro max 512gb
+557/580 ## excluido   ##  apple iphone 15 pro 128gb
+558/580 ## excluido   ##  iphone 15 pro 128gb salud de bateria 89% negro + cable
+559/580 ## excluido   ##  apple iphone 15 256gb
+560/580 ## excluido   ##  apple iphone 15 pro max 256gb
+561/580 ## excluido   ##  apple iphone 13 pro 256gb
+562/580 ## excluido   ##  apple iphone 13 pro max 256gb
+563/580 ++ guardado   ++ iphone 14 plus 128gb batería al 88% azul
+564/580 ## excluido   ##  apple iphone 13 pro 128gb
+565/580 ++ guardado   ++ apple iphone 14 pro 1tb
+566/580 ## excluido   ##  apple iphone 13 pro max 128gb
+567/580 ## excluido   ##  iphone 12 pro max 256gb
+568/580 ## excluido   ##  apple iphone 12 pro 128gb
+569/580 ## excluido   ##  apple iphone 15 pro max 256gb
+570/580 ## excluido   ##  funda iphone 
+571/580 ++ guardado   ++ apple iphone 14 pro max 128gb
+572/580 ## excluido   ##  apple iphone 13 pro max 128gb
+573/580 ## excluido   ##  carcasa iphone 14 plus
+574/580 ++ guardado   ++ iphone 14 pro max 128gb 86 bat
+575/580 ## excluido   ##  apple iphone xr 128gb
+576/580 ## excluido   ##  apple iphone 13 128gb
+577/580 ## excluido   ##  apple iphone xs 64gb
+578/580 ## excluido   ##  funda quadlock iphone 14
+579/580 ## excluido   ##  apple iphone 13 pro max 256gb
+             id  ...                                                url
+0    1096881448  ...  https://es.wallapop.com/item/iphone-14-1096881448
+1    1096822687  ...  https://es.wallapop.com/item/iphone-14-1096822687
+2    1096652858  ...  https://es.wallapop.com/item/iphone-14-1096652858
+3    1096798501  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+4    1096965289  ...  https://es.wallapop.com/item/iphone-14-pro-256...
+..          ...  ...                                                ...
+298  1056042452  ...  https://es.wallapop.com/item/apple-iphone-14-2...
+299  1064861527  ...  https://es.wallapop.com/item/iphone-14-plus-12...
+300  1024370228  ...  https://es.wallapop.com/item/apple-iphone-14-p...
+301  1055418751  ...  https://es.wallapop.com/item/apple-iphone-14-p...
+302  1062807402  ...  https://es.wallapop.com/item/iphone-14-pro-max...
+
+[303 rows x 6 columns]
+20250202
+iphone 14
+good
+csv guardado

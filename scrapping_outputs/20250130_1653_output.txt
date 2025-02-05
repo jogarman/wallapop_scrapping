@@ -1,0 +1,61 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2010&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/341 ## excluido   ##  camara ultracompacta gopro hero3
+1/341 ## excluido   ##  camara ultracompacta gopro hero10
+2/341 ++ guardado   ++ gopro hero 10 black
+3/341 ## excluido   ##  camara ultracompacta gopro hero8 black
+4/341 ## excluido   ##  gopro hero 7 silver 
+5/341 ## excluido   ##  pack gopro 7 hero black.
+6/341 ## excluido   ##  gopro hero 8 black 
+7/341 ## excluido   ##  funda acuatica gopro 9/10/11/12/13
+8/341 ## excluido   ##  camara ultracompacta gopro hero3
+9/341 --precio bajo --  20,00 alquiler cámara gopro hero 10
+10/341 ## excluido   ##  camara ultracompacta gopro hero9
+11/341 ## excluido   ##  camara ultracompacta gopro hero8
+12/341 ## excluido   ##  go pro max 360°
+13/341 ## excluido   ##  gopro hero 7 silver
+14/341 ## excluido   ##  gopro hero 3
+15/341 ## excluido   ##  gopro hero3+
+16/341 ## excluido   ##  mascotas
+17/341 ## excluido   ##  go pro hero 3
+18/341 ## excluido   ##  coche teledirigido wltoys 959b
+19/341 ## excluido   ##  cómics 
+20/341 ## excluido   ##  cargador camara gopro gopro
+21/341 ## excluido   ##  gopro hero 3 
+22/341 ## excluido   ##  cámara deportiva gopro hero4
+23/341 ## excluido   ##  cámara deportiva gopro hero4
+24/341 ## excluido   ##  gopro hero 5 black (black es la versión buena).
+25/341 ## excluido   ##  cámara deportiva gopro hero4
+26/341 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+27/341 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+28/341 ## excluido   ##  grande lote de cosas digitales
+29/341 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+30/341 ## excluido   ##  cámara deportiva gopro hero4
+31/341 ## excluido   ##  gopro hero 5 +extras 
+32/341 ## excluido   ##  gopro hero 3+ baterías extras
+33/341 ## excluido   ##  gopro hero 3
+           id  ...                                                url
+0  1085625687  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+
+[1 rows x 6 columns]
+20250130
+gopro 10
+good
+csv guardado

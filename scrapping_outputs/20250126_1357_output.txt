@@ -1,0 +1,60 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2010&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/333 ## excluido   ##  camara ultracompacta gopro hero10
+1/333 ++ guardado   ++ gopro hero 10 black
+2/333 ## excluido   ##  camara ultracompacta gopro hero8 black
+3/333 ## excluido   ##  gopro hero 7 silver 
+4/333 ## excluido   ##  pack gopro 7 hero black.
+5/333 ## excluido   ##  gopro hero 8 black 
+6/333 ## excluido   ##  funda acuatica gopro 9/10/11/12/13
+7/333 ## excluido   ##  camara ultracompacta gopro hero4 session
+8/333 ## excluido   ##  camara ultracompacta gopro hero3
+9/333 --precio bajo --  20,00 alquiler cámara gopro hero 10
+10/333 ## excluido   ##  go pro max 360°
+11/333 ## excluido   ##  gopro hero 7 silver
+12/333 ## excluido   ##  gopro hero 3
+13/333 ## excluido   ##  gopro hero3+
+14/333 ## excluido   ##  go pro hero 3
+15/333 ## excluido   ##  mascotas
+16/333 ## excluido   ##  coche teledirigido wltoys 959b
+17/333 ## excluido   ##  cómics 
+18/333 ## excluido   ##  camara go pro hero 11 black 5.3k 197994
+19/333 ## excluido   ##  gopro hero 3
+20/333 ## excluido   ##  camara ultracompacta gopro hero13 black
+21/333 ## excluido   ##  cargador camara gopro gopro
+22/333 ## excluido   ##  camara ultracompacta gopro hero8
+23/333 ## excluido   ##  camara ultracompacta gopro hero11
+24/333 ## excluido   ##  gopro hero 7 black
+25/333 ## excluido   ##  gopro 4
+26/333 ## excluido   ##  soporte pecho gopro
+27/333 ## excluido   ##  gopro hero+
+28/333 ## excluido   ##  camara ultracompacta gopro hero3
+29/333 ## excluido   ##  cámara deportiva gopro hero4
+30/333 ## excluido   ##  cámara deportiva gopro hero4
+31/333 ## excluido   ##  cámara deportiva gopro hero4
+32/333 ## excluido   ##  cámara deportiva gopro hero4
+           id  ...                                                url
+0  1085625687  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+
+[1 rows x 6 columns]
+20250126
+gopro 10
+good
+csv guardado

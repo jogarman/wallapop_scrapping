@@ -1,0 +1,83 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2012&longitude=-3.69196&latitude=40.41956&distance=60000&condition=new
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/505 ++ guardado   ++ gopro hero 12
+1/505 ## excluido   ##  caja almacenamiento gopro
+2/505 ++ guardado   ++ gopro hero 12 black
+3/505 ## excluido   ##  gopro cámara 
+4/505 ## excluido   ##  floaty gopro 9/10/11/12
+5/505 ## excluido   ##  accesorios gopro 
+6/505 ## excluido   ##  ⭐️accesorios insta360 x3, x4,x2,rs, gopro etc⭐️
+7/505 ## excluido   ##  estuche / caja almacenamiento gopro
+8/505 ## excluido   ##  estuche gopro
+9/505 ## excluido   ##  tripode gopro shorty
+10/505 ## excluido   ##  cámara gopro 4k 
+11/505 ## excluido   ##  funda + film protector gopro 9 10 11 12
+12/505 ## excluido   ##  arrancador de batería minibatt st 12.000 mah
+13/505 ++ guardado   ++ ⚠️gopro hero 12 naked nueva
+14/505 ## excluido   ##  funda impermeable +dock + filtros gopro 9 10 11 12
+15/505 ## excluido   ##  modulo lente max lens mod 2.0
+16/505 ## excluido   ##  soporte gopro pato
+17/505 ## excluido   ##  caja gopro almacenamiento 
+18/505 ## excluido   ##  funda silicona gopro 9/10/11/12/13
+19/505 ## excluido   ##  cámara de foto gopro
+20/505 ++ guardado   ++ gopro hero 12
+21/505 ## excluido   ##  accesorios insta 360 x2 x3 x4 gopro
+22/505 ## excluido   ##  gopro xp40  4k ultra hd
+23/505 ## excluido   ##  ⚠️gopro hero 11 naked nueva
+24/505 ## excluido   ##  ⭐️accesorios insta360 x3, x4,x2,rs, gopro etc⭐️
+25/505 ## excluido   ##  funda de silicona para gopro hero 9, 10, 11, 12 
+26/505 --precio bajo --  22,00 estuche gopro hero 9 / 10 / 11 / 12 / 13 con todo
+27/505 ## excluido   ##  volta gopro 
+28/505 ## excluido   ##  funda impermeable gopro 12
+29/505 ## excluido   ##  accesorio correa montaje casco cámara gopro
+30/505 ## excluido   ##  cámara yi 4k 
+31/505 --precio bajo --  20,00 soporte camara accion gopro hero 12 11 10 9
+32/505 ## excluido   ##  cámara cbx 4k - 32gb conexión wi-fi (tipo go-pro)
+33/505 ## excluido   ##  bolsa para cámara
+34/505 ## excluido   ##  bicicleta lapierre pulsium sat 8.0 nueva
+35/505 ## excluido   ##  accesorios para cámara de acción. 
+36/505 ## excluido   ##  gimbal isteady pro 3
+37/505 ## excluido   ##  yi camara de accion 4k con carcasa sumergible
+38/505 ## excluido   ##  gopro 10 black
+39/505 ## excluido   ##  funda protectora gopro hero 2024
+40/505 ## excluido   ##  trípode  gopro 3 way grip 2.0 tres formas brazo pl
+41/505 ## excluido   ##  lote personalizado gopro jose luis
+42/505 ## excluido   ##  arnes pecho gopro
+43/505 ## excluido   ##  lote cajas almacenamiento gopro para pablo
+44/505 ## excluido   ##  estabilizador de smartphone ó cámara video/fotogra
+45/505 ## excluido   ##  gopro hero 8 black3
+46/505 ## excluido   ##  caja almacenamiento gopro 10 para rocio
+47/505 ## excluido   ##  arnés para perros gopro
+48/505 ## excluido   ##  arnés pecho para gopro 
+49/505 ## excluido   ##  soporte cabeza gopro
+50/505 ## excluido   ##  soporte muñeca para gopro
+51/505 ## excluido   ##  gopro 13 black
+52/505 ## excluido   ##  accesorios gopro
+           id  ...                                                url
+0  1095476347  ...  https://es.wallapop.com/item/gopro-hero-12-109...
+1  1094196062  ...  https://es.wallapop.com/item/gopro-hero-12-bla...
+2  1081465646  ...  https://es.wallapop.com/item/gopro-12-naked-10...
+3  1050151212  ...  https://es.wallapop.com/item/gopro-hero-12-105...
+
+[4 rows x 6 columns]
+20250130
+gopro 12
+new
+csv guardado

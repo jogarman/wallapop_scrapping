@@ -1,0 +1,61 @@
+https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2010&longitude=-3.69196&latitude=40.41956&distance=60000&condition=good
+click: boton_ver_mas
+del df error
+scroll 1
+scroll 2
+scroll 3
+scroll 4
+scroll 5
+scroll 6
+scroll 7
+scroll 8
+scroll 9
+scroll 10
+scroll 11
+scroll 12
+scroll 13
+scroll 14
+scroll 15
+Extrayendo y añadiendo los datos...
+0/336 ## excluido   ##  camara ultracompacta gopro hero10
+1/336 ## excluido   ##  camara ultracompacta gopro hero3
+2/336 ++ guardado   ++ gopro hero 10 black
+3/336 ## excluido   ##  camara ultracompacta gopro hero8 black
+4/336 ## excluido   ##  gopro hero 7 silver 
+5/336 ## excluido   ##  pack gopro 7 hero black.
+6/336 ## excluido   ##  gopro hero 8 black 
+7/336 ## excluido   ##  camara ultracompacta gopro hero4 session
+8/336 --precio bajo --  20,00 alquiler cámara gopro hero 10
+9/336 ## excluido   ##  camara ultracompacta gopro hero8
+10/336 ## excluido   ##  go pro max 360°
+11/336 ## excluido   ##  gopro hero 7 silver
+12/336 ## excluido   ##  gopro hero session4
+13/336 ## excluido   ##  neewer kit de accesorios para cámara de acción 50 en 1
+14/336 ## excluido   ##  gopro hero 3
+15/336 ## excluido   ##  gopro hero3+
+16/336 ## excluido   ##  go pro hero 3
+17/336 ## excluido   ##  coche teledirigido wltoys 959b
+18/336 ## excluido   ##  cómics 
+19/336 ## excluido   ##  videocamara gopro hero 5 4k black 195706
+20/336 ## excluido   ##  gopro 7 silver 
+21/336 ## excluido   ##  2 gopro 3+ con mando a distancia
+22/336 ## excluido   ##  cámara deportiva gopro hero4
+23/336 ## excluido   ##  camara gopro hero 12 black + kit accesorios 201874
+24/336 ## excluido   ##  gopro hero 5 black
+25/336 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+26/336 ## excluido   ##  cámara deportiva gopro hero4
+27/336 ## excluido   ##  camara go pro hero 11 black 5.3k 191926
+28/336 ## excluido   ##  cámara deportiva gopro hero4
+29/336 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+30/336 ## excluido   ##  videocámaras chollo gopro hero 8 black + funda protectora o
+31/336 ## excluido   ##  chesty gopro para perro o niño
+32/336 ## excluido   ##  gopro hero 4 silver
+33/336 ## excluido   ##  cámara deportiva gopro 7 white + carcasa
+           id  ...                                                url
+0  1085625687  ...  https://es.wallapop.com/item/gopro-hero-10-bla...
+
+[1 rows x 6 columns]
+20250206
+gopro 10
+good
+csv guardado
