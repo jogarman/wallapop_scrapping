@@ -5,7 +5,7 @@ README.md
 Dashboard wallapop.png
 Dockerfile
 scrapping_outputs
-dist 
+dist
 build
 basura
 1_*
@@ -20,6 +20,8 @@ basura
 **/.venv
 **/.classpath
 **/.dockerignore
+
+# podria copiar .env y no tendria que instalar nada
 **/.env
 **/.git
 **/.gitignore

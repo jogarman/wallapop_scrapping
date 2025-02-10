@@ -47,12 +47,15 @@ def item_reservado(elem):
         return False
 
 
-###############################
-###### xxxxx_scraper.py #######
-###############################
+############################### 
+###### xxxxx_scraper.py ####### 
+############################### 
 def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo):
     print("def run_wallascrap...")
     python_executable = os.path.join('..', '.env', 'Scripts', 'python.exe')
+    if not os.path.exists(python_executable):
+        print(f"Error: El ejecutable de Python no se encuentra en {python_executable}")
+        return
     command = [
         python_executable, '01_wallascrap.py',
         '--item_name', item_name,
@@ -63,10 +66,10 @@ def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo):
     ]
     print("command: ", command)
     result = subprocess.run(command, capture_output=True, text=True)
-    # Mostrar la salida en el widget de texto
-    print(result.stdout)
+    print("stdout: ", result.stdout)
     if result.stderr:
-        print(result.stderr)
+        print("stderr: ", result.stderr)
+
 def convertir_ipynb_en_py(nombre_jupiter):
     temp_file = nombre_jupiter.replace(".ipynb", "_temp.py")
     if not os.path.exists(temp_file):
@@ -94,10 +97,6 @@ def borrar_temp(nombre_jupiter):
         print(f"{temp_file} ha sido borrado")
     else:
         print(f"{temp_file} no existe")
-
-
-
-
 
 ciudades_espana = {
     "Madrid": [-3.7003454, 40.4166909],
