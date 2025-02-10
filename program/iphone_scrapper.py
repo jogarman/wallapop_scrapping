@@ -56,6 +56,4 @@ run("02_join_tables_iphone.ipynb")
 run("03_feature_engineering_iphone.ipynb")
 run("04_download_description.ipynb")
 run("04_download_description.ipynb")
-run("05_get_data_from_comments.ipynb")
-
-
+run("05_get_data_from_comments.ipynb") 

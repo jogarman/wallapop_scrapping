@@ -21,7 +21,7 @@ def run_01_scrapper():
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
-    """estado = 'good'
+    estado = 'good'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
     item_name = 'gopro 11'
@@ -55,7 +55,7 @@ def run_01_scrapper():
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'good'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)"""
+    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
 ######################################
 #####        02_join_tables      #####
@@ -69,5 +69,5 @@ def run(program_ipynb_ini):
 
 
 run_01_scrapper()
-run("02_join_tables_iphone.ipynb")
-run("03_feature_engineering_iphone.ipynb")
+run("02_join_tables_gopro.ipynb")
+run("03_feature_engineering_gopro.ipynb")

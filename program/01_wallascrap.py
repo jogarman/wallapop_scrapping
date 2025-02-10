@@ -104,10 +104,17 @@ if type(cadenas_buscadas) is not tuple:
     print("cadenas_buscadas no es tupla")
 if type(estado) is not str:
     print("estado no es str") 
-
+    
 # %%
-#Abre la venana
-driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+# Abre la ventana en modo headless
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')
+options.add_argument('--disable-gpu')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+options.add_argument('--enable-unsafe-webgl')
+
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 
 ele_1 = elemento_a_buscar.split()[0]
 ele_2 = elemento_a_buscar.split()[1]
