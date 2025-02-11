@@ -14,15 +14,12 @@ basura
 4_*
 5_*
 6_*
+volumen_host
+.env
 
 **/.DS_Store
 **/__pycache__
-**/.venv
 **/.classpath
-**/.dockerignore
-
-# podria copiar .env y no tendria que instalar nada
-**/.env
 **/.git
 **/.gitignore
 **/.project

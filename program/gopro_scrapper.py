@@ -12,7 +12,7 @@ from utils import convertir_ipynb_en_py, ejecutar_py, run_wallascrap, borrar_tem
 #############################################
 
 # 'new', 'as_good_as_new', 'good'
-def run_01_scrapper():
+def run_01_scrapper_gopro():
     item_name = 'gopro 10'
     municipio = 'Madrid'
     estado = 'new'
@@ -68,6 +68,6 @@ def run(program_ipynb_ini):
     borrar_temp(program_ipynb_temp)
 
 
-run_01_scrapper()
+run_01_scrapper_gopro()
 run("02_join_tables_gopro.ipynb")
 run("03_feature_engineering_gopro.ipynb")
