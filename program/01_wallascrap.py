@@ -5,7 +5,7 @@ import numpy as np
 from datetime import datetime
 import re
 import locale
-import pyautogui
+# import pyautogui
 import os
 
 from utils import *
@@ -13,7 +13,7 @@ from utils import *
 import selenium
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.chrome import ChromeDriverManager # type: ignore
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -150,16 +150,10 @@ boton_ver_mas = WebDriverWait(driver, 6).until(
     EC.element_to_be_clickable((By.CSS_SELECTOR, "#btn-load-more")))
 boton_ver_mas.click()
 time.sleep(2)
-# button = WebDriverWait(driver, 6).until(
-#     EC.element_to_be_clickable((By.XPATH, "//walla-button[contains(@class, 'w-100')]"))
 
 # %%
 # Creación de la tabla con las columnas que buscamos
-try:
-    del df
-except NameError:
-    print("del df error")
-    pass
+
 columnas = ['id', 'nombre', 'precio', 'estado', 'reservado', 'url']
 df = pd.DataFrame(columns=columnas)
 
