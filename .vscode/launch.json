@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Ejecutar gopro_scrapper",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/gopro_scrapper.py",
+            "pythonPath": "${workspaceFolder}/.env/Scripts/python.exe",  // O .env/bin/python para Linux/macOS
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Ejecutar iphone_scrapper",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/iphone_scrapper.py",
+            "pythonPath": "${workspaceFolder}/.env/Scripts/python.exe",  // O .env/bin/python para Linux/macOS
+            "console": "integratedTerminal"
+        }
+    ]
+}
+

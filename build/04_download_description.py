@@ -26,11 +26,11 @@ elemento_a_buscar = "iphone" # para guardar el archivo   <--------
 #iphone = int((elemento_a_buscar).split()[1]) # 12, 14 o 15
 
 
-# In[15]:
+# In[ ]:
 
 
 # Cargo archivo
-carpeta = "../3_feature_engineering"
+carpeta = "../data/3_feature_engineering"
 fecha = datetime.now().strftime("%Y%m%d")
 #fecha = "20250117"
 archivo = carpeta + '/' + elemento_a_buscar.split()[0] + '_' + fecha + '.xlsx'

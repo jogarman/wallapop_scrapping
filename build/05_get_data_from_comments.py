@@ -11,12 +11,12 @@ import re
 from datetime import datetime
 
 
-# In[2]:
+# In[ ]:
 
 
 elemento_a_buscar = "iphone"
 
-carpeta = "../4_download_description"
+carpeta = "../data/4_download_description"
 fecha = datetime.now().strftime("%Y%m%d")
 #fecha = "20250117"
 

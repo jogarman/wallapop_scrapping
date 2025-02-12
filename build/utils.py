@@ -70,7 +70,7 @@ def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo):
     if result.stderr:
         print("stderr: ", result.stderr)
 
-def convertir_ipynb_en_py(nombre_jupiter):
+def convertir_ipynb_en_py(nombre_jupiter, first_bit = 1):
     temp_file = nombre_jupiter.replace(".ipynb", "_temp.py")
     if not os.path.exists(temp_file):
         try:
@@ -83,6 +83,10 @@ def convertir_ipynb_en_py(nombre_jupiter):
                 f.write(python_script)
             print(f"{temp_file} ha sido creado.")
         except Exception as e:
+            if first_bit == 1:
+                print(f"Error al convertir {nombre_jupiter}")
+                print("Reintentando...")
+                convertir_ipynb_en_py(nombre_jupiter, first_bit = 0) # intenta de nuevo si falla
             print(f"Error al convertir {nombre_jupiter}: {e}")
     else:
         print(f"{temp_file} no se crea porque ya existe.")

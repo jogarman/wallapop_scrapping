@@ -151,10 +151,10 @@ if producto == "iphone":
     df
 
 
-# In[15]:
+# In[ ]:
 
 
-carpeta = "../2_datos_por_fecha"
+carpeta = "../data/2_datos_por_fecha"
 nombre_archivo_pkl = carpeta + '/' + producto + '_' + fecha + '.csv'
 df.to_csv(nombre_archivo_pkl)
 print(nombre_archivo_pkl)

@@ -13,10 +13,10 @@ import re
 from datetime import datetime
 
 
-# In[2]:
+# In[ ]:
 
 
-carpeta = "../2_datos_por_fecha"
+carpeta = "../data/2_datos_por_fecha"
 fecha = datetime.now().strftime("%Y%m%d")
 #fecha = "20250102"
 

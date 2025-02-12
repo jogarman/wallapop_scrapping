@@ -19,7 +19,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-# In[2]:
+# In[ ]:
 
 
 def join_and_load_all_csv(folder):
@@ -38,7 +38,7 @@ def join_and_load_all_csv(folder):
     combined_df['precio'] = combined_df['precio'].replace(',', '.', regex=True).astype(float)
     return combined_df
 
-folder_path = "../5_data_from_comments/"
+folder_path = "../data/5_data_from_comments/"
 df = join_and_load_all_csv(folder_path)
 df.head(1)
 
