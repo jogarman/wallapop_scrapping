@@ -7,7 +7,7 @@
 # a un archivo que no esté en la carpeta raiz del entorno
 # de trabajo
 
-
+SHELL := /c/Program\ Files/Git/usr/bin/bash.exe
 folder_with_pys = build
 folder_with_ipynbs = src
 
