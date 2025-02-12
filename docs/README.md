@@ -3,7 +3,14 @@
 ## Descripción
 Este proyecto recopila información y precios de Wallapop. Está optimizado para iphones y en menor medida gopros. Las pruebas han sido hechas con los modelos de iPhone 14, 15 y 16.
 
+# Proceso:
+-**pip install -t requirements**
+-**Archivos jupiter:** Para hacer los scripts que extraen y modifican los datos. Los jupiters son para pruebas
+-**Makefile convert:** Convierte los jupiters en py en la carpeta build
+-**Makefile docker_build:** Crea la imagen de docker
+-**makefile docker_run:** Instancia el contenedor y lo corre
 
+# Datos obtenidos:
 El archivo iphones tableau/wallapop.twb tiene algunas estadisticas interesantes. No se mejora por que carezco de lincencia de Tableu. El Dashboard mostrado a continuación funciona de la siguiente manera:
 - El color y el tamaño indica el estado de la batería, siendo 0 si no tiene estado.
 - Se muestran box-plot con los rangos intercuartilicos para detectar outlayers
@@ -13,11 +20,17 @@ El archivo iphones tableau/wallapop.twb tiene algunas estadisticas interesantes.
 ![image](https://github.com/user-attachments/assets/164ccd0f-47cc-45d4-9220-2066ed423a38)
 
 ## Makefile
-convert- prepara la carpeta build desde src
-docker_build -por probar
-docker_run -por configurar
-clean - elimina /build
-git -sube todos los cambios a git
+-convert- prepara la carpeta build desde src
+-docker_build -por probar
+-docker_run -por configurar
+-clean - elimina /build
+-git -sube todos los cambios a git
+
+# Necesitas:
+- Bash
+- Makefile
+- Python 3.11.9
+- Requirements.txt
 
 ## Problemas
 Los archivos principales gopro_scrapper.py y iphone_scrapper.py deben ejecutarse **SIEMPRE** moviendo el pwd a la carpeta build y haciendo "python gopro_scrapper.py"
