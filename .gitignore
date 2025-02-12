@@ -1,9 +1,0 @@
-.env
-scrapping_outputs/
-**__pycache__/
-basura
-continuar
-.gitignore
-build
-volumen_host
-.*
