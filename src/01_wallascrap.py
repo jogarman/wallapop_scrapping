@@ -3,23 +3,23 @@ import time
 import pandas as pd
 import numpy as np
 from datetime import datetime
-import re
-import locale
+#import re
+#import locale
 # import pyautogui
 import os
 
-from utils import *
+from utils.utils import *
 
-import selenium
+#import selenium
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager # type: ignore
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.keys import Keys
-from bs4 import BeautifulSoup
-from selenium.webdriver.common.action_chains import ActionChains
+#from selenium.webdriver.common.keys import Keys
+#from bs4 import BeautifulSoup
+#from selenium.webdriver.common.action_chains import ActionChains
 
 # %% [markdown]
 # Define: ```Elemento a buscar``` ```Estado``` ```distancia``` ```n_scrolls_cada_vez```
@@ -245,7 +245,9 @@ print(hoy_formateada)
 print(elemento_a_buscar)
 print(estado)
 nombre_archivo_pkl = hoy_formateada + '_' + elemento_a_buscar + '_' + estado
-df.to_csv(carpeta + '/' + nombre_archivo_pkl + '.csv')
+if not os.path.exists(carpeta):
+    os.makedirs(carpeta)
+df.to_csv(os.path.join(carpeta, nombre_archivo_pkl + '.csv'))
 
 # %%
 try:

@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from utils import ciudades_espana
-import sys
+from utils.utils import ciudades_espana
 import subprocess
 import os
 

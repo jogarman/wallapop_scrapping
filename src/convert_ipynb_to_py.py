@@ -2,7 +2,8 @@ import os
 import re
 import shutil
 import filecmp
-from utils import convertir_ipynb_en_py, Color as c
+from utils.utils import Color as c
+from utils.convertir_ipynb_en_py import convertir_ipynb_en_py
 import glob
 
 def print_convertido(file):
@@ -23,6 +24,9 @@ def convertir_archivos_ipynb_a_py(carpeta_origen, carpeta_destino, excluyentes):
         os.makedirs(carpeta_destino)
 
     for root, dirs, files in os.walk(carpeta_origen):
+        # Exclude the utils directory from processing
+        if "utils" in dirs:
+            dirs.remove("utils")
         for file in files:
             if file.endswith(".ipynb") and file != os.path.basename(__file__):
                 ruta_completa = os.path.join(root, file)
@@ -53,6 +57,9 @@ def convertir_archivos_ipynb_a_py(carpeta_origen, carpeta_destino, excluyentes):
 
     # Copiar archivos .py a la carpeta de destino
     for root, dirs, files in os.walk(carpeta_origen):
+        # Exclude the utils directory from processing
+        if "utils" in dirs:
+            dirs.remove("utils")
         for file in files:
             if file.endswith(".py") and file != os.path.basename(__file__):
                 ruta_completa = os.path.join(root, file)
@@ -91,15 +98,23 @@ def eliminar_posibles_archivos_temp(carpeta):
         except Exception as e:
             print(f"No se pudo eliminar el archivo {archivo}. Error: {e}")
 
+def copiar_carpeta_utils(carpeta_destino):
+    origen = os.path.join(os.path.dirname(os.path.abspath(__file__)), "utils")
+    destino = os.path.join(carpeta_destino, "utils")
+    if os.path.exists(destino):
+        shutil.rmtree(destino)
+    shutil.copytree(origen, destino)
+    print(f"{c.VERDE}Copiada carpeta utils a {destino}{c.RESET}")
+
 if __name__ == "__main__":
     carpeta_origen = os.path.dirname(os.path.abspath(__file__))
     carpeta_destino = os.path.join(carpeta_origen, "../build")
     excluyentes = [
-        r"^01_.\%.ipynb",  # Excluir archivos que empiezan por 01_
-        # Agrega más patrones de exclusión aquí
+        r"^01_.*\.ipynb",
         "front.py"
     ]
 
     eliminar_posibles_archivos_temp(carpeta_origen)
     convertir_archivos_ipynb_a_py(carpeta_origen, carpeta_destino, excluyentes)
     eliminar_posibles_archivos_temp(carpeta_origen)
+    copiar_carpeta_utils(carpeta_destino)

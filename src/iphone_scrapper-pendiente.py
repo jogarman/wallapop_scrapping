@@ -1,7 +1,8 @@
 # Este código solo ejecuta reiteradas veces 01_wallascrap.py con los distintos parametros 
 # para IPHONE 14 15 y 16
 
-from utils import convertir_ipynb_en_py, ejecutar_py, run_wallascrap, borrar_temp
+#pendiente
+from utils.utils import convertir_ipynb_en_py, ejecutar_py, run_wallascrap, borrar_temp
 
 # 'new', 'as_good_as_new', 'good'
 def run_01_scrapper():
@@ -50,7 +51,7 @@ def run(program_ipynb_ini):
     ejecutar_py(program_ipynb_temp)
     borrar_temp(program_ipynb_temp)
 
-
+#pendiente de poner como en gopro
 run_01_scrapper()
 run("02_join_tables_iphone.ipynb")
 run("03_feature_engineering_iphone.ipynb")

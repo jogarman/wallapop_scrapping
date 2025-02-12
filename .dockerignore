@@ -1,21 +1,10 @@
 # Include any files or directories that you don't want to be copied to your
 
-LICENSE
-README.md
-Dashboard wallapop.png
+docs
 Dockerfile
-scrapping_outputs
 dist
-build
-basura
-1_*
-2_*
-3_*
-4_*
-5_*
-6_*
 volumen_host
-.env
+.env*
 
 **/.DS_Store
 **/__pycache__

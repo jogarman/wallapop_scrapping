@@ -8,8 +8,7 @@ WORKDIR /app
 
 # Copy the current directory contents into the container at /app
 COPY . /app
-COPY requirements.txt .
-RUN pip install --upgrade pip && pip install -r requirements.txt
+RUN pip install --upgrade pip && pip install -r requirements_docker.txt
 
 # Create the required directories
 RUN mkdir -p \
@@ -20,4 +19,6 @@ RUN mkdir -p \
 	# /app/5_data_from_comments
 
 # Run app.py when the container launches
-CMD ["python", "/app/program/gopro_scrapper.py"]
+
+WORKDIR /app/build
+CMD ["python", "gopro_scrapper.py"]
