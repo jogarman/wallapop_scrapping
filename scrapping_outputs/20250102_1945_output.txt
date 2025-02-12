@@ -1,2 +1,0 @@
-https://es.wallapop.com/app/search?filters_source=quick_filters&keywords=gopro%2013&longitude=-3.69196&latitude=40.41956&distance=2000000&condition=new
-click: boton_ver_mas
