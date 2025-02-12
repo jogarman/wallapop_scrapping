@@ -31,7 +31,7 @@ ifndef msg
 	@exit 1
 endif
 	git config --global user.email "122149837+jogarman@users.noreply.github.com"
-	git config --global user.name "jogarman"
+		git config --global user.name "jogarman"
 	@git add .
 	@git commit -m "$(msg)"
 	@git push
