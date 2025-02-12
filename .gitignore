@@ -6,3 +6,4 @@ continuar
 .gitignore
 build
 volumen_host
+.*

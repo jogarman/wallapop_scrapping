@@ -11,10 +11,6 @@
 folder_with_pys = build
 folder_with_ipynbs = src
 
-COMMIT_MSG = $(filter-out $@,$(MAKECMDGOALS))
-
-
-
 convert:
 	@python $(folder_with_ipynbs)/convert_ipynb_to_py.py
 
@@ -31,10 +27,13 @@ clean:
 
 git:
 ifndef msg
+	@echo "Usage: make git msg=\"commit message\""
 	@exit 1
 endif
+	git config --global user.email "122149837+jogarman@users.noreply.github.com"
+	git config --global user.name "jogarman"
 	@git add .
-	@git commit -m "$(COMMIT_MSG)"
+	@git commit -m "$(msg)"
 	@git push
 
 .PHONY: gopro iphone convert docker_build docker_run clean git
