@@ -1,11 +1,11 @@
 # Este código solo ejecuta reiteradas veces 01_wallascrap.py con los distintos parametros 
 # para IPHONE 14 15 y 16
 
-#pendiente
-from utils.utils import convertir_ipynb_en_py, ejecutar_py, run_wallascrap, borrar_temp
+from utils.run_py import run_py
+from utils.run_wallascrap import run_wallascrap
 
 # 'new', 'as_good_as_new', 'good'
-def run_01_scrapper():
+def run_01_scrapper_iphone():
     item_name = 'iphone 14'
     municipio = 'Madrid'
     estado = 'new'
@@ -44,17 +44,9 @@ def run_01_scrapper():
 ######################################
 
 
-def run(program_ipynb_ini):
-    print("running: ", program_ipynb_ini)
-    program_ipynb_temp = program_ipynb_ini.replace(".ipynb", "_temp.py")
-    convertir_ipynb_en_py(program_ipynb_ini)
-    ejecutar_py(program_ipynb_temp)
-    borrar_temp(program_ipynb_temp)
-
-#pendiente de poner como en gopro
-run_01_scrapper()
-run("02_join_tables_iphone.ipynb")
-run("03_feature_engineering_iphone.ipynb")
-run("04_download_description.ipynb")
-run("04_download_description.ipynb")
-run("05_get_data_from_comments.ipynb") 
+run_01_scrapper_iphone()
+run_py("02_join_tables_iphone.py")
+run_py("03_feature_engineering_iphone.py")
+run_py("04_download_description.py")
+run_py("04_download_description.py")
+run_py("05_get_data_from_comments.py") 

@@ -12,7 +12,9 @@ SHELL := /usr/bin/bash
 
 folder_with_pys = build
 folder_with_ipynbs = src
-container_name = i_gopro_v0.0
+version = v0.1
+image_name = i_gopro_$(version)
+container_name = c_gopro_$(version)
 
 COMMIT_MSG = $(filter-out $@,$(MAKECMDGOALS))
 
@@ -20,17 +22,10 @@ build:
 	python $(folder_with_ipynbs)/convert_ipynb_to_py.py
 
 # Tarea para Docker build
-docker_build:
-	docker build -t $(container_name) .
-
-docker_run:
-	@echo "No configurado"
-	docker run -v "C:\Users\ACER\Desktop\Proyectos python\wallapop_scrapping\ \
-	volumen_host:/app/data/3_feature_engineering" $(container_name)
-
-
-clean:
-	@rm -rf build
+build_docker:
+	docker build -t $(image_name) .
+run_docker:
+	docker run --name $(container_name) -v "C:/Users/ACER/Desktop/Proyectos python/wallapop_scrapping/volumen_host:/app/data/3_feature_engineering" $(image_name)
 
 git:
 ifndef msg
@@ -42,6 +37,9 @@ endif
 	@git add .
 	@git commit -m "$(msg)"
 	@git push
+
+clean:
+	@rm -rf build
 
 .PHONY: *
 # Evitar errores por argumentos posicionales

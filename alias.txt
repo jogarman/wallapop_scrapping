@@ -2,8 +2,6 @@ alias activar_env_build='deactivate && source .env_build/Scripts/activate'
 alias activar_env='deactivate && source .env/Scripts/activate'
 
 cosas que hacer:
-Conseguir hacer el contenedor. el problema es que no consigo hacer correctamente freeze
-
-OBSERVA: ---..\.env\Scripts\python.exe---- ESA NO ES LA DIRECCION DEL entorno
-linea 10 de run_wallascrap.py
-python_executable = os.path.join('..', '.env', 'Scripts', 'python.exe')
+preguntar chargpt:
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: 
+This version of ChromeDriver only supports Chrome version 114

@@ -1,16 +1,14 @@
 import os
 import subprocess
-
+import sys
 
 ############################### 
 ###### xxxxx_scraper.py ####### 
 ############################### 
-def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo, env=None):
+def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo):
     print("def run_wallascrap...")
-    python_executable = os.path.join('..', '.env', 'Scripts', 'python.exe')
-    if not os.path.exists(python_executable):
-        print(f"Error: El ejecutable de Python no se encuentra en {python_executable}")
-        return
+    # Use the current interpreter from the activated virtualenv
+    python_executable = sys.executable
     command = [
         python_executable, '01_wallascrap.py',
         '--item_name', item_name,
@@ -20,7 +18,8 @@ def run_wallascrap(item_name, municipio, estado, distancia, precio_minimo, env=N
         '--precio_minimo', str(precio_minimo)
     ]
     print("command: ", command)
-    result = subprocess.run(command, capture_output=True, text=True, env=env)
+    # Use the same environment as the parent process (virtualenv activated)
+    result = subprocess.run(command, capture_output=True, text=True, env=os.environ)
     print("stdout: ", result.stdout)
     if result.stderr:
         print("stderr: ", result.stderr)

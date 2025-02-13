@@ -1,7 +1,9 @@
 # Use the official Python image from the Docker Hub
 FROM python:3.11.9
 
-RUN apt-get update && apt-get install -y build-essential
+RUN apt-get update 
+RUN apt-get install -y build-essential
+RUN apt-get install -y --no-install-recommends chromium
 
 # Set the working directory
 WORKDIR /app
@@ -12,9 +14,9 @@ RUN pip install --upgrade pip && pip install -r requirements_docker.txt
 
 # Create the required directories
 RUN mkdir -p \
-	/app/1_datos_raw \
-	/app/2_datos_por_fecha \
-	/app/3_feature_engineering
+	/app/data/1_datos_raw \
+	/app/data/2_datos_por_fecha \
+	/app/data/3_feature_engineering
 	# /app/4_download_description \
 	# /app/5_data_from_comments
 

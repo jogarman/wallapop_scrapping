@@ -4,7 +4,7 @@
 # para gopro 10, 11 y 12
 # luego hace las transformaciones necesarias
 
-from utils.ejecutar_py import ejecutar_py
+from utils.run_py import run_py
 from utils.run_wallascrap import run_wallascrap
 
 #############################################
@@ -60,17 +60,8 @@ def run_01_scrapper_gopro():
 ######################################
 #####        02_join_tables      #####
 ######################################
-"""
-def run(program_ipynb_ini):
-    program_ipynb_temp = program_ipynb_ini.replace(".ipynb", "_temp.py")
-    convertir_ipynb_en_py(program_ipynb_ini)
-    ejecutar_py(program_ipynb_temp)
-    borrar_temp(program_ipynb_temp)
-"""
 
 run_01_scrapper_gopro()
-ejecutar_py("02_join_tables_gopro.py")
-ejecutar_py("03_feature_engineering_gopro.py")
+run_py("02_join_tables_gopro.py")
+run_py("03_feature_engineering_gopro.py")
 
-"""run("02_join_tables_gopro.ipynb")
-run("03_feature_engineering_gopro.ipynb")"""
