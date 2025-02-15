@@ -43,13 +43,6 @@ def item_reservado(elem):
         return False
 
 
-def borrar_temp(nombre_jupiter):
-    temp_file = nombre_jupiter.replace(".ipynb", "_temp.py")
-    if os.path.exists(temp_file):
-        os.remove(temp_file)
-        print(f"{temp_file} ha sido borrado")
-    else:
-        print(f"{temp_file} no existe")
 
 ciudades_espana = {
     "Madrid": [-3.7003454, 40.4166909],

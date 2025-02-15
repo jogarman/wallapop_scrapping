@@ -4,8 +4,11 @@
 # para gopro 10, 11 y 12
 # luego hace las transformaciones necesarias
 
-from utils.run_py import run_py
 from utils.run_wallascrap import run_wallascrap
+from utils.process_and_run_jupiter import process_and_run_jupiter
+
+#test
+#from utils.convertir_ipynb_en_py import *
 
 #############################################
 ##### 01_wallascrap gopros 10, 11 y 12 ######
@@ -17,7 +20,7 @@ def run_01_scrapper_gopro():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '100'
+    """precio_minimo = '100'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
@@ -44,7 +47,7 @@ def run_01_scrapper_gopro():
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'good'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
+    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)"""
 
     item_name = 'gopro 13'
     municipio = 'Madrid'
@@ -61,7 +64,10 @@ def run_01_scrapper_gopro():
 #####        02_join_tables      #####
 ######################################
 
+
+
 run_01_scrapper_gopro()
-run_py("02_join_tables_gopro.py")
-run_py("03_feature_engineering_gopro.py")
+process_and_run_jupiter("02_join_tables_gopro.ipynb")
+process_and_run_jupiter("02_join_tables_gopro.ipynb")
+process_and_run_jupiter("03_feature_engineering_gopro.ipynbpy")
 

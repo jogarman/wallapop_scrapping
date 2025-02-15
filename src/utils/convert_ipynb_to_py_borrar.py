@@ -3,7 +3,7 @@ import re
 import shutil
 import filecmp
 from utils.utils import Color as c
-from utils.convertir_ipynb_en_py import convertir_ipynb_en_py
+from utils.convertir_ipynb_en_py import conver_ipynb_to_py
 import glob
 
 def print_convertido(file):
@@ -42,7 +42,7 @@ def convertir_archivos_ipynb_a_py(carpeta_origen, carpeta_destino, excluyentes):
 
                 if not excluir:
                     try:
-                        convertir_ipynb_en_py(ruta_completa)
+                        conver_ipynb_to_py(ruta_completa)
                         if os.path.exists(ruta_temp):
                             if os.path.exists(ruta_destino):
                                 os.remove(ruta_destino)  # Eliminar el archivo de destino si ya existe

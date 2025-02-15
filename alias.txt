@@ -3,5 +3,6 @@ alias activar_env='deactivate && source .env/Scripts/activate'
 
 cosas que hacer:
 preguntar chargpt:
-selenium.common.exceptions.SessionNotCreatedException: Message: session not created: 
-This version of ChromeDriver only supports Chrome version 114
+-programa que solo haga scrapping de gopro
+-Crear repo en github listo para descargar
+-crear la imagen y que ejecute automaticamente
