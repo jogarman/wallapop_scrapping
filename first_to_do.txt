@@ -1,0 +1,47 @@
+contraseña:
+NF%hE$NiavSw-WuN!W%@tq(2BU8w=tca
+
+###########################
+######### Crear AMI #######
+###########################
+
+# Crear una instancia de EC2 de windows
+# Acceder al grupo de seguridad y reglas de entrada. 
+# añadir protocolo RDP y mi ip
+
+
+###########################
+### Personalizar imagen ###
+###########################
+
+# descargas python 3.11.9
+curl -o python_installer.exe https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
+
+#instalas python a mano mediante interfaz grafica
+
+#instalas git
+winget install --id Git.Git -e --source winget
+
+# GIT BASH
+# guardas en el escritorio la direccion del repositorio
+cd C:\Users\administrador\Desktop
+git clone $(cat repo.txt)
+cd wallascrap
+pip install -r requirements.txt
+#### Para ver que funciona ####
+
+### Script para iniciar ###
+cd C:\Users\administrador\Desktop
+
+echo "git clone $(cat repo.txt) \n cd wallascrap \n pip install -r requirements.txt > init.sh \n cd src \n python gopro_scrapper.py \n python iphone_scrapper.py
+"
+
+
+
+#######################
+### Creas la imagen ###
+#######################
+# una vez tienes la imagen:
+cd C:\Users\{TU_USUARIO}\Desktop
+git clone $(type repo.txt)
+
