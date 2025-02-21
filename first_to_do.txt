@@ -39,16 +39,21 @@ curl -o python_installer.exe https://www.python.org/ftp/python/3.11.9/python-3.1
 # guardas en el escritorio la direccion del repositorio
 cd C:\Users\administrador\Desktop
 # creas el archivo de la repo
-echo "https://github.com/jogarman/wallapop_scrapping.git" > repo.txt
-git clone $(cat repo.txt)
+git clone https://github.com/jogarman/wallapop_scrapping.git
 cd wallascrap
-pip install -r requirements.txt
+pip install nbconvert
+pip install pandas
+pip install selenium
+no se si hay que hacerlo -> instalar chrome enterprise: https://chromeenterprise.google/intl/ALL_ALL/browser/download/thank-you/?platform=WIN64_BUNDLE&channel=stable&usagestats=0
+no se si se puede hacer antes de instalar chrome -> pip install webdriver-manager
+
+NO FUNCIONA -> pip install -r requirements.txt
 #### Para ver que funciona ####
 
 ### Script para iniciar ###
 cd C:\Users\administrador\Desktop
 
-echo "git clone $(cat repo.txt) \n cd wallascrap \n pip install -r requirements.txt > init.sh \n cd src \n python gopro_scrapper.py \n python iphone_scrapper.py
+
 "
 
 

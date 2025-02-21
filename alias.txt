@@ -1,8 +1,0 @@
-alias activar_env_build='deactivate && source .env_build/Scripts/activate'
-alias activar_env='deactivate && source .env/Scripts/activate'
-
-cosas que hacer:
-preguntar chargpt:
--programa que solo haga scrapping de gopro
--Crear repo en github listo para descargar
--crear la imagen y que ejecute automaticamente

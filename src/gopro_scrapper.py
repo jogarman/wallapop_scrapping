@@ -20,7 +20,7 @@ def run_01_scrapper_gopro():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    """precio_minimo = '100'
+    precio_minimo = '60'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
@@ -31,7 +31,7 @@ def run_01_scrapper_gopro():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '110'
+    precio_minimo = '70'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
@@ -42,18 +42,18 @@ def run_01_scrapper_gopro():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '120'
+    precio_minimo = '90'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'good'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)"""
+    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
     item_name = 'gopro 13'
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '130'
+    precio_minimo = '100'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)

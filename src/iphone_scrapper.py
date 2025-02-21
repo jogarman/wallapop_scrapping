@@ -6,7 +6,7 @@ from utils.process_and_run_jupiter import process_and_run_jupiter
 
 # 'new', 'as_good_as_new', 'good'
 def run_01_scrapper_iphone():
-    """    item_name = 'iphone 14'
+    item_name = 'iphone 14'
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
@@ -21,12 +21,12 @@ def run_01_scrapper_iphone():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '300'
+    precio_minimo = '270'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'good'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)"""
+    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
     item_name = 'iphone 16'
     municipio = 'Madrid'
