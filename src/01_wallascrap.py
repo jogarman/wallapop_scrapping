@@ -50,17 +50,16 @@ print(f"Parámetro 3: {args.estado}")
 print(f"Parámetro 4: {args.distancia}")
 print(f"Parámetro 5: {args.precio_minimo}")
 
-# Crea el txt con los outputs
+# Crea el txt con los outputs de errores
 output_folder = 'scrapping_outputs'
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
-
-# Crear archivo con el output en la carpeta 'scrapping_outputs'
 now = datetime.now()
-file_name = now.strftime("%Y%m%d_%H%M_output.txt")
+formatted_date = now.strftime("%Y%m%d_%H%M")
+item_name_formatted = args.item_name.replace(" ", "_")  
+estado_formatted = args.estado.replace(" ", "_")
+file_name = f"{formatted_date}_{item_name_formatted}_{estado_formatted}.txt"
 file_path = os.path.join(output_folder, file_name)
-
-# Redirigir sys.stdout al archivo con codificación utf-8
 sys.stdout = open(file_path, 'w', encoding='utf-8')
 
 # %%
