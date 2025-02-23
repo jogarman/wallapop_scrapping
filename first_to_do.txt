@@ -46,6 +46,7 @@ pip install pandas
 pip install selenium
 no se si hay que hacerlo -> instalar chrome enterprise: https://chromeenterprise.google/intl/ALL_ALL/browser/download/thank-you/?platform=WIN64_BUNDLE&channel=stable&usagestats=0
 no se si se puede hacer antes de instalar chrome -> pip install webdriver-manager
+pip install awscli # para interacionar con el cli de amazon para guardar en
 
 NO FUNCIONA -> pip install -r requirements.txt
 #### Para ver que funciona ####

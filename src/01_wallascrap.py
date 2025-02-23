@@ -153,7 +153,7 @@ time.sleep(2)
 # %%
 # Creación de la tabla con las columnas que buscamos
 
-columnas = ['id', 'nombre', 'precio', 'estado', 'reservado', 'url']
+columnas = ['id', 'time_scrap', 'nombre', 'precio', 'estado', 'reservado', 'url']
 df = pd.DataFrame(columns=columnas)
 
 # %%
@@ -215,10 +215,11 @@ for index, elem in enumerate(elementos):
             precio = elem.find_element(By.CSS_SELECTOR, ".ItemCard__price").text.strip()
             precio = precio.split(' ')[0]
             if es_precio_ok(precio, precio_min):
-                reservado = item_reservado(elem)  
+                reservado = item_reservado(elem)
+                time_scrap = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 # Guarda en la tabla
                 print(pos, "++ guardado   ++ " + nombre)
-                df.loc[index] = [id_articulo, nombre, precio, estado, reservado, url_articulo]
+                df.loc[index] = [id_articulo,time_scrap, nombre, precio, estado, reservado, url_articulo]
                 n_excluidos_seguidos = 0
             else:
                 print(pos, "--precio bajo -- ", precio, nombre)
