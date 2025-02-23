@@ -6,6 +6,7 @@
 
 from utils.run_wallascrap import run_wallascrap
 from utils.process_and_run_jupiter import process_and_run_jupiter
+from utils.upload_files_and_folders_to_s3 import upload_files_and_folders_to_s3
 
 #test
 #from utils.convertir_ipynb_en_py import *
@@ -70,4 +71,5 @@ run_01_scrapper_gopro()
 process_and_run_jupiter("02_join_tables_gopro.ipynb")
 process_and_run_jupiter("02_join_tables_gopro.ipynb")
 process_and_run_jupiter("03_feature_engineering_gopro.ipynbpy")
+upload_files_and_folders_to_s3()
 

@@ -3,6 +3,7 @@
 
 from utils.run_wallascrap import run_wallascrap
 from utils.process_and_run_jupiter import process_and_run_jupiter
+from utils.upload_files_and_folders_to_s3 import upload_files_and_folders_to_s3
 
 # 'new', 'as_good_as_new', 'good'
 def run_01_scrapper_iphone():
@@ -49,3 +50,4 @@ process_and_run_jupiter("02_join_tables_iphone.ipynb")
 process_and_run_jupiter("03_feature_engineering_iphone.ipynb")
 process_and_run_jupiter("04_download_description.ipynb")
 process_and_run_jupiter("05_get_data_from_comments.ipynb")
+upload_files_and_folders_to_s3()
