@@ -43,7 +43,7 @@ def run_01_scrapper_gopro():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '90'
+    precio_minimo = '80'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
@@ -54,7 +54,7 @@ def run_01_scrapper_gopro():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '100'
+    precio_minimo = '90'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
@@ -64,8 +64,6 @@ def run_01_scrapper_gopro():
 ######################################
 #####        02_join_tables      #####
 ######################################
-
-
 
 run_01_scrapper_gopro()
 process_and_run_jupiter("02_join_tables_gopro.ipynb")

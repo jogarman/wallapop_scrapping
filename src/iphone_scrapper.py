@@ -11,7 +11,7 @@ def run_01_scrapper_iphone():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '250'
+    precio_minimo = '200'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
@@ -22,7 +22,7 @@ def run_01_scrapper_iphone():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '270'
+    precio_minimo = '220'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
@@ -33,7 +33,7 @@ def run_01_scrapper_iphone():
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
-    precio_minimo = '300'
+    precio_minimo = '250'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
