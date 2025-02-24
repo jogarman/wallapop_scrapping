@@ -55,7 +55,12 @@ NO FUNCIONA -> pip install -r requirements.txt
 cd C:\Users\administrador\Desktop
 
 
-"
+######### PENDIENTE:
+-hice modificaciones en ipynb 01 y 02. Ejecutar y comprobar que funciona el join coorectamente
+# IMPLEMENTAR BUCLE PARA HACER N DEL 0 AL 9
+-necesita una columna de fecha para ir haciendo los joins
+-Productivizar =)
+
 
 
 

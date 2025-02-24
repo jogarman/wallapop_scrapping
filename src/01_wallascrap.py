@@ -3,9 +3,7 @@ import time
 import pandas as pd
 import numpy as np
 from datetime import datetime
-#import re
-#import locale
-# import pyautogui
+from utils.get_if_same_csv_exists import *
 import os
 
 from utils.utils import *
@@ -44,11 +42,12 @@ parser.add_argument('--precio_minimo', type=str, help="El quinto parámetro", re
 # Parsear los argumentos
 args = parser.parse_args()
 
-print(f"Parámetro 1: {args.item_name}")
-print(f"Parámetro 2: {args.municipio}")
-print(f"Parámetro 3: {args.estado}")
-print(f"Parámetro 4: {args.distancia}")
-print(f"Parámetro 5: {args.precio_minimo}")
+print(f"Escrapeo en curso: ")
+print(f"{args.item_name}")
+print(f"{args.municipio}")
+print(f"{args.estado}")
+print(f"{args.distancia}")
+print(f"{args.precio_minimo}")
 
 # Crea el txt con los outputs de errores
 output_folder = 'scrapping_outputs'
@@ -79,6 +78,8 @@ cadenas_buscadas = (
                     n_iphone + '.'
                     )  # la coma es para que python lo vea como una tupla
 cadenas_excluyentes = (
+                    "pantalla",
+                    "pantallas",
                     "funda",
                     "fundas",
                     "carcasa",
@@ -93,10 +94,11 @@ cadenas_excluyentes = (
 )
 
 n_excluidos_seguidos_max = 30
-n_scrolls_cada_vez = 15 
+n_scrolls_cada_vez = 25 
 
 estado = args.estado
 distancia = args.distancia # distancia en km
+municipio = args.municipio
 precio_min = int(args.precio_minimo)
 carpeta ="../data/1_datos_raw"
 if type(cadenas_buscadas) is not tuple:
@@ -152,8 +154,11 @@ time.sleep(2)
 
 # %%
 # Creación de la tabla con las columnas que buscamos
+columnas = [
+    'id', 'time_scrap', 'nombre', 'precio', 'estado', 'reservado',
+    'municipio', 'distancia', 'url_articulo'
+     ]
 
-columnas = ['id', 'time_scrap', 'nombre', 'precio', 'estado', 'reservado', 'url']
 df = pd.DataFrame(columns=columnas)
 
 # %%
@@ -202,13 +207,14 @@ print("Extrayendo y añadiendo los datos...")
 elementos = driver.find_elements(By.CSS_SELECTOR, "a.ItemCardList__item")
 total_elementos =  len(elementos)
 n_excluidos_seguidos = 0
+print(df.columns)
 for index, elem in enumerate(elementos):
     if n_excluidos_seguidos >= n_excluidos_seguidos_max:
         break
     pos = (str(index) + "/" + str(total_elementos))
     url_articulo = elem.get_attribute('href')
-    id_articulo = url_articulo.split('-')[-1]
-    if not ya_existe_articulo(id_articulo, df):
+    id = url_articulo.split('-')[-1]
+    if not ya_existe_articulo(id, df):
         nombre = elem.get_attribute('title')
         nombre = nombre.lower()
         if is_iphone_xx(nombre, n_iphone, cadenas_buscadas, cadenas_excluyentes):
@@ -219,7 +225,9 @@ for index, elem in enumerate(elementos):
                 time_scrap = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 # Guarda en la tabla
                 print(pos, "++ guardado   ++ " + nombre)
-                df.loc[index] = [id_articulo,time_scrap, nombre, precio, estado, reservado, url_articulo]
+                df.loc[index] = [
+                    id, time_scrap, nombre, precio, estado, reservado,
+                    municipio, distancia, url_articulo]
                 n_excluidos_seguidos = 0
             else:
                 print(pos, "--precio bajo -- ", precio, nombre)
@@ -227,10 +235,9 @@ for index, elem in enumerate(elementos):
             n_excluidos_seguidos = n_excluidos_seguidos + 1
             print(pos, "## excluido   ## ", nombre)
     else:
-        print(pos, "** ya existe:  ** ", nombre, id_articulo)
+        print(pos, "** ya existe:  ** ", nombre, id)
         n_excluidos_seguidos = 0
-        
-    
+
 df = df.reset_index(drop=True)
 print(df)
 
@@ -240,18 +247,22 @@ pd.set_option('display.max_colwidth', None)
 df
 
 # %%
-hoy_formateada = datetime.now().strftime("%Y%m%d")
+hoy_formateada = formatted_date.split('_')[0]
+#hoy_formateada = datetime.now().strftime("%Y%m%d")
+vez_que_busca_en_el_dia = get_if_same_csv_exists(hoy_formateada, elemento_a_buscar, estado)
 print(hoy_formateada)
+print(vez_que_busca_en_el_dia)
 print(elemento_a_buscar)
 print(estado)
-nombre_archivo_pkl = hoy_formateada + '_' + elemento_a_buscar + '_' + estado
+nombre_archivo_csv = hoy_formateada + '_' + vez_que_busca_en_el_dia + '_' \
+    + elemento_a_buscar + '_' + estado
 if not os.path.exists(carpeta):
     os.makedirs(carpeta)
-df.to_csv(os.path.join(carpeta, nombre_archivo_pkl + '.csv'))
+df.to_csv(os.path.join(carpeta, nombre_archivo_csv + '.csv'))
 
 # %%
 try:
-    df = pd.read_csv(carpeta + '/' + nombre_archivo_pkl + '.csv')
+    df = pd.read_csv(carpeta + '/' + nombre_archivo_csv + '.csv')
     print("csv guardado")
     driver.quit()
 except:
