@@ -1,4 +1,5 @@
-
+admin:
+kZ8Hnk.8o3Ky@plpPy&=%z2vOU4.liwB
 ###########################
 ######### Crear AMI #######
 ###########################
@@ -6,9 +7,9 @@
 # Crear una instancia de EC2 de windows
 # Acceder al grupo de seguridad y reglas de entrada. 
 # añadir protocolo RDP y mi ip
-# seleccionar instancia, conectar, obtener contraseña, cargar. Luego guardas la contraseña creada
-3K4$mg4k88YD!Izd!S8wXJ0e(bmOCXdJ
-    # abres escritorio remoto. extiendes las opciones. Cargas el archivo .rdp con las claves. Conectar
+# seleccionar instancia, conectar, obtener contraseña, cargar. Luego guardas la contraseña del admin creada
+
+# abres escritorio remoto. extiendes las opciones. Cargas el archivo .rdp con las claves. Conectar
 introduces la contraseña anteriormente indicada
 
 #############################################
@@ -30,7 +31,6 @@ Instalar y hacer click en siguiente a todo
 winget install --id Git.Git -e --source winget
 
 # desde hora no usas cmd, usas gitbash
-
 # descargas python 3.11.9
 curl -o python_installer.exe https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe && ./python_installer.exe #para ejecutarlo
 
@@ -46,23 +46,19 @@ no se si hay que hacerlo -> instalar chrome enterprise: https://chromeenterprise
 no se si se puede hacer antes de instalar chrome -> pip install webdriver-manager
 pip install awscli # para interacionar con el cli de amazon para guardar en
 
-NO FUNCIONA -> pip install -r requirements.txt
-#### Para ver que funciona ####
 
-### Script para iniciar ###
-cd C:\Users\administrador\Desktop
 
 
 ######### PENDIENTE:
--Lanzar de forma recurrente. Usando una lambda?
--Una instancia puede autoterminarse?
--No dejar que escrappe los comentarios que ya tiene del anterior.
+-Lanzar de forma recurrente. Usando una lambda? 
+-Una instancia puede autoterminarse? - implementar. ver más abajo
+-No dejar que escrappe los comentarios que ya tiene del anterior. Ok- Por verificar
 
+
+echo "Fin del programa: $(date)" >> scraplogs.txt
 
 #######################
 ### Creas la imagen ###
 #######################
-# una vez tienes la imagen:
-cd C:\Users\{TU_USUARIO}\Desktop
-git clone $(type repo.txt)
+
 

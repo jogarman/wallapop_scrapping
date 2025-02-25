@@ -1,0 +1,5 @@
+idioma en español
+mostrar las extensiones
+cambiar la hora
+
+mover get_repo.sh y execute_scrap.sh al escritorio
