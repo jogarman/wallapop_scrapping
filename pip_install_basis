@@ -1,8 +1,0 @@
-python -m pip install --upgrade pip
-
-
-pandas
-numpy
-selenium
-nbconvert
-webdriver-manager 
