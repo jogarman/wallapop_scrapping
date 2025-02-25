@@ -258,8 +258,8 @@ nombre_archivo_csv = hoy_formateada + '_' + vez_que_busca_en_el_dia + '_' \
     + elemento_a_buscar + '_' + estado
 if not os.path.exists(carpeta):
     os.makedirs(carpeta)
+df = df.reset_index(drop=True) # sin indice
 df.to_csv(os.path.join(carpeta, nombre_archivo_csv + '.csv'))
-
 # %%
 try:
     df = pd.read_csv(carpeta + '/' + nombre_archivo_csv + '.csv')
