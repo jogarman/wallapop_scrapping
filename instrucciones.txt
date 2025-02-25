@@ -21,9 +21,6 @@ start > administrator > sign out --- Si no se jode
 ######### PENDIENTE:
 -Lanzar de forma recurrente. Usando una lambda? 
 -Una instancia puede autoterminarse? - implementar. ver más abajo
--No dejar que escrappe los comentarios que ya tiene del anterior. Ok- Por verificar
+-Ok- Por verificar- No dejar que escrappe los comentarios que ya tiene del anterior. 
 
-
-
-'C:\Program Files\Git\usr\bin\bash.exe' 
 
