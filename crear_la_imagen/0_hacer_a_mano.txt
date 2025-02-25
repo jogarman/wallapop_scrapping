@@ -1,5 +1,9 @@
+asocia los archivos .sh con Git Bash. Abrir con... C/Programfiles/Notepad ... .exe
 idioma en español
 mostrar las extensiones
 cambiar la hora
+crea acceso directo en start de task scheduler
+crea una tarea programada para
+    -
 
 mover get_repo.sh y execute_scrap.sh al escritorio
