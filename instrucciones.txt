@@ -15,38 +15,7 @@ introduces la contraseña anteriormente indicada
 #############################################
 ### Para desconectar el escritorio remoto ###
 #############################################
-start > administrator > sign out
-
-#################################
-### Server Manager en windows ###
-#################################
-No se si es necesario
-Instalar y hacer click en siguiente a todo
-
-###########################
-### Personalizar imagen ###
-###########################
-
-#instalas git
-winget install --id Git.Git -e --source winget
-
-# desde hora no usas cmd, usas gitbash
-# descargas python 3.11.9
-curl -o python_installer.exe https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe && ./python_installer.exe #para ejecutarlo
-
-# guardas en el escritorio la direccion del repositorio
-cd C:\Users\administrador\Desktop
-# creas el archivo de la repo
-git clone https://github.com/jogarman/wallapop_scrapping.git
-cd wallascrap
-pip install nbconvert
-pip install pandas
-pip install selenium
-no se si hay que hacerlo -> instalar chrome enterprise: https://chromeenterprise.google/intl/ALL_ALL/browser/download/thank-you/?platform=WIN64_BUNDLE&channel=stable&usagestats=0
-no se si se puede hacer antes de instalar chrome -> pip install webdriver-manager
-pip install awscli # para interacionar con el cli de amazon para guardar en
-
-
+start > administrator > sign out --- Si no se jode
 
 
 ######### PENDIENTE:
@@ -55,10 +24,6 @@ pip install awscli # para interacionar con el cli de amazon para guardar en
 -No dejar que escrappe los comentarios que ya tiene del anterior. Ok- Por verificar
 
 
-echo "Fin del programa: $(date)" >> scraplogs.txt
 
-#######################
-### Creas la imagen ###
-#######################
-
+'C:\Program Files\Git\usr\bin\bash.exe' 
 

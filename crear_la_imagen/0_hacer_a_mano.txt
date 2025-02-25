@@ -4,6 +4,8 @@ mostrar las extensiones
 cambiar la hora
 crea acceso directo en start de task scheduler
 crea una tarea programada para
-    -
+    programa:   scrap.sh
+    argumentos: ---vacio---
+    start:      C:\Users\Administrator\Desktop\
 
 mover get_repo.sh y execute_scrap.sh al escritorio
