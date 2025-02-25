@@ -64,7 +64,7 @@ def run_01_scrapper_gopro():
 
 run_01_scrapper_gopro()
 process_and_run_jupiter("02_join_tables_gopro.ipynb")
-process_and_run_jupiter("03_feature_engineering_gopro.ipynbpy")
-#from utils.upload_files_and_folders_to_s3 import upload_files_and_folders_to_s3
-#upload_files_and_folders_to_s3()
+process_and_run_jupiter("03_feature_engineering_gopro.ipynb")
+from utils.upload_files_and_folders_to_s3 import upload_files_and_folders_to_s3
+upload_files_and_folders_to_s3()
 

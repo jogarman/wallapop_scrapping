@@ -1,5 +1,3 @@
-contraseña:
-NF%hE$NiavSw-WuN!W%@tq(2BU8w=tca
 
 ###########################
 ######### Crear AMI #######
@@ -56,9 +54,9 @@ cd C:\Users\administrador\Desktop
 
 
 ######### PENDIENTE:
-
-
-
+-Lanzar de forma recurrente. Usando una lambda?
+-Una instancia puede autoterminarse?
+-No dejar que escrappe los comentarios que ya tiene del anterior.
 
 
 #######################
