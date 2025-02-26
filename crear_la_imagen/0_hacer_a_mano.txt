@@ -8,4 +8,4 @@ crea una tarea programada para
     argumentos: ---vacio---
     start:      C:\Users\Administrator\Desktop\
 
-mover get_repo.sh y execute_scrap.sh al escritorio
+mover execute_scrap.sh al escritorio
