@@ -3,5 +3,8 @@ Meter a mano. Hay que hacer yes y esas coaas
 Install-Module -Name AWS.Tools.Installer
 Install-AWSToolsModule AWS.Tools.EC2
 
+# esto instala todo. Tarda una hora por lo menos
+Install-AWSToolsModule AWS.Tools.EC2 -CleanUp
+
 # para confirmar:
 Get-Module -ListAvailable AWS.Tools.*
