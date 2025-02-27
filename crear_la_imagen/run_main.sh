@@ -1,20 +1,29 @@
-# 0226 parece que funciona
+#!/bin/bash
+# Definir rutas
+# Los programas de python deben ejecutarse con el pwd en src, en la misma direccion que el programa
+# FUNCIONA! 0227
 
-log_loc="C:/Users/Administrator/Desktop/log.txt"
+python_log_stdout="C:/Users/Administrator/Desktop/python_log_stdout.txt"
+python_log_stderr="C:/Users/Administrator/Desktop/python_log_stderr.txt"
+main_log_loc="C:/Users/Administrator/Desktop/main_log.txt"
 
-src_loc="C:/Users/Administrator/Desktop/repo/src/"
 get_repo_loc="C:/Users/Administrator/Desktop/repo/crear_la_imagen/get_repo.sh"
+src_loc="C:/Users/Administrator/Desktop/repo/src"
 
 
-echo "$(date): initiating instance" >> "$log_loc"
-bash "$get_repo.sh"
+echo "$(date): init   instance" >> "$main_log_loc"
+bash "$get_repo_loc"
 
-echo "$(date): init gopro_scrapper" >> "$log_loc"
-python "$(src_loc)gopro_scrapper.py"
-echo "$(date): end gopro_scrapper" >> "$log_loc"
+echo "$(date): init   gopro_scrapper" >> "$python_log_stdout" 
+echo "$(date): init   gopro_scrapper" >> "$python_log_stderr" 
+cd "$src_loc" # muy importante!
+python "$src_loc/gopro_scrapper.py" >> "$python_log_stdout" 2>> "$python_log_stderr"
+echo "$(date): end    gopro_scrapper" >> "$main_log_loc"
 
-echo "$(date): init iphone_scrapper" >> "$log_loc"
-python "$(src_loc)iphone_scrapper.py"
-echo "$(date): end iphone_scrapper" >> "$log_loc"
 
-echo "$(date): finishing instance" >> "$log_loc"
+echo "$(date): init   iphone_scrapper" >> "$python_log_stdout"
+echo "$(date): init   iphone_scrapper" >> "$python_log_stderr" 
+python "$src_loc/iphone_scrapper.py" >> "$python_log_stdout" 2>> "$python_log_stderr"
+
+echo "$(date): end    iphone_scrapper" >> "$main_log_loc"
+echo "$(date): finish instance" >> "$main_log_loc"

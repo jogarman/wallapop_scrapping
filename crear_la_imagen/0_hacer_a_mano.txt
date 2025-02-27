@@ -1,11 +1,16 @@
-asocia los archivos .sh con Git Bash. Abrir con... C/Programfiles/Notepad ... .exe
-idioma en español
-mostrar las extensiones
-cambiar la hora
-crea acceso directo en start de task scheduler
-crea una tarea programada para
-    programa:   scrap.sh
-    argumentos: ---vacio---
-    start:      C:\Users\Administrator\Desktop\
+-asocia los archivos .sh con Git Bash. Abrir con... C/Programfiles/Notepad ... .exe
+-idioma en español
+-mostrar las extensiones
+-cambiar la hora
+-crea acceso directo en start de task scheduler
+-crea una tarea programada para
+    programa:       C:\Program Files\Git\bin\bash.exe
+    argumentos:     C:/Users/Administrator/Desktop/run_main.sh
+    start:          C:\Users\Administrator\Desktop
+-mover execute_scrap.sh al escritorio
 
-mover execute_scrap.sh al escritorio
+
+############################
+# Explicacion de la tarea: #
+############################
+las cosas que van en windows con \, lo que va en bash (como el script) con /
