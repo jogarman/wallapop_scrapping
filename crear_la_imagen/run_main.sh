@@ -7,7 +7,7 @@ python_log_stdout="C:/Users/Administrator/Desktop/python_log_stdout.txt"
 python_log_stderr="C:/Users/Administrator/Desktop/python_log_stderr.txt"
 main_log_loc="C:/Users/Administrator/Desktop/main_log.txt"
 
-get_repo_loc="C:/Users/Administrator/Desktop/repo/crear_la_imagen/get_repo.sh"
+get_repo_loc="C:/Users/Administrator/Desktop/get_repo.sh"
 src_loc="C:/Users/Administrator/Desktop/repo/src"
 
 

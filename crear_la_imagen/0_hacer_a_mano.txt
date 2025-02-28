@@ -7,7 +7,7 @@
     programa:       C:\Program Files\Git\bin\bash.exe
     argumentos:     C:/Users/Administrator/Desktop/run_main.sh
     start:          C:\Users\Administrator\Desktop
--mover execute_scrap.sh al escritorio
+-mover execute_scrap.sh y get_repo.sh al escritorio
 
 
 ############################
