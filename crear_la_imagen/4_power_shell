@@ -1,4 +1,4 @@
-Meter a mano. Hay que hacer yes y esas coaas
+Meter a mano. Hay que hacer yes y esas coasas
 
 Install-Module -Name AWS.Tools.Installer
 Install-AWSToolsModule AWS.Tools.EC2

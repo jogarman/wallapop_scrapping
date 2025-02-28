@@ -15,4 +15,3 @@ else
     echo "TARGET_DIR does not exist. Cloning repo..."
     git clone "$REPO_ADDRES" "$TARGET_DIR"
 fi
-

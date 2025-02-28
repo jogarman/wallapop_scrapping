@@ -6,7 +6,7 @@ import pandas as pd
 
 # 'new', 'as_good_as_new', 'good'
 def run_01_test():
-    item_name = 'iphone 15'
+    item_name = 'iphone 16'
     municipio = 'Madrid'
     estado = 'new'
     distancia = '60'
@@ -15,32 +15,8 @@ def run_01_test():
     estado = 'as_good_as_new'
     run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
-    item_name = 'iphone 15'
-    municipio = 'Madrid'
-    estado = 'new'
-    distancia = '60'
-    precio_minimo = '100'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
-    estado = 'as_good_as_new'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
-    item_name = 'gopro 13'
-    municipio = 'Madrid'
-    estado = 'new'
-    distancia = '60'
-    precio_minimo = '100'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
-    estado = 'as_good_as_new'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
-    item_name = 'gopro 13'
-    municipio = 'Madrid'
-    estado = 'new'
-    distancia = '60'
-    precio_minimo = '100'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
-    estado = 'as_good_as_new'
-    run_wallascrap(item_name, municipio, estado, distancia, precio_minimo)
 
 ######################################
 #####        02_join_tables      #####
@@ -107,13 +83,11 @@ def get_serie_with_id_to_scrap(last_feature_engineering):
     print("old_download_description", old_download_description)
     return(get_missing_records_from_csv(old_download_description, last_feature_engineering))
 
-print(get_serie_with_id_to_scrap(last_feature_engineering))
-
-"""run_01_test()
+run_01_test()
 process_and_run_jupiter('02_join_tables_iphone.ipynb')
 process_and_run_jupiter('03_feature_engineering_iphone.ipynb')
-process_and_run_jupiter('02_join_tables_gopro.ipynb')
-process_and_run_jupiter('03_feature_engineering_gopro.ipynb')"""
+process_and_run_jupiter('04_download_description.ipynb')
+process_and_run_jupiter('05_get_data_from_comments.ipynb')
 
 
 ######################################

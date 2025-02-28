@@ -19,8 +19,6 @@ start > administrator > sign out --- Si no se jode
 
 
 ######### PENDIENTE:
--Lanzar de forma recurrente. Usando una lambda? 
--Una instancia puede autoterminarse? - implementar. ver más abajo
--Ok- Por verificar- No dejar que escrappe los comentarios que ya tiene del anterior. 
+- Ver si la nueva instancia de ec2 tiene credenciales
 
 
